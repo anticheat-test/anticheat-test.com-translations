@@ -7,7 +7,7 @@ German ~ Viremox
 Italian ~ Orialeng
 Turkish ~ Tecnio
 Polosh ~ izimen
-Spanish ~ FuXiiOn
+Spanish ~ FuXiiOn, Upioti
 ```
 
 # Contributing

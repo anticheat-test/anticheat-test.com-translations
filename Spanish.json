@@ -174,10 +174,12 @@
   "command.help.description.clear": "Limpia tu inventario",
   "command.help.description.tagcolor": "Cambia tu color de nombre en el tag",
   "command.help.description.tc": "Igual que /tagcolor",
+  "command.help.description.language": "Changes server language",
 
   "gui.select": "Click para seleccionar",
 
   "credits": [
-    "FuXiiOn"
+    "FuXiiOn",
+    "Upioti"
   ]
 }
