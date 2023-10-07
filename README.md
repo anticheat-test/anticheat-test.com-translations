@@ -7,7 +7,7 @@ English ~ me
 German ~ Viremox
 Italian ~ Orialeng
 Turkish ~ Tecnio
-Polosh ~ izimen
+Polish ~ izimen
 Spanish ~ FuXiiOn, Upioti
 ```
 
