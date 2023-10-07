@@ -1,0 +1,183 @@
+{
+  "scoreboard.ping": "Ping",
+  "scoreboard.anticheat": "Anti-Hile",
+  "scoreboard.version": "Versiyon",
+  "scoreboard.cps": "CPS",
+  "scoreboard.bps": "Hız",
+  "scoreboard.balance": "Paket Bütçen",
+
+  "scoreboard.engine": "Haraket Motoru",
+  "scoreboard.engine.correct": "Haraketleriniz doğru.",
+  "scoreboard.engine.incorrect": "Haraketleriniz yanlış.",
+
+  "scoreboard.sprinting": "Koşuyorsunuz",
+  "scoreboard.sneaking": "Çömeliyorsunuz",
+  "scoreboard.attacking": "Saldırıyorsunuz",
+  "scoreboard.blocking": "Blokluyorsunuz",
+
+  "scoreboard.fight": "Dövüş",
+  "scoreboard.arena": "Arena",
+  "scoreboard.duration": "Süre",
+
+  "scoreboard.restart": "Yeniden başlat",
+
+  "yes": "Evet",
+  "no": "No",
+
+  "true": "doğru",
+  "false": "yanlış",
+
+  "tab.rank": "Rütbe",
+  "tab.online": "Çevrimiçi",
+  "tab.players": "Oyuncular",
+  "tab.player": "Oyuncu",
+  "tab.cpu": "İşlemci",
+  "tab.memory": "Hafıza",
+  "tab.tps": "TPS",
+
+  "gui.tagcolor": "Etkiket Rengi",
+  "gui.items": "Öğeler",
+  "gui.playerSettings": "Oyunucu Ayarları",
+  "gui.warps": "Warplar",
+
+  "gui.warps.click": "Işınlanmak için tıkla",
+
+  "gui.playerSettings.modify": "Ayarı %s için tıkla.",
+  "gui.playerSettings.disabled": "açmak",
+  "gui.playerSettings.enabled": "kapamak",
+
+  "gui.items.click": "Öğeyi almak için tıkla",
+
+  "gui.chest.test.item": "Chest Stealer Test Öğesi",
+
+  "gui.anticheat.title": "Anti-Hile Seçimi",
+  "gui.anticheat.vote": "Anti-Hile Oylaması",
+  "gui.anticheat.item.author": "Yazar(s)",
+  "gui.anticheat.item.description": "Açıklama",
+  "gui.anticheat.item.version": "Versiyon",
+  "gui.anticheat.item.reconnect_required": "Bu anti-hileyi seçmek için sunucuya yeniden bağlanmalısın.",
+  "gui.anticheat.item.sandbox": "Bu anti-hile sandboxlanmış.",
+  "gui.anticheat.item.sandbox.line2": "doğru çalışması için yeniden sunucuta bağlanman gerekebilir.",
+  "gui.anticheat.item.voting": "Oylar",
+
+  "player.setting.fall_damage": "Düşme Hasarı",
+  "player.setting.fall_damage_description": "Düşme hasarını aç veya kapat",
+
+  "player.setting.flying_kick": "Uçma Kicki",
+  "player.setting.flying_kick_description": "Sunucu uçuş kickini aç veya kapat",
+
+  "player.settings.notify_flying": "Uçuma Kicklerini Bana Göster",
+  "player.settings.notify_flying_description": "Uçma kickleri olduğunda bana göster veya gösterme",
+
+  "player.settings.hunger": "Açlık",
+  "player.settings.hunger_description": "Açlığı aç veya kapat",
+
+  "player.setting.external_damage": "Çevresel Hasar",
+  "player.setting.external_damage_description": "Çevresel hasarı aç veya kapat",
+
+  "player.settings.potions": "İksirler",
+  "player.settings.potions_description": "İksir etkilerini aç veya kapat",
+
+  "player.settings.hitbox": "Görsel Hitbox Hata Ayıklayıcısı",
+  "player.settings.hitbox_description": "Görsel hitboxları aç veya kapat",
+
+  "player.settings.raytrace": "Görsel RayTrace Hata Ayıklayıcısı",
+  "player.settings.raytrace.description": "Görsel raytraceleri aç veya kapat",
+
+  "player.settings.critical_debugger": "Görsel Kritik Vuruş Hata Ayıklayıcısı",
+  "player.settings.critical_debugger_description": "Görsel kritik vuruş hata ayıklayıcısını aç veya kapat",
+
+  "anticheat.selected": "Anti-Hilen değişti",
+  "anticheat.kick.requires_reconnect": "bu anti hilenin çalışması için yeniden bağlanmalısın.",
+  "anticheat.kick.requires_reconnect_warning_1": "bir önceki anti-hilen",
+  "anticheat.kick.requires_reconnect_warning_2": "yeniden bağlanmanı gerektiriyor.",
+
+  "action.title.server.position": "Server Position (S08)",
+  "action.title.server.seconds": "saniye",
+  "action.title.server.tick": "tick",
+  "action.title.server.ticks": "tickler",
+
+  "disguised.join.message": "Hala kılığın",
+
+  "pvp.enabled": "PvP aktifleştirildi.",
+  "pvp.toggled_enable": "PvP izinleri kaldırıldı.",
+  "pvp.wait": "Lütfen bekleyin...",
+  "pvp.countdown": "PvP şu kadar süre içerisinde aktifleştirilecek",
+  "pvp.countdown.second": "saniye",
+  "pvp.countdown.seconds": "saniye",
+  "pvp.reset.items": "PvP aktifleştirildiğinde bütün büyülü itemleriniz kaldırlacak. (gitmesini istemiyorsanız lütfen ayrılın)",
+  "pvp.death.message": "öldürüldü, öldüren: ",
+
+  "alerts.filter": "Anti-Hile mesajları filtreleniyor herkes için ayrı olarak!",
+
+  "join.message": "komutlar vesaire için /help'i kullanın",
+  "discord.message": "Discord daveti",
+
+  "damage.action": "Hasar verdin",
+  "damage.action.critical.hit": "[Kritik Vuruş]",
+
+  "civ.break.test": "Bloğu kurdun",
+  "civ.break.test_2": "tickinde",
+
+  "flying.kick.title": "Sunucu tarafından atılmıştın",
+  "tag.color.change": "Etiket rengin artık ",
+
+  "anticheat.vote.voted": "Oy verdiğin kişi",
+  "anticheat.vote.voted_other_player": "'ın oy verdiği kişi",
+
+  "chat.disabled": "Chat devre dışı bırakıldı",
+  "chat.throttle": "Bir daha mesaj göndermeden önce biraz bekleyin.",
+  "chat.chain": "Üst üste aynı mesajı göndermeyin.",
+
+  "anticheat.kick.title": "Anti-Hile tarafından sunucudan atılırdın",
+  "anticheat.kick.vulcan.transaction": "Transaction Gecikmesi",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan transactionlara cevap vermediğinden seni sunucudan atardı",
+
+  "anticheat.kick.vulcan.keepalive": "KeepAlive Gecikmesi",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan keepalivelara cevap vermediğinden seni sunucudan atardı",
+
+  "anticheat.kick.vulcan.ping": "Maksimum Ping",
+  "anticheat.kick.vulcan.ping_2": "Vulcan seni maksimum ping limitinden sunucudan atardı",
+
+  "anticheat.kick.vulcan.desync": "Senkronizasyon Kayboldu",
+  "anticheat.kick.vulcan.desync_2": "Vulcan seni senkronizasyonun kaybolduğundan atardı",
+
+  "chest.test.message_1": "Almak için harcadığın süre",
+  "chest.test.message_2": "",
+  "chest.test.message_3": "öğe alındı",
+  "chest.test.message_4": "öğe arasından",
+
+  "speed.test.start.title.1": "KOŞ!",
+  "speed.test.start.title.2": "Bir hız testi sonucu almak için yolun sonuna kadar koşun.",
+  "speed.test.starting": "Başlamaya kalan süre",
+  "speed.test.results": "Hız Testi Sonuçları",
+  "speed.test.average.bps": "Ortalama hız",
+  "speed.test.highest.bps": "En üst hız",
+  "speed.test.lowest.bps": "En düşük hız",
+  "speed.test.totalseconds": "Total Süre",
+
+  "scaffold.test.enter": "Blok yerleştirme aktifleştirildi.",
+  "scaffold.test.enter_2": "Öğe almak için /items'ı kullanabiliriniz.",
+  "scaffold.test.exit": "Artık blok yerleştiremezsiniz.",
+
+  "velocity.test.apply": "Velocity uygulandı",
+
+  "command.help.description.help": "Bu komut...",
+  "command.help.description.spawn": "Seni başlangıca ışınlar",
+  "command.help.description.warp": "Argüman vermemek bir arayüz açar fakat bir argüman vererek direk gidebilirsiniz",
+  "command.help.description.items": "Kullanabileceğin öğeler bunlar",
+  "command.help.description.enchant": "Bir öğeyi büyüler",
+  "command.help.description.anticheat": "Anti-Hile Seçim Arayüzü",
+  "command.help.description.ac": "/anticheat ile aynı",
+  "command.help.description.heal": "Canını ve açlığını sıfırlıyor",
+  "command.help.description.settings": "Değiştirebileceğin ayarların listesi",
+  "command.help.description.clear": "Envanterini temizler",
+  "command.help.description.tagcolor": "Etkiket rengini tab menüsünde değiştirirdi.",
+  "command.help.description.tc": "/tagcolor ile aynı",
+
+  "gui.select": "Seçmek için tıkla",
+
+  "credits": [
+    "Tecnio"
+  ]
+}
