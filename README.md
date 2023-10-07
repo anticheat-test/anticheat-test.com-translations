@@ -1,4 +1,5 @@
 # Language mappings for anticheat-test.com
+### this is still a WIP so new strings will be added
 
 ## Current Languages
 ```
