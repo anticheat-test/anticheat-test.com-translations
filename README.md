@@ -6,6 +6,8 @@ English ~ me
 German ~ Viremox
 Italian ~ Orialeng
 Turkish ~ Tecnio
+Polosh ~ izimen
+Spanish ~ FuXiiOn
 ```
 
 # Contributing
