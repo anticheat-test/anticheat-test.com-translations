@@ -100,6 +100,7 @@
   "disguised.join.message": "Nadal jesteś ukryty za",
 
   "pvp.enabled": "PvP zostało włączone",
+  "pvp.disabled": "PvP is now disabled",
   "pvp.toggled_enable": "PvP zostało włączone",
   "pvp.wait": "Odczekaj chwilę...",
   "pvp.countdown": "PvP zostanie włączone za",

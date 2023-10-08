@@ -100,9 +100,10 @@
   "disguised.join.message": "Du bist immernoch disguised als",
 
   "pvp.enabled": "PvP ist jetzt angeschalten",
+  "pvp.disabled": "PvP is now disabled",
   "pvp.toggled_enable": "PvP ist jetzt angeschalten",
-  "pvp.wait": "Bitte warte... ",
-  "pvp.countdown": "PvP wird eingeschalten in ",
+  "pvp.wait": "Bitte warte...",
+  "pvp.countdown": "PvP wird eingeschalten in",
   "pvp.countdown.second": "Sekunde",
   "pvp.countdown.seconds": "Sekunden",
   "pvp.reset.items": "Alle verzauberten Gegenstände in Ihrem Inventar werden zurückgesetzt, wenn PvP aktiviert ist (verlassen Sie, wenn Sie nicht möchten, dass sie zurückgesetzt werden).",

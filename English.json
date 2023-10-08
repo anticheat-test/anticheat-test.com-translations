@@ -100,6 +100,7 @@
   "disguised.join.message": "You are still disguised as",
 
   "pvp.enabled": "PvP is now enabled",
+  "pvp.disabled": "PvP is now disabled",
   "pvp.toggled_enable": "PvP is now enabled",
   "pvp.wait": "Please wait...",
   "pvp.countdown": "PvP will be enabled in",
