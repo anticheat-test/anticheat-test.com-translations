@@ -178,7 +178,7 @@
   "command.help.description.language": "Changes server language",
 
   "gui.select": "Seçmek için tıkla",
-  "anticheat.message.failed": "Başarısız",
+  "anticheat.message.failed": "başarısız",
 
   "credits": [
     "Tecnio"
