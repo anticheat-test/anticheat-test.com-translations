@@ -178,7 +178,8 @@
     "command.help.description.language": "Megváltoztatja a nyelvedet",
   
     "gui.select": "Klikkelj hogy kiválaszd",
-  
+    "anticheat.message.failed": "Failed",
+
     "credits": [
       "Blitoka33"
     ]

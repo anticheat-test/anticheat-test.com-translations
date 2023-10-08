@@ -178,6 +178,7 @@
   "command.help.description.language": "Đổi ngôn ngữ",
 
   "gui.select": "Nhấp để chọn",
+  "anticheat.message.failed": "Failed",
 
   "credits": [
     "thuy"

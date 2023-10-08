@@ -178,6 +178,7 @@
   "command.help.description.language": "Changes server language",
 
   "gui.select": "Klicke zum auswählen",
+  "anticheat.message.failed": "Failed",
 
   "credits": [
     "Viremox"
