@@ -178,7 +178,7 @@
   "command.help.description.language": "Changes server language",
 
   "gui.select": "Clicca per selezionare",
-  "anticheat.message.failed": "Failed",
+  "anticheat.message.failed": "failed",
 
   "credits": [
     "Orialeng"

@@ -178,7 +178,7 @@
   "command.help.description.language": "Changes server language",
 
   "gui.select": "Kliknij, aby wybrać",
-  "anticheat.message.failed": "Failed",
+  "anticheat.message.failed": "failed",
 
   "credits": [
     "izimen"

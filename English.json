@@ -178,7 +178,7 @@
   "command.help.description.language": "Changes server language",
 
   "gui.select": "Click to select",
-  "anticheat.message.failed": "Failed",
+  "anticheat.message.failed": "failed",
 
   "credits": [
     "Axis"
