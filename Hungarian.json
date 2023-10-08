@@ -87,7 +87,7 @@
     "player.settings.critical_debugger": "Visual Critical Hits Debugger",
     "player.settings.critical_debugger_description": "Ki / Be vizuális kritikál ütés debugger",
   
-    "anticheat.selected": "Váltottál: ",
+    "anticheat.selected": "Váltottál:",
     "anticheat.kick.requires_reconnect": "újra kell csatlakoznod.",
     "anticheat.kick.requires_reconnect_warning_1": "váltás erről",
     "anticheat.kick.requires_reconnect_warning_2": "újra kell csatlakoznod",

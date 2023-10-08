@@ -10,6 +10,7 @@ Turkish ~ Tecnio
 Polish ~ izimen
 Spanish ~ FuXiiOn, Upioti
 Vietnamese ~ thuy
+Hungarian ~ Blitoka33
 ```
 
 # Contributing
