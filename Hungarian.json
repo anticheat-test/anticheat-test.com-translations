@@ -1,0 +1,185 @@
+{
+    "scoreboard.ping": "Ping",
+    "scoreboard.anticheat": "Anticheat",
+    "scoreboard.version": "Verzió",
+    "scoreboard.cps": "CPS",
+    "scoreboard.bps": "BPS",
+    "scoreboard.balance": "Balance",
+  
+    "scoreboard.engine": "Engine",
+    "scoreboard.engine.correct": "Strafe helyes",
+    "scoreboard.engine.incorrect": "Strafe nem helyes",
+  
+    "scoreboard.sprinting": "Sprinting",
+    "scoreboard.sneaking": "Sneaking",
+    "scoreboard.attacking": "Attacking",
+    "scoreboard.blocking": "Blocking",
+  
+    "scoreboard.fight": "Támadás",
+    "scoreboard.arena": "Aréna",
+    "scoreboard.duration": "Idő",
+  
+    "scoreboard.restart": "Újraindítás",
+  
+    "yes": "Igen",
+    "no": "Nem",
+  
+    "true": "igaz",
+    "false": "hamis",
+  
+    "tab.rank": "Rang",
+    "tab.online": "Online",
+    "tab.players": "Játékosok",
+    "tab.player": "Játékos",
+    "tab.cpu": "CPU",
+    "tab.memory": "Memória",
+    "tab.tps": "TPS",
+  
+    "gui.tagcolor": "Tag szín",
+    "gui.items": "Itemek",
+    "gui.playerSettings": "Játékos Beállítások",
+    "gui.warps": "Warpok",
+  
+    "gui.warps.click": "Click to teleport to",
+  
+    "gui.playerSettings.modify": "Klikkelj hogy %s ezt a beállítást",
+    "gui.playerSettings.disabled": "kikapcsold",
+    "gui.playerSettings.enabled": "bekapcsold",
+  
+    "gui.items.click": "Klikkelj hogy megszerezd az itemet",
+  
+    "gui.chest.test.item": "Chest Stealer Teszt Item",
+  
+    "gui.anticheat.title": "Anticheat Választás",
+    "gui.anticheat.vote": "Anticheat Szavazás",
+    "gui.anticheat.item.author": "Author(s)",
+    "gui.anticheat.item.description": "Leírás",
+    "gui.anticheat.item.version": "Verzió",
+    "gui.anticheat.item.reconnect_required": "Ennek az anticheatnek a használatához lehetséges hogy újra kell csatlakoznod",
+    "gui.anticheat.item.sandbox": "Ez az anticheat sandboxolva van",
+    "gui.anticheat.item.sandbox.line2": "Egy relog segíthet a működésén",
+    "gui.anticheat.item.voting": "Szavazatok",
+  
+    "player.setting.fall_damage": "Fall Damage",
+    "player.setting.fall_damage_description": "be / Ki fall damage",
+  
+    "player.setting.flying_kick": "Repülés kick",
+    "player.setting.flying_kick_description": "Ki / be a repülés kicket",
+  
+    "player.settings.notify_flying": "Értesíts repülés kicken",
+    "player.settings.notify_flying_description": "Ki / be a repülés kick értesítést",
+  
+    "player.settings.hunger": "Ehezés",
+    "player.settings.hunger_description": "Ki / be éhezés",
+  
+    "player.setting.external_damage": "Külső sebzés",
+    "player.setting.external_damage_description": "Ki / be Külső sebzés",
+  
+    "player.settings.potions": "Potionök",
+    "player.settings.potions_description": "Ki / Be potion effekteket",
+  
+    "player.settings.hitbox": "Visual Hitbox Debugger",
+    "player.settings.hitbox_description": "Ki / Be vizuális hitboxok",
+  
+    "player.settings.raytrace": "Visual RayTrace Debugger",
+    "player.settings.raytrace.description": "Ki / Be vizuális raytrace debugger",
+  
+    "player.settings.critical_debugger": "Visual Critical Hits Debugger",
+    "player.settings.critical_debugger_description": "Ki / Be vizuális kritikál ütés debugger",
+  
+    "anticheat.selected": "Váltottál: ",
+    "anticheat.kick.requires_reconnect": "újra kell csatlakoznod.",
+    "anticheat.kick.requires_reconnect_warning_1": "váltás erről",
+    "anticheat.kick.requires_reconnect_warning_2": "újra kell csatlakoznod",
+  
+    "action.title.server.position": "Szerver Pozíció (S08)",
+    "action.title.server.seconds": "másodpercek",
+    "action.title.server.tick": "tick",
+    "action.title.server.ticks": "tickek",
+  
+    "disguised.join.message": "Még mindig álcázva vagy mint",
+  
+    "pvp.enabled": "PvP mostantól engedélyezve",
+    "pvp.disabled": "PvP mostantól letiltva",
+    "pvp.toggled_enable": "PvP engedélyezve",
+    "pvp.wait": "Kérlek várk...",
+    "pvp.countdown": "PvP bekapcsolva lesz",
+    "pvp.countdown.second": "másodperc",
+    "pvp.countdown.seconds": "másodpercek",
+    "pvp.reset.items": "Minden enchantolt item resetelve lesz (menj ki a területről ha nem akarod hogy resetelve legyenek)",
+    "pvp.death.message": "meg lett ölve általa",
+  
+    "alerts.filter": "Alapból az alertek szűrve vannak hogy lásd mindenki alertjét",
+  
+    "join.message": "használd a /help parancsot hogy információkért stb...",
+    "discord.message": "Discord meghívó",
+  
+    "damage.action": "Sebzést okoztál",
+    "damage.action.critical.hit": "[Critical Ütés]",
+  
+    "civ.break.test": "Kiütötted a blokkot",
+    "civ.break.test_2": "in the tick",
+  
+    "flying.kick.title": "Ki lettél volna kickelve",
+    "tag.color.change": "A tag színed az mostantól",
+  
+    "anticheat.vote.voted": "Szavztál",
+    "anticheat.vote.voted_other_player": "szavazott",
+  
+    "chat.disabled": "Chat kikapcsolva",
+    "chat.throttle": "Kérlek várj mielőtt másik üzenetet küldesz",
+    "chat.chain": "Ne láncolj üzeneteket a chatben",
+  
+    "anticheat.kick.title": "Kilettél volna kickelve",
+    "anticheat.kick.vulcan.transaction": "Transaction Timeout",
+    "anticheat.kick.vulcan.transaction_2": "Vulcan kikickelt volna téged ezért: transaction timeout",
+  
+    "anticheat.kick.vulcan.keepalive": "KeepAlive Timeout",
+    "anticheat.kick.vulcan.keepalive_2": "Vulcan kikickelt volna téged ezért: keepalive timeout",
+  
+    "anticheat.kick.vulcan.ping": "Max Ping",
+    "anticheat.kick.vulcan.ping_2": "Vulcan kikickelt volna téged ezért: max ping",
+  
+    "anticheat.kick.vulcan.desync": "Desync",
+    "anticheat.kick.vulcan.desync_2": "Vulcan kikickelt volna téged ezért: desync",
+  
+    "chest.test.message_1": "Eltartott",
+    "chest.test.message_2": "hogy kirabold a ládát",
+    "chest.test.message_3": "ennyiből",
+    "chest.test.message_4": "item lett elrabolva",
+  
+    "speed.test.start.title.1": "MENJ!",
+    "speed.test.start.title.2": "Fuss a végéig hogy megkapd az eredményt",
+    "speed.test.starting": "Indul",
+    "speed.test.results": "Sebesség teszt eredmények",
+    "speed.test.average.bps": "Átlag BPS",
+    "speed.test.highest.bps": "Legnagyobb BPS",
+    "speed.test.lowest.bps": "Legkissebb BPS",
+    "speed.test.totalseconds": "másodperc",
+  
+    "scaffold.test.enter": "Blokkok már letehetőek",
+    "scaffold.test.enter_2": "Használd a /items parancsot itemekért",
+    "scaffold.test.exit": "Blokkok már nem letehetőek",
+  
+    "velocity.test.apply": "Velocity alkalmazva",
+  
+    "command.help.description.help": "Ez a parancs...",
+    "command.help.description.spawn": "A spawnra teleportál",
+    "command.help.description.warp": "Ha nem adsz meg semmit a menübe tesz, vagy ha megadsz valamit akkor teleportál a warpba",
+    "command.help.description.items": "Item lista amit használhatsz",
+    "command.help.description.enchant": "Megengedi hogy bármilyen itemet enchantolj",
+    "command.help.description.anticheat": "Anticheat kiválasztás GUI",
+    "command.help.description.ac": "Ugyanaz mint a /anticheat",
+    "command.help.description.heal": "Reseteli az éségedet és életerődet", 
+    "command.help.description.settings": "Beállítás lista amiket ki/be kapcsolhatsz",
+    "command.help.description.clear": "Kiüríti az inventoryd",
+    "command.help.description.tagcolor": "Átváltoztatja a tag színedet",
+    "command.help.description.tc": "Ugyanaz mint a /tagcolor",
+    "command.help.description.language": "Megváltoztatja a nyelvedet",
+  
+    "gui.select": "Klikkelj hogy kiválaszd",
+  
+    "credits": [
+      "Blitoka33"
+    ]
+  }
