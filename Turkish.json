@@ -6,14 +6,14 @@
   "scoreboard.bps": "Hız",
   "scoreboard.balance": "Paket Bütçen",
 
-  "scoreboard.engine": "Haraket Motoru",
-  "scoreboard.engine.correct": "Haraketleriniz doğru.",
-  "scoreboard.engine.incorrect": "Haraketleriniz yanlış.",
+  "scoreboard.engine": "Hareket Motoru",
+  "scoreboard.engine.correct": "Hareketleriniz doğru.",
+  "scoreboard.engine.incorrect": "Hareketleriniz yanlış.",
 
-  "scoreboard.sprinting": "Koşuyorsunuz",
-  "scoreboard.sneaking": "Çömeliyorsunuz",
-  "scoreboard.attacking": "Saldırıyorsunuz",
-  "scoreboard.blocking": "Blokluyorsunuz",
+  "scoreboard.sprinting": "Koşma",
+  "scoreboard.sneaking": "Çömelme",
+  "scoreboard.attacking": "Saldırı",
+  "scoreboard.blocking": "Bloklama",
 
   "scoreboard.fight": "Dövüş",
   "scoreboard.arena": "Arena",
@@ -29,7 +29,7 @@
 
   "tab.rank": "Rütbe",
   "tab.online": "Çevrimiçi",
-  "tab.players": "Oyuncular",
+  "tab.players": "Oyuncu",
   "tab.player": "Oyuncu",
   "tab.cpu": "İşlemci",
   "tab.memory": "Hafıza",
@@ -40,7 +40,7 @@
   "gui.playerSettings": "Oyunucu Ayarları",
   "gui.warps": "Warplar",
 
-  "gui.warps.click": "Işınlanmak için tıkla",
+  "gui.warps.click": "Işınlanmak için tıkla. Hedef, ",
 
   "gui.playerSettings.modify": "Ayarı %s için tıkla.",
   "gui.playerSettings.disabled": "açmak",
