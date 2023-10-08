@@ -11,6 +11,7 @@ Polish ~ izimen
 Spanish ~ FuXiiOn, Upioti
 Vietnamese ~ thuy
 Hungarian ~ Blitoka33
+Portuguese ~ EnhacedMob
 ```
 
 # Contributing
