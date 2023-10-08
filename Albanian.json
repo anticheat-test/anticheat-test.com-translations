@@ -1,0 +1,186 @@
+{
+    "scoreboard.ping": "Ping",
+    "scoreboard.anticheat": "Kundërhile",
+    "scoreboard.version": "Version",
+    "scoreboard.cps": "KPS",
+    "scoreboard.bps": "BPS",
+    "scoreboard.balance": "Ekuilibri",
+  
+    "scoreboard.engine": "Motorri",
+    "scoreboard.engine.correct": "Strafe is correct",
+    "scoreboard.engine.incorrect": "Strafe is incorrect",
+  
+    "scoreboard.sprinting": "Duke vrapuar",
+    "scoreboard.sneaking": "Skuth",
+    "scoreboard.attacking": "Në betej",
+    "scoreboard.blocking": "Duke mbruar",
+  
+    "scoreboard.fight": "Luftë",
+    "scoreboard.arena": "Arenë",
+    "scoreboard.duration": "Kohëzgjatje",
+  
+    "scoreboard.restart": "Restart",
+  
+    "yes": "Po",
+    "no": "Jo",
+  
+    "true": "e vërtet",
+    "false": "e pavërtet",
+  
+    "tab.rank": "Renditje",
+    "tab.online": "Online",
+    "tab.players": "Lojtarë",
+    "tab.player": "Lojtar",
+    "tab.cpu": "NQP",
+    "tab.memory": "Memorje",
+    "tab.tps": "TPS",
+  
+    "gui.tagcolor": "Ngjyra e etiketës",
+    "gui.items": "Gjëra",
+    "gui.playerSettings": "Konfigurimet e përdoruesit",
+    "gui.warps": "Uorpe",
+  
+    "gui.warps.click": "Kliko për të teleportuar për në",
+  
+    "gui.playerSettings.modify": "Kliko për të %s këtë opsion",
+    "gui.playerSettings.disabled": "çaktivizuar",
+    "gui.playerSettings.enabled": "aktivizuar",
+  
+    "gui.items.click": "Kliko për të marrë këtë gjë",
+  
+    "gui.chest.test.item": "Gjë Testimi për Vjedhjen e arkut",
+  
+    "gui.anticheat.title": "Zgjedhja e kundrahiles",
+    "gui.anticheat.vote": "Zgjedhja e kundrahiles",
+    "gui.anticheat.item.author": "Autor(ët)",
+    "gui.anticheat.item.description": "Përshkrim",
+    "gui.anticheat.item.version": "Version",
+    "gui.anticheat.item.reconnect_required": "Zgjedhja e kësaj kundrahileje do kërkoj çlidhjen me serverin",
+    "gui.anticheat.item.sandbox": "Kjo kundrahile është e sandboks-uar",
+    "gui.anticheat.item.sandbox.line2": "një rilidhje mund të jetë e domosdoshme.",
+    "gui.anticheat.item.voting": "Vota",
+  
+    "player.setting.fall_damage": "Lëndimi i rënjes",
+    "player.setting.fall_damage_description": "Aktivizo / çaktivizo lëndim rënjeje",
+  
+    "player.setting.flying_kick": "Shqelm fluturimi",
+    "player.setting.flying_kick_description": "Aktivizo / çaktivizo shqelmën e fluturimit",
+  
+    "player.settings.notify_flying": "Njoftim mbi shqelmën e fluturimit",
+    "player.settings.notify_flying_description": "Aktivizo / çaktivizo njoftimin mbi shqelmën e fluturimit",
+  
+    "player.settings.hunger": "Uri",
+    "player.settings.hunger_description": "Aktivizo / çaktivizo uri",
+  
+    "player.setting.external_damage": "Lëndim i jashtëm",
+    "player.setting.external_damage_description": "Aktivizo / çaktivizo lëndimin e jashtëm",
+  
+    "player.settings.potions": "Ilaçe",
+    "player.settings.potions_description": "Aktivizo / çaktivizo ilaçe",
+  
+    "player.settings.hitbox": "Çinsektim vizual kuti-lëndimi",
+    "player.settings.hitbox_description": "Aktivizo / çaktivizo kutit-lëndimi vizual",
+  
+    "player.settings.raytrace": "Çinsektim vizual RayTrace",
+    "player.settings.raytrace.description": "Aktivizo / çaktivizo Çinsektim vizual RayTrace",
+  
+    "player.settings.critical_debugger": "Çinsektim vizual të lëndimeve kritikale",
+    "player.settings.critical_debugger_description": "Aktivizo / çaktivizo Çinsektim vizual të lëndimeve kritikale",
+  
+    "anticheat.selected": "Keni kaluar te",
+    "anticheat.kick.requires_reconnect": "nevojitë që ju rilidheni për të punuar plotësisht.",
+    "anticheat.kick.requires_reconnect_warning_1": "duke kaluar nga",
+    "anticheat.kick.requires_reconnect_warning_2": "nevojitë që ju rilidheni.",
+  
+    "action.title.server.position": "Vendndodhje serveri (S08)",
+    "action.title.server.seconds": "sekonda",
+    "action.title.server.tick": "kalim",
+    "action.title.server.ticks": "kalime",
+  
+    "disguised.join.message": "Jeni akoma të kamoflazhuar si",
+  
+    "pvp.enabled": "LkL u aktivizua",
+    "pvp.disabled": "LkL u çaktivizua",
+    "pvp.toggled_enable": "LkL u aktivizua",
+    "pvp.wait": "Ju lutem prisni...",
+    "pvp.countdown": "LkL do të aktivizohet në",
+    "pvp.countdown.second": "sekond",
+    "pvp.countdown.seconds": "sekonda",
+    "pvp.reset.items": "Të gjithë sendet brënda arkut tuaj do të fshihen kur të aktivizohet LvL-ja.",
+    "pvp.death.message": "u vra nga",
+  
+    "alerts.filter": "Njoftimet janë të filtruara për të parë tipin e njoftimit të të gjithëve.",
+  
+    "join.message": "përdorni /ndihmë për urdhëra dhe gjëra",
+    "discord.message": "Ftesë discord-i",
+  
+    "damage.action": "Ju e lënduat",
+    "damage.action.critical.hit": "[Lëndim kritikal]",
+  
+    "civ.break.test": "Ju e prishët blloqin",
+    "civ.break.test_2": "në kalimin",
+  
+    "flying.kick.title": "Ju do të kishit ngrënë një shqelm",
+    "tag.color.change": "Ngjyra e etiketës suaj është",
+  
+    "anticheat.vote.voted": "Ju votuat për",
+    "anticheat.vote.voted_other_player": "votuar për",
+  
+    "chat.disabled": "Diskutimi është i çaktivizuar",
+    "chat.throttle": "Ju lutem prisni përpara se të dërgoni një mesazh tjetër.",
+    "chat.chain": "Mos lidhni mesazhe sëbashku në diskutim.",
+  
+    "anticheat.kick.title": "Ju do të kishit ngrënë një shqelm",
+    "anticheat.kick.vulcan.transaction": "Kohëjashtë transaksioni",
+    "anticheat.kick.vulcan.transaction_2": "Vullkani do të të kishte futur një shqelm",
+  
+    "anticheat.kick.vulcan.keepalive": "Kohëjashtë mbajgjallë",
+    "anticheat.kick.vulcan.keepalive_2": "Vullkani do të të kishte futur një shqelm",
+  
+    "anticheat.kick.vulcan.ping": "Ping-u maksimal",
+    "anticheat.kick.vulcan.ping_2": "Vullkani do të të kishte futur një shqelm për ping-un maksimal",
+  
+    "anticheat.kick.vulcan.desync": "Çsinkronizim",
+    "anticheat.kick.vulcan.desync_2": "Vullkani do të të kishte futur një shqelm për Çsinkronizim",
+  
+    "chest.test.message_1": "U desh",
+    "chest.test.message_2": "për të vjedhur arkun",
+    "chest.test.message_3": "nga",
+    "chest.test.message_4": "sende që janë marrë",
+  
+    "speed.test.start.title.1": "JEPI!",
+    "speed.test.start.title.2": "Vrapo deri te fundi i testi për të marrë një rezultat",
+    "speed.test.starting": "Duke filluar për",
+    "speed.test.results": "Rezultatet e testit së shpejtësisë",
+    "speed.test.average.bps": "BPS-i normal",
+    "speed.test.highest.bps": "BPS-i më i lartë",
+    "speed.test.lowest.bps": "BPS-i më i ulët",
+    "speed.test.totalseconds": "Sekondat totale",
+  
+    "scaffold.test.enter": "Blloqet tani mund të vendosen përreth",
+    "scaffold.test.enter_2": "Përdorni /sende për të marrë sende",
+    "scaffold.test.exit": "Blloqet nuk mund të vendosen më përreth",
+  
+    "velocity.test.apply": "U aplikua velositi",
+  
+    "command.help.description.help": "Ky urdhër...",
+    "command.help.description.spawn": "Ju teleporton në vendndodhje e lindjes",
+    "command.help.description.warp": "Asnjë debat do hapi IGP-në, ose mund të shtoni një debat për të teleportuar",
+    "command.help.description.items": "List së sendeve që mund të përdorni",
+    "command.help.description.enchant": "Ju lejonë të ençantoni çdo send",
+    "command.help.description.anticheat": "IGP së zgjedhjes së kundrahiles",
+    "command.help.description.ac": "Njësoj si /kundërhile",
+    "command.help.description.heal": "Resets your food level and health",
+    "command.help.description.settings": "List të opsioneve që ju mund të aktivozoni/çaktivizoni",
+    "command.help.description.clear": "Fshinë arkën tuaj",
+    "command.help.description.tagcolor": "Ndyrshon ngjyrën së emrit suaj në tab",
+    "command.help.description.tc": "Njësoj si /ngjyrëetikete",
+    "command.help.description.language": "Ndryshon gjuhën e server-it",
+  
+    "gui.select": "Klikoni për të zgjedhur",
+    "anticheat.message.failed": "S'punoj",
+  
+    "credits": [
+        "Hydrogen"
+    ]
+}
