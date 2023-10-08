@@ -40,7 +40,7 @@
   "gui.playerSettings": "Oyunucu Ayarları",
   "gui.warps": "Warplar",
 
-  "gui.warps.click": "Işınlanmak için tıkla. Hedef, ",
+  "gui.warps.click": "Işınlanmak için tıkla. Hedef,",
 
   "gui.playerSettings.modify": "Ayarı %s için tıkla.",
   "gui.playerSettings.disabled": "açmak",
@@ -178,7 +178,7 @@
   "command.help.description.language": "Changes server language",
 
   "gui.select": "Seçmek için tıkla",
-  "anticheat.message.failed": "Failed",
+  "anticheat.message.failed": "Başarısız",
 
   "credits": [
     "Tecnio"
