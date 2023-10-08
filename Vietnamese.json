@@ -1,0 +1,185 @@
+{
+  "scoreboard.ping": "Ping",
+  "scoreboard.anticheat": "Anticheat",
+  "scoreboard.version": "Version",
+  "scoreboard.cps": "CPS",
+  "scoreboard.bps": "BPS",
+  "scoreboard.balance": "Balance",
+
+  "scoreboard.engine": "Engine",
+  "scoreboard.engine.correct": "Strafe is correct",
+  "scoreboard.engine.incorrect": "Strafe is incorrect",
+
+  "scoreboard.sprinting": "Sprinting",
+  "scoreboard.sneaking": "Sneaking",
+  "scoreboard.attacking": "Attacking",
+  "scoreboard.blocking": "Blocking",
+
+  "scoreboard.fight": "Fight",
+  "scoreboard.arena": "Arena",
+  "scoreboard.duration": "Duration",
+
+  "scoreboard.restart": "Restart",
+
+  "yes": "Yes",
+  "no": "No",
+
+  "true": "true",
+  "false": "false",
+
+  "tab.rank": "Rank",
+  "tab.online": "Online",
+  "tab.players": "Players",
+  "tab.player": "Player",
+  "tab.cpu": "CPU",
+  "tab.memory": "Memory",
+  "tab.tps": "TPS",
+
+  "gui.tagcolor": "Tag Color",
+  "gui.items": "Items",
+  "gui.playerSettings": "Player Settings",
+  "gui.warps": "Warps",
+
+  "gui.warps.click": "Click to teleport to",
+
+  "gui.playerSettings.modify": "Click to %s this setting",
+  "gui.playerSettings.disabled": "disable",
+  "gui.playerSettings.enabled": "enable",
+
+  "gui.items.click": "Click to get this item",
+
+  "gui.chest.test.item": "Chest Stealer Test Item",
+
+  "gui.anticheat.title": "Anticheat Selection",
+  "gui.anticheat.vote": "Anticheat Voting",
+  "gui.anticheat.item.author": "Author(s)",
+  "gui.anticheat.item.description": "Description",
+  "gui.anticheat.item.version": "Version",
+  "gui.anticheat.item.reconnect_required": "Selecting this anticheat will require you to reconnect",
+  "gui.anticheat.item.sandbox": "This anticheat is sandboxed",
+  "gui.anticheat.item.sandbox.line2": "a relog might be required for it function correctly.",
+  "gui.anticheat.item.voting": "Votes",
+
+  "player.setting.fall_damage": "Fall Damage",
+  "player.setting.fall_damage_description": "Enable / Disable fall damage",
+
+  "player.setting.flying_kick": "Flying kick",
+  "player.setting.flying_kick_description": "Enable / Disable the server flying kick",
+
+  "player.settings.notify_flying": "Notify on flying kick",
+  "player.settings.notify_flying_description": "Enable / Disable the notification for when you get kicked for flying kick",
+
+  "player.settings.hunger": "Hunger",
+  "player.settings.hunger_description": "Enable / Disable hunger",
+
+  "player.setting.external_damage": "External Damage",
+  "player.setting.external_damage_description": "Enable / Disable external damage",
+
+  "player.settings.potions": "Potions",
+  "player.settings.potions_description": "Enable / Disable potion effects",
+
+  "player.settings.hitbox": "Visual Hitbox Debugger",
+  "player.settings.hitbox_description": "Enable / Disable visual hit-boxes",
+
+  "player.settings.raytrace": "Visual RayTrace Debugger",
+  "player.settings.raytrace.description": "Enable / Disable visual raytrace debugger",
+
+  "player.settings.critical_debugger": "Visual Critical Hits Debugger",
+  "player.settings.critical_debugger_description": "Enable / Disable visual criticals hit debugger",
+
+  "anticheat.selected": "You have switched to",
+  "anticheat.kick.requires_reconnect": "requires you to reconnect for it to fully work.",
+  "anticheat.kick.requires_reconnect_warning_1": "switching from",
+  "anticheat.kick.requires_reconnect_warning_2": "requires you to reconnect.",
+
+  "action.title.server.position": "Server Position (S08)",
+  "action.title.server.seconds": "seconds",
+  "action.title.server.tick": "tick",
+  "action.title.server.ticks": "ticks",
+
+  "disguised.join.message": "You are still disguised as",
+
+  "pvp.enabled": "PvP is now enabled",
+  "pvp.disabled": "PvP is now disabled",
+  "pvp.toggled_enable": "PvP is now enabled",
+  "pvp.wait": "Please wait...",
+  "pvp.countdown": "PvP will be enabled in",
+  "pvp.countdown.second": "second",
+  "pvp.countdown.seconds": "seconds",
+  "pvp.reset.items": "All enchanted items inside your inventory will be reset when pvp is enabled (leave if you don't want them to be reset)",
+  "pvp.death.message": "was killed by",
+
+  "alerts.filter": "Alerts are filtered by default to see everyone's alerts type",
+
+  "join.message": "use /help for commands and stuff",
+  "discord.message": "Discord invite",
+
+  "damage.action": "You dealt the damage",
+  "damage.action.critical.hit": "[Critical Hit]",
+
+  "civ.break.test": "You broke the block",
+  "civ.break.test_2": "in the tick",
+
+  "flying.kick.title": "You would of been kicked",
+  "tag.color.change": "Your tag color is now",
+
+  "anticheat.vote.voted": "You voted for",
+  "anticheat.vote.voted_other_player": "voted for",
+
+  "chat.disabled": "Chat is disabled",
+  "chat.throttle": "Please wait before sending another message.",
+  "chat.chain": "Do not chain messages in chat.",
+
+  "anticheat.kick.title": "You would of been kicked",
+  "anticheat.kick.vulcan.transaction": "Transaction Timeout",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan would of kicked you for transaction timeout",
+
+  "anticheat.kick.vulcan.keepalive": "KeepAlive Timeout",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan would of kicked you for keepalive timeout",
+
+  "anticheat.kick.vulcan.ping": "Max Ping",
+  "anticheat.kick.vulcan.ping_2": "Vulcan would of kicked you for max ping",
+
+  "anticheat.kick.vulcan.desync": "Desync",
+  "anticheat.kick.vulcan.desync_2": "Vulcan would of kicked you for desync",
+
+  "chest.test.message_1": "It took",
+  "chest.test.message_2": "to steal the chest",
+  "chest.test.message_3": "out of",
+  "chest.test.message_4": "items have been taken",
+
+  "speed.test.start.title.1": "GO!",
+  "speed.test.start.title.2": "Run to the end of the speed test to get a result",
+  "speed.test.starting": "Starting in",
+  "speed.test.results": "Speed Test Results",
+  "speed.test.average.bps": "Average BPS",
+  "speed.test.highest.bps": "Highest BPS",
+  "speed.test.lowest.bps": "Lowest BPS",
+  "speed.test.totalseconds": "Total Seconds",
+
+  "scaffold.test.enter": "Blocks are now placeable",
+  "scaffold.test.enter_2": "Use /items to get items",
+  "scaffold.test.exit": "Blocks are no-longer placeable",
+
+  "velocity.test.apply": "Applied velocity",
+
+  "command.help.description.help": "This command...",
+  "command.help.description.spawn": "Teleports you to spawn",
+  "command.help.description.warp": "No arguments will open a GUI, or you can append an argument to teleport to",
+  "command.help.description.items": "List of items you can use",
+  "command.help.description.enchant": "Allows you to enchant any item",
+  "command.help.description.anticheat": "Anticheat selection GUI",
+  "command.help.description.ac": "Same as /anticheat",
+  "command.help.description.heal": "Resets your food level and health",
+  "command.help.description.settings": "List of settings you can toggle on and off",
+  "command.help.description.clear": "Clears your inventory",
+  "command.help.description.tagcolor": "Changes your name color in tab",
+  "command.help.description.tc": "Same as /tagcolor",
+  "command.help.description.language": "Changes server language",
+
+  "gui.select": "Click to select",
+
+  "credits": [
+    "Axis"
+  ]
+}
