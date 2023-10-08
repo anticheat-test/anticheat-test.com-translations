@@ -9,6 +9,7 @@ Italian ~ Orialeng
 Turkish ~ Tecnio
 Polish ~ izimen
 Spanish ~ FuXiiOn, Upioti
+Vietnamese ~ thuy
 ```
 
 # Contributing
