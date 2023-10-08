@@ -1,0 +1,186 @@
+{
+  "scoreboard.ping": "Ping",
+  "scoreboard.anticheat": "Anticheat",
+  "scoreboard.version": "Phiên bản",
+  "scoreboard.cps": "CPS",
+  "scoreboard.bps": "BPS",
+  "scoreboard.balance": "Balance",
+
+  "scoreboard.engine": "Engine",
+  "scoreboard.engine.correct": "Strafe đúng",
+  "scoreboard.engine.incorrect": "Strafe không được đúng",
+
+  "scoreboard.sprinting": "Đang chạy",
+  "scoreboard.sneaking": "Đang đi lén lút",
+  "scoreboard.attacking": "Đang tấn công",
+  "scoreboard.blocking": "Đang chặn đòn",
+
+  "scoreboard.fight": "Chiến đấu",
+  "scoreboard.arena": "Arena",
+  "scoreboard.duration": "Thời gian",
+
+  "scoreboard.restart": "Khởi động lại",
+
+  "yes": "Có",
+  "no": "Không",
+
+  "true": "true",
+  "false": "false",
+
+  "tab.rank": "Hạng",
+  "tab.online": "Đang trực tuyến",
+  "tab.players": "Lượng người chơi",
+  "tab.player": "Người chơi",
+  "tab.cpu": "CPU",
+  "tab.memory": "Memory",
+  "tab.tps": "TPS",
+
+  "gui.tagcolor": "Màu tag",
+  "gui.items": "Items",
+  "gui.playerSettings": "Cài đặt người chơi",
+  "gui.warps": "Dịch chuyển",
+
+  "gui.warps.click": "Dịch chuyển đến",
+
+  "gui.playerSettings.modify": "Nhấp để %s cài đặt này",
+  "gui.playerSettings.disabled": "tắt",
+  "gui.playerSettings.enabled": "bật",
+
+  "gui.items.click": "Nhấp để nhận item này",
+
+  "gui.chest.test.item": "Chest Stealer Test Item",
+
+  "gui.anticheat.title": "Chọn Anticheat",
+  "gui.anticheat.vote": "Bầu chọn Anticheat",
+  "gui.anticheat.item.author": "Tác giả",
+  "gui.anticheat.item.description": "Mô tả",
+  "gui.anticheat.item.version": "Phiên bản",
+  "gui.anticheat.item.reconnect_required": "Nếu chọn Anticheat này thì bạn phải kết nối lại",
+  "gui.anticheat.item.sandbox": "Anticheat này đang được thử nghiệm (sandboxed)",
+  "gui.anticheat.item.sandbox.line2": "kết nối lại có thể cần thiết để cho function này hoạt động đúng cách",
+  "gui.anticheat.item.voting": "Danh sách/Số lượng bầu chọn",
+
+  "player.setting.fall_damage": "Sát thương rơi",
+  "player.setting.fall_damage_description": "Bật/tắt sát thương rơi",
+
+  "player.setting.flying_kick": "Kick vì bay",
+  "player.setting.flying_kick_description": "Bật/tắt kick vì bay do phần mềm của server",
+
+  "player.settings.notify_flying": "Thống báo về kick vì bay",
+  "player.settings.notify_flying_description": "Enable / Disable thông báo về khi (lúc/nếu) bạn bị kick vì bay do phần mềm của server",
+
+  "player.settings.hunger": "Thanh đói",
+  "player.settings.hunger_description": "Bật/tắt thanh đói",
+
+  "player.setting.external_damage": "Sát thương bên ngoài (từ dung nham, đuối nước v.v)",
+  "player.setting.external_damage_description": "Bật/tắt sát thương bên ngoài",
+
+  "player.settings.potions": "Thuốc (potion)",
+  "player.settings.potions_description": "Bật/tắt khả năng của thuốc (potion)",
+
+  "player.settings.hitbox": "Gỡ lỗi hitbox",
+  "player.settings.hitbox_description": "Bật/tắt gỡ lỗi hitbox",
+
+  "player.settings.raytrace": "Gỡ lỗi raytrace",
+  "player.settings.raytrace.description": "Bật/tắt gỡ lỗi raytrace",
+
+  "player.settings.critical_debugger": "Gỡ lỗi sát thương chí mạng",
+  "player.settings.critical_debugger_description": "Bật/tắt gỡ lỗi sát thương chí mạng",
+
+  "anticheat.selected": "Bạn đã chuyển về",
+  "anticheat.kick.requires_reconnect": "cần phải kết nối lại để cho nó hoạt động hoàn toàn.",
+  "anticheat.kick.requires_reconnect_warning_1": "chuyền về",
+  "anticheat.kick.requires_reconnect_warning_2": "cần phải kết nối lại",
+
+  "action.title.server.position": "Server Position (S08)",
+  "action.title.server.seconds": "giây",
+  "action.title.server.tick": "tick",
+  "action.title.server.ticks": "ticks",
+
+  "disguised.join.message": "You are still disguised as",
+
+  "pvp.enabled": "PvP đã được bật",
+  "pvp.disabled": "PvP đã được tắt",
+  "pvp.toggled_enable": "PvP đã được bật",
+  "pvp.wait": "Please wait...",
+  "pvp.countdown": "PvP sẽ được bật vào ",
+  "pvp.countdown.second": "giây",
+  "pvp.countdown.seconds": "giây",
+  "pvp.reset.items": "Mọi item đã được enchant sẽ bị reset khi pvp đã được bật (hãy ra ngoài nếu bạn không muốn chúng bị reset)",
+  "pvp.death.message": "đã bị giết bởi",
+
+  "alerts.filter": "Alerts are filtered by default to see everyone's alerts type",
+
+  "join.message": "dùng /help để xem danh sách lệnh và những thứ khác",
+  "discord.message": "Discord invite",
+
+  "damage.action": "Sát thương bạn gây ra",
+  "damage.action.critical.hit": "[Sát thương chí mạng]",
+
+  "civ.break.test": "Bạn đã đập block",
+  "civ.break.test_2": "vào tick",
+
+  "flying.kick.title": "Bạn sẽ bị kick vì",
+  "tag.color.change": "Màu tag của bạn giờ là",
+
+  "anticheat.vote.voted": "Bạn đã vote cho",
+  "anticheat.vote.voted_other_player": "đã vote",
+
+  "chat.disabled": "Chat đã bị tắt",
+  "chat.throttle": "Vui lòng đợi trước khi nhắn một tin nhắn khác.",
+  "chat.chain": "Không được chuỗi tin nhắn trên chat.",
+
+  "anticheat.kick.title": "Bạn sẽ bị kick vì",
+  "anticheat.kick.vulcan.transaction": "Transaction Timeout",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan sẽ kick bạn vì transaction timeout (nếu bạn ở server khác)",
+
+  "anticheat.kick.vulcan.keepalive": "KeepAlive Timeout",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan sẽ kick bạn vì keepalive timeout (nếu bạn ở server khác)",
+
+  "anticheat.kick.vulcan.ping": "Max Ping",
+  "anticheat.kick.vulcan.ping_2": "Vulcan sẽ kick bạn vì đạt mức ping tối đa (nếu bạn ở server khác)",
+
+  "anticheat.kick.vulcan.desync": "Desync",
+  "anticheat.kick.vulcan.desync_2": "Vulcan sẽ kick bạn vì bạn desync (nếu bạn ở server khác)",
+
+  "chest.test.message_1": "Bạn tốn",
+  "chest.test.message_2": "để steal cái chest này",
+  "chest.test.message_3": "trên",
+  "chest.test.message_4": "items đã bị lấy",
+
+  "speed.test.start.title.1": "BẮT ĐẦU!",
+  "speed.test.start.title.2": "Chạy đến đoạn cuối để nhận kết quả",
+  "speed.test.starting": "Starting in",
+  "speed.test.results": "Kết quả về thử nghiệm tốc độ",
+  "speed.test.average.bps": "BPS Trung bình (Block trên giây)",
+  "speed.test.highest.bps": "BPS Cao nhất",
+  "speed.test.lowest.bps": "BPS Thấp nhất",
+  "speed.test.totalseconds": "Thời gian tổng cộng là",
+
+  "scaffold.test.enter": "Bạn giờ có thể đặt block.",
+  "scaffold.test.enter_2": "Dùng /items để lấy item",
+  "scaffold.test.exit": "Bạn không thể đặt block được nữa.",
+
+  "velocity.test.apply": "Applied velocity",
+
+  "command.help.description.help": "Lệnh này...",
+  "command.help.description.spawn": "Dịch chuyển bạn về spawn",
+  "command.help.description.warp": "Không điền gì hết sẽ mở GUI, hoặc bạn có thể điền địa chỉ để dịch chuyển đến khu đó",
+  "command.help.description.items": "Danh sách item bạn có thể sự dụng",
+  "command.help.description.enchant": "Cho phép bạn enchant một item nào đó",
+  "command.help.description.anticheat": "Lựa chọn anticheat qua GUI",
+  "command.help.description.ac": "Tương tự như /anticheat",
+  "command.help.description.heal": "Reset thanh máu và thanh đói",
+  "command.help.description.settings": "Danh sách cài đặt bạn có thể tắt hay bật",
+  "command.help.description.clear": "Dọn sạch inventory của bạn",
+  "command.help.description.tagcolor": "Đổi màu tên của bạn trên tablist",
+  "command.help.description.tc": "Tương tự như /tagcolor",
+  "command.help.description.language": "Đổi ngôn ngữ",
+
+  "gui.select": "Nhấp để chọn",
+
+  "credits": [
+    "Axis",
+    "thuy"
+  ]
+}
