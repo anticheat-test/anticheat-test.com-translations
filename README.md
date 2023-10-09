@@ -12,6 +12,8 @@ Spanish ~ FuXiiOn, Upioti
 Vietnamese ~ thuy
 Hungarian ~ Blitoka33
 Portuguese ~ EnhacedMob
+Albanian ~ Hydrogen
+Korean ~ chs12345
 ```
 
 # Contributing
