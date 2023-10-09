@@ -141,7 +141,7 @@
   "anticheat.kick.vulcan.ping_2": "Vulcan sẽ kick bạn vì đạt mức ping tối đa (nếu bạn ở server khác)",
 
   "anticheat.kick.vulcan.desync": "Desync",
-  "anticheat.kick.vulcan.desync_2": "Vulcan sẽ kick bạn vì client của bạn không được đồng bộ với server! (nếu bạn ở server khác)",
+  "anticheat.kick.vulcan.desync_2": "Vulcan sẽ kick bạn vì client của bạn không đồng bộ với server! (nếu bạn ở server khác)",
 
   "chest.test.message_1": "Bạn tốn",
   "chest.test.message_2": "để lụm đồ chest này",
