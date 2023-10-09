@@ -10,10 +10,10 @@
   "scoreboard.engine.correct": "Strafe đúng",
   "scoreboard.engine.incorrect": "Strafe không được đúng",
 
-  "scoreboard.sprinting": "Đang chạy",
-  "scoreboard.sneaking": "Đang đi lén lút",
-  "scoreboard.attacking": "Đang tấn công",
-  "scoreboard.blocking": "Đang chặn đòn",
+  "scoreboard.sprinting": "Chạy",
+  "scoreboard.sneaking": "Đi rón rén",
+  "scoreboard.attacking": "Tấn công",
+  "scoreboard.blocking": "Chặn đòn",
 
   "scoreboard.fight": "Chiến đấu",
   "scoreboard.arena": "Arena",
@@ -29,13 +29,13 @@
 
   "tab.rank": "Hạng",
   "tab.online": "Đang trực tuyến",
-  "tab.players": "Lượng người chơi",
+  "tab.players": "người chơi",
   "tab.player": "Người chơi",
   "tab.cpu": "CPU",
   "tab.memory": "Memory",
   "tab.tps": "TPS",
 
-  "gui.tagcolor": "Màu tag",
+  "gui.tagcolor": "Đặt màu tên",
   "gui.items": "Items",
   "gui.playerSettings": "Cài đặt người chơi",
   "gui.warps": "Dịch chuyển",
@@ -56,9 +56,9 @@
   "gui.anticheat.item.description": "Mô tả",
   "gui.anticheat.item.version": "Phiên bản",
   "gui.anticheat.item.reconnect_required": "Nếu chọn Anticheat này thì bạn phải kết nối lại",
-  "gui.anticheat.item.sandbox": "Anticheat này đang được thử nghiệm (sandboxed)",
-  "gui.anticheat.item.sandbox.line2": "kết nối lại có thể cần thiết để cho function này hoạt động đúng cách",
-  "gui.anticheat.item.voting": "Danh sách/Số lượng bầu chọn",
+  "gui.anticheat.item.sandbox": "Anticheat này đang trong quá trình thử nghiệm (sandboxed)",
+  "gui.anticheat.item.sandbox.line2": "Bạn phải kết nối lại để cho anticheat này hoạt động đúng cách.",
+  "gui.anticheat.item.voting": "Số lượng bầu chọn",
 
   "player.setting.fall_damage": "Sát thương rơi",
   "player.setting.fall_damage_description": "Bật/tắt sát thương rơi",
@@ -102,8 +102,8 @@
   "pvp.enabled": "PvP đã được bật",
   "pvp.disabled": "PvP đã được tắt",
   "pvp.toggled_enable": "PvP đã được bật",
-  "pvp.wait": "Please wait...",
-  "pvp.countdown": "PvP sẽ được bật vào ",
+  "pvp.wait": "Vui lòng đợi...",
+  "pvp.countdown": "PvP sẽ được bật vào",
   "pvp.countdown.second": "giây",
   "pvp.countdown.seconds": "giây",
   "pvp.reset.items": "Mọi item đã được enchant sẽ bị reset khi pvp đã được bật (hãy ra ngoài nếu bạn không muốn chúng bị reset)",
@@ -117,8 +117,8 @@
   "damage.action": "Sát thương bạn gây ra",
   "damage.action.critical.hit": "[Sát thương chí mạng]",
 
-  "civ.break.test": "Bạn đã đập block",
-  "civ.break.test_2": "vào tick",
+  "civ.break.test": "Bạn đã đập xong block",
+  "civ.break.test_2": "vào tick thứ",
 
   "flying.kick.title": "Bạn sẽ bị kick vì",
   "tag.color.change": "Màu tag của bạn giờ là",
@@ -141,17 +141,17 @@
   "anticheat.kick.vulcan.ping_2": "Vulcan sẽ kick bạn vì đạt mức ping tối đa (nếu bạn ở server khác)",
 
   "anticheat.kick.vulcan.desync": "Desync",
-  "anticheat.kick.vulcan.desync_2": "Vulcan sẽ kick bạn vì bạn desync (nếu bạn ở server khác)",
+  "anticheat.kick.vulcan.desync_2": "Vulcan sẽ kick bạn vì client của bạn không đồng bộ với server! (nếu bạn ở server khác)",
 
   "chest.test.message_1": "Bạn tốn",
-  "chest.test.message_2": "để steal cái chest này",
+  "chest.test.message_2": "để lụm đồ chest này",
   "chest.test.message_3": "trên",
   "chest.test.message_4": "items đã bị lấy",
 
   "speed.test.start.title.1": "BẮT ĐẦU!",
-  "speed.test.start.title.2": "Chạy đến đoạn cuối để nhận kết quả",
-  "speed.test.starting": "Starting in",
-  "speed.test.results": "Kết quả về thử nghiệm tốc độ",
+  "speed.test.start.title.2": "Chạy đến đoạn cuối để nhận kết quả về tốc độ của bạn",
+  "speed.test.starting": "Bắt đầu vào",
+  "speed.test.results": "Kết quả về lần thử nghiệm tốc độ di chuyển lần này:",
   "speed.test.average.bps": "BPS Trung bình (Block trên giây)",
   "speed.test.highest.bps": "BPS Cao nhất",
   "speed.test.lowest.bps": "BPS Thấp nhất",
@@ -178,7 +178,7 @@
   "command.help.description.language": "Đổi ngôn ngữ",
 
   "gui.select": "Nhấp để chọn",
-  "anticheat.message.failed": "failed",
+  "anticheat.message.failed": "lỗi",
 
   "credits": [
     "thuy"
