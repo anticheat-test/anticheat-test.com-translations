@@ -1,0 +1,186 @@
+{
+  "scoreboard.ping": "핑",
+  "scoreboard.anticheat": "안티치트",
+  "scoreboard.version": "버전",
+  "scoreboard.cps": "초당 클릭수",
+  "scoreboard.bps": "속도",
+  "scoreboard.balance": "밸런스",
+
+  "scoreboard.engine": "엔진",
+  "scoreboard.engine.correct": "스트레이프가 정확합니다",
+  "scoreboard.engine.incorrect": "스트레이프가 부정확합니다",
+
+  "scoreboard.sprinting": "달리기",
+  "scoreboard.sneaking": "웅크리기",
+  "scoreboard.attacking": "공격",
+  "scoreboard.blocking": "방어",
+
+  "scoreboard.fight": "싸움",
+  "scoreboard.arena": "투기장",
+  "scoreboard.duration": "Duration",
+
+  "scoreboard.restart": "재시작",
+
+  "yes": "네",
+  "no": "아니요",
+
+  "true": "참",
+  "false": "거짓",
+
+  "tab.rank": "랭크",
+  "tab.online": "온라인",
+  "tab.players": "플레이어들",
+  "tab.player": "플레이어",
+  "tab.cpu": "중앙 처리 장치 사용량",
+  "tab.memory": "메모리 사용량",
+  "tab.tps": "초당 틱",
+
+  "gui.tagcolor": "이름표 색상",
+  "gui.items": "아이템",
+  "gui.playerSettings": "플레이어 설정",
+  "gui.warps": "워프",
+
+  "gui.warps.click": "클릭하여 다음 위치로 순간이동",
+
+  "gui.playerSettings.modify": "이 설정을 %s 하려면 클릭하세요",
+  "gui.playerSettings.disabled": "비활성화",
+  "gui.playerSettings.enabled": "활성화",
+
+  "gui.items.click": "이 아이템을 얻으려면 클릭하세요",
+
+  "gui.chest.test.item": "Chest Stealer 테스트용 아이템",
+
+  "gui.anticheat.title": "안티치트 선택",
+  "gui.anticheat.vote": "안티치트 투표",
+  "gui.anticheat.item.author": "개발자(들)",
+  "gui.anticheat.item.description": "설명",
+  "gui.anticheat.item.version": "버전",
+  "gui.anticheat.item.reconnect_required": "이 안티치트를 선택하면 재연결해야 합니다",
+  "gui.anticheat.item.sandbox": "이 안티치트는 샌드박스 처리 되어있습니다",
+  "gui.anticheat.item.sandbox.line2": "제대로 작동하려면 다시 로그해야 할 수도 있습니다.",
+  "gui.anticheat.item.voting": "Votes",
+
+  "player.setting.fall_damage": "추락 피해",
+  "player.setting.fall_damage_description": "추락 피해 활성화/비활성화",
+
+  "player.setting.flying_kick": "플라잉핵 추방",
+  "player.setting.flying_kick_description": "플라잉핵 추방 활성화/비활성화",
+
+  "player.settings.notify_flying": "플라잉핵 추방 알림",
+  "player.settings.notify_flying_description": "플라잉핵 추방으로 추방 당했을 때 알림 활성화/비활성화",
+
+  "player.settings.hunger": "배고픔",
+  "player.settings.hunger_description": "베고픔 활성화/비활성화",
+
+  "player.setting.external_damage": "외부 피해",
+  "player.setting.external_damage_description": "외부 피해 활성화/비활성화",
+
+  "player.settings.potions": "물약",
+  "player.settings.potions_description": "물약 효과 활성화/비활성화",
+
+  "player.settings.hitbox": "시각적 히트박스 디버거",
+  "player.settings.hitbox_description": "시각적 히트박스 활성화/비활성화",
+
+  "player.settings.raytrace": "시각적 레이트레이스 디버거",
+  "player.settings.raytrace.description": "시각적 레이트레이스 활성화/비활성화",
+
+  "player.settings.critical_debugger": "시각적 크리티컬 적중 디버거",
+  "player.settings.critical_debugger_description": "시각적 크리티컬 적중 활성화/비활성화",
+
+  "anticheat.selected": "로 전환했습니다",
+  "anticheat.kick.requires_reconnect": "완전히 작동하려면 다시 연결해야 합니다.",
+  "anticheat.kick.requires_reconnect_warning_1": "에서 전환",
+  "anticheat.kick.requires_reconnect_warning_2": "다시 연결해야 합니다.",
+
+  "action.title.server.position": "서버상의 위치 (S08)",
+  "action.title.server.seconds": "초",
+  "action.title.server.tick": "틱",
+  "action.title.server.ticks": "틱",
+
+  "disguised.join.message": "여전히 다음과 같이 위장한 상태입니다",
+
+  "pvp.enabled": "PvP가 활성화되었습니다",
+  "pvp.disabled": "PvP가 비활성화되었습니다",
+  "pvp.toggled_enable": "PvP가 활성화되었습니다",
+  "pvp.wait": "잠시 기다려주세요...",
+  "pvp.countdown": "PvP가 다음 시간에 활성화됩니다",
+  "pvp.countdown.second": "초",
+  "pvp.countdown.seconds": "초",
+  "pvp.reset.items": "PvP가 활성화될 시 인벤토리 내 모든 인첸트된 아이템이 리셋될 겁니다 (리셋되길 원하지 않으면 나오십시요)",
+  "pvp.death.message": "에 의해 살해당했습니다",
+
+  "alerts.filter": "알림은 기본적으로 필터링되어 모든 사람의 알림 유형을 볼 수 있습니다",
+
+  "join.message": "명령어와 자료에 대해선 /help를 사용하십시오",
+  "discord.message": "디스코드 초대",
+
+  "damage.action": "당신은 데미지를 입혔습니다",
+  "damage.action.critical.hit": "[크리티컬 공격]",
+
+  "civ.break.test": "당신은 블록을 부쉈습니다",
+  "civ.break.test_2": "틱에",
+
+  "flying.kick.title": "당신은 추방될 뻔 했습니다",
+  "tag.color.change": "당신의 태그 색상은 다음과 같습니다",
+
+  "anticheat.vote.voted": "투표하신 항목은 다음과 같습니다",
+  "anticheat.vote.voted_other_player": "투표한 항목",
+
+  "chat.disabled": "채팅이 비활성화되었습니다.",
+  "chat.throttle": "다른 메시지를 보내기 전에 잠시 기다려 주세요.",
+  "chat.chain": "채팅에서 메시지를 연쇄적으로 보내지 마세요.",
+
+  "anticheat.kick.title": "당신은 추방될 뻔 했습니다",
+  "anticheat.kick.vulcan.transaction": "트랜잭션 시간 초과",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan이 트랜잭션 시간 초과를 이유로 당신를 쫓아냈을 것입니다",
+
+  "anticheat.kick.vulcan.keepalive": "KeepAlive 시간 초과",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan이 KeepAlive 시간 초과를 이유로 당신를 쫓아냈을 것입니다",
+
+  "anticheat.kick.vulcan.ping": "최대 핑",
+  "anticheat.kick.vulcan.ping_2": "Vulcan이 최대 핑으로 인하여 당신을 쫓아냈을 것입니다",
+
+  "anticheat.kick.vulcan.desync": "비동기화",
+  "anticheat.kick.vulcan.desync_2": "Vulcan이 비동기화로 인하여 당신을 쫓아냈을 것입니다",
+
+  "chest.test.message_1": "시간이 걸렸습니다",
+  "chest.test.message_2": "상자를 훔치기 위해",
+  "chest.test.message_3": "항목 중",
+  "chest.test.message_4": "아이템이 획득되었습니다",
+
+  "speed.test.start.title.1": "츌발!",
+  "speed.test.start.title.2": "속도 테스트의 끝까지 달려 결과를 확인합니다",
+  "speed.test.starting": "다음에서 시작",
+  "speed.test.results": "속도 테스트 결과",
+  "speed.test.average.bps": "평균 속도",
+  "speed.test.highest.bps": "최고 속도",
+  "speed.test.lowest.bps": "최저 속도",
+  "speed.test.totalseconds": "총 시간(초)",
+
+  "scaffold.test.enter": "이제 블록을 설치할 수 있습니다",
+  "scaffold.test.enter_2": "아이템을 얻으려면 /items을 사용하세요.",
+  "scaffold.test.exit": "이제 블록을 배치할 수 없습니다.",
+
+  "velocity.test.apply": "velocity 적용됨",
+
+  "command.help.description.help": "이 명령어는...",
+  "command.help.description.spawn": "당신을 스폰으로 순간이동 시킵니다",
+  "command.help.description.warp": "어떤 인수도 GUI를 열지 않을 것이며, 또는 당신은 순간이동을 위해 인수를 추가할 수 있습니다",
+  "command.help.description.items": "사용할 수 있는 아이템 목록",
+  "command.help.description.enchant": "어떤 아이템이든 인첸트를 걸 수 있게합니다",
+  "command.help.description.anticheat": "안티치트 선택 GUI",
+  "command.help.description.ac": "/anticheat와 동일",
+  "command.help.description.heal": "배고픔과 채력을 리셋합니다",
+  "command.help.description.settings": "켜고 끌 수 있는 설정 목록",
+  "command.help.description.clear": "인벤토리를 지웁니다",
+  "command.help.description.tagcolor": "탭에서 이름 색상을 변경합니다",
+  "command.help.description.tc": "/tagcolor와 동일",
+  "command.help.description.language": "서버 언어를 변경합니다",
+
+  "gui.select": "선택하려면 클릭하세요",
+  "anticheat.message.failed": "실패하였습니다",
+
+  "credits": [
+    "chs12345(github)"
+  ]
+}
