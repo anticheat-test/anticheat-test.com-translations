@@ -151,7 +151,7 @@
   "speed.test.start.title.1": "BẮT ĐẦU!",
   "speed.test.start.title.2": "Chạy đến đoạn cuối để nhận kết quả về tốc độ của bạn",
   "speed.test.starting": "Bắt đầu vào",
-  "speed.test.results": "Kết quả về lần thử nghiệm tốc độ di chuyển lần này:",
+  "speed.test.results": "Kết quả về lần thử nghiệm tốc độ di chuyển lần này",
   "speed.test.average.bps": "BPS Trung bình (Block trên giây)",
   "speed.test.highest.bps": "BPS Cao nhất",
   "speed.test.lowest.bps": "BPS Thấp nhất",
