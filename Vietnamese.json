@@ -16,7 +16,7 @@
   "scoreboard.blocking": "Chặn đòn",
 
   "scoreboard.fight": "Chiến đấu",
-  "scoreboard.arena": "Arena",
+  "scoreboard.arena": "Map",
   "scoreboard.duration": "Thời gian",
 
   "scoreboard.restart": "Khởi động lại",
@@ -178,14 +178,14 @@
   "command.help.description.language": "Đổi ngôn ngữ",
 
   "gui.select": "Nhấp để chọn",
-  "anticheat.message.failed": "lỗi",
+  "anticheat.message.failed": "failed",
 
-  "scoreboard.queued": "Queued for",
-  "gui.anticheat.item.external_server": "This anticheat is running on another server",
-  "gui.anticheat.item.server_online": "This server is online, click to connect",
-  "gui.anticheat.item.server_offline": "This server is offline, click to start it",
-  "gui.anticheat.item.server_starting": "This server is currently booting up...",
-  "external.server.start.command.sent": "This server is now starting up, you will be sent to that server once its online.",
+  "scoreboard.queued": "Đang chờ",
+  "gui.anticheat.item.external_server": "Anticheat này được chạy riêng trong server khác.",
+  "gui.anticheat.item.server_online": "Server này đang bật, nhấp để kết nối.",
+  "gui.anticheat.item.server_offline": "Server này đang tắt, nhấp để khởi động nó.",
+  "gui.anticheat.item.server_starting": "Server này đang khởi động...",
+  "external.server.start.command.sent": "Server này đang khởi động, bạn sẽ được di chuyển đến server đó sớm..",
 
   "credits": [
     "thuy"
