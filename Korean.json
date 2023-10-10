@@ -87,7 +87,7 @@
   "player.settings.critical_debugger": "시각적 크리티컬 적중 디버거",
   "player.settings.critical_debugger_description": "시각적 크리티컬 적중 활성화/비활성화",
 
-  "anticheat.selected": "로 전환했습니다",
+  "anticheat.selected": "안티치트들 다음과 같이 변경하였습니다",
   "anticheat.kick.requires_reconnect": "완전히 작동하려면 다시 연결해야 합니다.",
   "anticheat.kick.requires_reconnect_warning_1": "에서 전환",
   "anticheat.kick.requires_reconnect_warning_2": "다시 연결해야 합니다.",
@@ -107,7 +107,7 @@
   "pvp.countdown.second": "초",
   "pvp.countdown.seconds": "초",
   "pvp.reset.items": "PvP가 활성화될 시 인벤토리 내 모든 인첸트된 아이템이 리셋될 겁니다 (리셋되길 원하지 않으면 나오십시요)",
-  "pvp.death.message": "에 의해 살해당했습니다",
+  "pvp.death.message": "가 다음과 같은 유저에게 살해당했습니다",
 
   "alerts.filter": "알림은 기본적으로 필터링되어 모든 사람의 알림 유형을 볼 수 있습니다",
 
@@ -180,12 +180,12 @@
   "gui.select": "선택하려면 클릭하세요",
   "anticheat.message.failed": "실패하였습니다",
 
-  "scoreboard.queued": "Queued for",
-  "gui.anticheat.item.external_server": "This anticheat is running on another server",
-  "gui.anticheat.item.server_online": "This server is online, click to connect",
-  "gui.anticheat.item.server_offline": "This server is offline, click to start it",
-  "gui.anticheat.item.server_starting": "This server is currently booting up...",
-  "external.server.start.command.sent": "This server is now starting up, you will be sent to that server once its online.",
+  "scoreboard.queued": "대기 중",
+  "gui.anticheat.item.external_server": "이 안티치트는 다른 서버에서 실행되고 있습니다",
+  "gui.anticheat.item.server_online": "이 서버는 온라인 상태입니다, 연결하려면 클릭하세요",
+  "gui.anticheat.item.server_offline": "이 서버는 오프라인 상태입니다, 클릭하여 시작하세요.",
+  "gui.anticheat.item.server_starting": "이 서버는 현재 부팅 중입니다...",
+  "external.server.start.command.sent": "이 서버는 지금 시작 중이며, 온라인 상태가 되면 해당 서버로 보내질 것 입니다.",
 
   "credits": [
     "chs12345"
