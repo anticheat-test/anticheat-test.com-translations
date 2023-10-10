@@ -1,0 +1,185 @@
+{
+  "scoreboard.ping": "Ping",
+  "scoreboard.anticheat": "Anticheat",
+  "scoreboard.version": "Versi",
+  "scoreboard.cps": "Klik per Detik (CPS)",
+  "scoreboard.bps": "Blok per Detik (BPS)",
+  "scoreboard.balance": "Saldo",
+
+  "scoreboard.engine": "Engine",
+  "scoreboard.engine.correct": "Strafe benar",
+  "scoreboard.engine.incorrect": "Strafe salah",
+
+  "scoreboard.sprinting": "Berlari",
+  "scoreboard.sneaking": "Berjongkok",
+  "scoreboard.attacking": "Menyerang",
+  "scoreboard.blocking": "Memblokir",
+
+  "scoreboard.fight": "Pertarungan",
+  "scoreboard.arena": "Arena",
+  "scoreboard.duration": "Durasi",
+
+  "scoreboard.restart": "Mengulang",
+
+  "yes": "Ya",
+  "no": "Tidak",
+
+  "true": "benar",
+  "false": "salah",
+
+  "tab.rank": "Peringkat",
+  "tab.online": "Online",
+  "tab.players": "Pemain",
+  "tab.player": "Pemain",
+  "tab.cpu": "CPU",
+  "tab.memory": "Memori",
+  "tab.tps": "TPS (Tik per Detik)",
+
+  "gui.tagcolor": "Warna Tag",
+  "gui.items": "Item",
+  "gui.playerSettings": "Pengaturan Pemain",
+  "gui.warps": "Teleportasi",
+
+  "gui.warps.click": "Klik untuk teleportasi ke",
+
+  "gui.playerSettings.modify": "Klik untuk %s pengaturan ini",
+  "gui.playerSettings.disabled": "nonaktifkan",
+  "gui.playerSettings.enabled": "aktifkan",
+
+  "gui.items.click": "Klik untuk mendapatkan item ini",
+
+  "gui.chest.test.item": "Item Uji Pencuri Chest",
+
+  "gui.anticheat.title": "Pemilihan Anticheat",
+  "gui.anticheat.vote": "Voting Anticheat",
+  "gui.anticheat.item.author": "Penulis",
+  "gui.anticheat.item.description": "Deskripsi",
+  "gui.anticheat.item.version": "Versi",
+  "gui.anticheat.item.reconnect_required": "Memilih anticheat ini akan memerlukan Anda untuk menyambung kembali",
+  "gui.anticheat.item.sandbox": "Anticheat ini diisolasi",
+  "gui.anticheat.item.sandbox.line2": "diperlukan relog agar berfungsi dengan benar.",
+  "gui.anticheat.item.voting": "Suara",
+
+  "player.setting.fall_damage": "Fall Damage",
+  "player.setting.fall_damage_description": "Aktifkan / Nonaktifkan fall damagae",
+
+  "player.setting.flying_kick": "Flying Kick",
+  "player.setting.flying_kick_description": "Aktifkan / Nonaktifkan tendangan flying server",
+
+  "player.settings.notify_flying": "Notifikasi pada Flying Kick",
+  "player.settings.notify_flying_description": "Aktifkan / Nonaktifkan notifikasi ketika Anda ditendang karena terbang",
+
+  "player.settings.hunger": "Kelaparan",
+  "player.settings.hunger_description": "Aktifkan / Nonaktifkan kelaparan",
+
+  "player.setting.external_damage": "Damage Eksternal",
+  "player.setting.external_damage_description": "Aktifkan / Nonaktifkan damage eksternal",
+
+  "player.settings.potions": "Efek Potion",
+  "player.settings.potions_description": "Aktifkan / Nonaktifkan efek Potion",
+
+  "player.settings.hitbox": "Pemantauan Kotak Hit Visual",
+  "player.settings.hitbox_description": "Aktifkan / Nonaktifkan pemantauan kotak hit visual",
+
+  "player.settings.raytrace": "Pemantauan RayTrace Visual",
+  "player.settings.raytrace.description": "Aktifkan / Nonaktifkan pemantauan raytrace visual",
+
+  "player.settings.critical_debugger": "Pemantauan Pukulan Kritikal Visual",
+  "player.settings.critical_debugger_description": "Aktifkan / Nonaktifkan pemantauan pukulan kritis visual",
+
+  "anticheat.selected": "Anda telah beralih ke",
+  "anticheat.kick.requires_reconnect": "memerlukan Anda untuk menyambung kembali agar berfungsi sepenuhnya.",
+  "anticheat.kick.requires_reconnect_warning_1": "berpindah dari",
+  "anticheat.kick.requires_reconnect_warning_2": "memerlukan Anda untuk menyambung kembali.",
+
+  "action.title.server.position": "Posisi Server (S08)",
+  "action.title.server.seconds": "detik",
+  "action.title.server.tick": "tik",
+  "action.title.server.ticks": "tik",
+
+  "disguised.join.message": "Anda masih menyamar sebagai",
+
+  "pvp.enabled": "PvP sekarang aktif",
+  "pvp.disabled": "PvP sekarang nonaktif",
+  "pvp.toggled_enable": "PvP sekarang aktif",
+  "pvp.wait": "Tunggu sebentar...",
+  "pvp.countdown": "PvP akan diaktifkan dalam",
+  "pvp.countdown.second": "detik",
+  "pvp.countdown.seconds": "detik",
+  "pvp.reset.items": "Semua item enchanted dalam inventory Anda akan direset saat PvP diaktifkan (keluar jika Anda tidak ingin mereka direset)",
+  "pvp.death.message": "dibunuh oleh",
+
+  "alerts.filter": "Pemberitahuan difilter secara default untuk melihat tipe pemberitahuan semua orang",
+
+  "join.message": "gunakan /help untuk perintah dan lainnya",
+  "discord.message": "Undangan Discord",
+
+  "damage.action": "Anda memberikan pukulan kritikal",
+  "damage.action.critical.hit": "[Pukulan Kritis]",
+
+  "civ.break.test": "Anda memecahkan blok",
+  "civ.break.test_2": "pada tick",
+
+  "flying.kick.title": "Anda harusnya sudah ditendang",
+  "tag.color.change": "Warna tag Anda sekarang",
+
+  "anticheat.vote.voted": "Anda telah memilih",
+  "anticheat.vote.voted_other_player": "memilih untuk",
+
+  "chat.disabled": "Chat dinonaktifkan",
+  "chat.throttle": "Harap tunggu sebelum mengirim pesan lain.",
+  "chat.chain": "Jangan mengulang lagi dalam chat.",
+
+  "anticheat.kick.title": "Anda harusnya sudah ditendang",
+  "anticheat.kick.vulcan.transaction": "Waktu Transaction Habis",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan harusnya sudah menendang Anda karena waktu transaksi habis",
+
+  "anticheat.kick.vulcan.keepalive": "Waktu KeepAlive Habis",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan harusnya sudah menendang Anda karena waktu keepalive habis",
+
+  "anticheat.kick.vulcan.ping": "Ping Maksimum",
+  "anticheat.kick.vulcan.ping_2": "Vulcan harusnya sudah menendang Anda karena ping maksimum",
+
+  "anticheat.kick.vulcan.desync": "Desinkronisasi",
+  "anticheat.kick.vulcan.desync_2": "Vulcan harusnya sudah menendang Anda karena desinkronisasi",
+
+  "chest.test.message_1": "Dibutuhkan",
+  "chest.test.message_2": "untuk mencuri chest",
+  "chest.test.message_3": "dari",
+  "chest.test.message_4": "item telah diambil",
+
+  "speed.test.start.title.1": "MULAI!",
+  "speed.test.start.title.2": "Berlari ke akhir uji kecepatan untuk mendapatkan hasil",
+  "speed.test.starting": "Mulai dalam",
+  "speed.test.results": "Hasil Uji Kecepatan",
+  "speed.test.average.bps": "Rata-rata BPS",
+  "speed.test.highest.bps": "BPS Tertinggi",
+  "speed.test.lowest.bps": "BPS Terendah",
+  "speed.test.totalseconds": "Total Detik",
+
+  "scaffold.test.enter": "Blok sekarang dapat ditempatkan",
+  "scaffold.test.enter_2": "Gunakan /items untuk mendapatkan item",
+
+  "velocity.test.apply": "Velocity Terapkan",
+
+  "command.help.description.help": "Command ini...",
+  "command.help.description.spawn": "Teleportasi Anda ke spawn",
+  "command.help.description.warp": "Tidak ada argumen akan membuka GUI, atau Anda dapat menambahkan argumen untuk melakukan teleportasi ke",
+  "command.help.description.items": "Daftar item yang dapat Anda gunakan",
+  "command.help.description.enchant": "Memungkinkan Anda untuk enchant item apa pun",
+  "command.help.description.anticheat": "GUI Pemilihan Anticheat",
+  "command.help.description.ac": "Sama dengan /anticheat",
+  "command.help.description.heal": "Mengatur ulang tingkat makanan dan kesehatan Anda",
+  "command.help.description.settings": "Daftar pengaturan yang dapat Anda aktifkan atau nonaktifkan",
+  "command.help.description.clear": "Membersihkan inventaris Anda",
+  "command.help.description.tagcolor": "Mengubah warna nama Anda di tab",
+  "command.help.description.tc": "Sama dengan /tagcolor",
+  "command.help.description.language": "Mengubah bahasa server",
+
+  "gui.select": "Klik untuk memilih",
+  "anticheat.message.failed": "gagal",
+
+  "credits": [
+    "Flycock"
+  ]
+}
