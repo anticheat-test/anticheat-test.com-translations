@@ -154,7 +154,7 @@
   "speed.test.results": "Результаты проверки на скорость",
   "speed.test.average.bps": "Среднее кол-во BPS",
   "speed.test.highest.bps": "Высшее кол-во BPS",
-  "speed.test.lowest.bps": "Нисшее кол-во BPS",
+  "speed.test.lowest.bps": "Низшее кол-во BPS",
   "speed.test.totalseconds": "Общее время (в секундах)",
 
   "scaffold.test.enter": "Сейчас вы можете ставить блоки.",
