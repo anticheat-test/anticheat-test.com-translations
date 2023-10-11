@@ -14,6 +14,8 @@ Hungarian ~ Blitoka33
 Portuguese ~ EnhacedMob
 Albanian ~ Hydrogen
 Korean ~ chs12345
+Russian ~ paradigma1337
+Catalan ~ halflin
 ```
 
 # Contributing
