@@ -187,6 +187,8 @@
   "gui.anticheat.item.server_starting": "Этот сервер в процессе запуска...",
   "external.server.start.command.sent": "Сервер в процессе запуска, после его запуска вас автоматически перекинет на него.",
 
+  "textureID": "16eafef980d6117dabe8982ac4b4509887e2c4621f6a8fe5c9b735a83d775ad",
+
   "credits": [
     "paradigma1337"
   ]
