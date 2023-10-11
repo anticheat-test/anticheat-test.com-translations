@@ -178,6 +178,13 @@
 
   "gui.select": "Klik untuk memilih",
   "anticheat.message.failed": "gagal",
+  
+  "scoreboard.queued": "Antrian untuk",
+  "gui.anticheat.item.external_server": "Anticheat ini berjalan di server lain",
+  "gui.anticheat.item.server_online": "Server ini online, klik untuk terhubung",
+  "gui.anticheat.item.server_offline": "Server ini offline, klik untuk menghidupkannya",
+  "gui.anticheat.item.server_starting": "Server ini saat ini sedang mulai...",
+  "external.server.start.command.sent": "Server ini sekarang sedang mulai, Anda akan dikirim ke server tersebut begitu server tersebut online.",
 
   "textureID": "cbe63fcaa0203f8046fb96375d079a5c09b4161d0119d7194566e689cab18f68",
 
