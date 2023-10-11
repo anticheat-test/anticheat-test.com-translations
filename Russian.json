@@ -33,7 +33,7 @@
   "tab.player": "Игрок",
   "tab.cpu": "ЦП",
   "tab.memory": "ОЗУ",
-  "tab.tps": "ТВС",
+  "tab.tps": "TPS",
 
   "gui.tagcolor": "Цвет Тега",
   "gui.items": "Предметы",
