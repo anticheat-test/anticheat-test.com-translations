@@ -1,0 +1,193 @@
+{
+  "scoreboard.ping": "Пинг",
+  "scoreboard.anticheat": "Античит",
+  "scoreboard.version": "Версия",
+  "scoreboard.cps": "CPS",
+  "scoreboard.bps": "BPS",
+  "scoreboard.balance": "Баланс",
+
+  "scoreboard.engine": "Движок",
+  "scoreboard.engine.correct": "Стрейф корректен",
+  "scoreboard.engine.incorrect": "Стрейф не корректен",
+
+  "scoreboard.sprinting": "Спринтить",
+  "scoreboard.sneaking": "Приседать",
+  "scoreboard.attacking": "Аттаковать",
+  "scoreboard.blocking": "Блокировать",
+
+  "scoreboard.fight": "Сражение",
+  "scoreboard.arena": "Арена",
+  "scoreboard.duration": "Длительность",
+
+  "scoreboard.restart": "Перезагрузка",
+
+  "yes": "Да",
+  "no": "Нет",
+
+  "true": "Истина",
+  "false": "Ложь",
+
+  "tab.rank": "Ранг",
+  "tab.online": "Онлайн",
+  "tab.players": "Игроки",
+  "tab.player": "Игрок",
+  "tab.cpu": "ЦП",
+  "tab.memory": "ОЗУ",
+  "tab.tps": "TPS",
+
+  "gui.tagcolor": "Цвет Тега",
+  "gui.items": "Предметы",
+  "gui.playerSettings": "Настройки Игрока",
+  "gui.warps": "Варпы",
+
+  "gui.warps.click": "Нажмите для телепортации на ",
+
+  "gui.playerSettings.modify": "Нажмите для того, что бы %s эту настройку.",
+  "gui.playerSettings.disabled": "отключить",
+  "gui.playerSettings.enabled": "включить",
+
+  "gui.items.click": "Нажмите для получения этого предмета",
+
+  "gui.chest.test.item": "Предмет для проверки Чест Стиллера",
+
+  "gui.anticheat.title": "Выбор Античита",
+  "gui.anticheat.vote": "Голосование за античит",
+  "gui.anticheat.item.author": "Автор(ы)",
+  "gui.anticheat.item.description": "Описание",
+  "gui.anticheat.item.version": "Версия",
+  "gui.anticheat.item.reconnect_required": "Для выбора этого античита вам требуется перезайти.",
+  "gui.anticheat.item.sandbox": "Этот античит находится в песочнице",
+  "gui.anticheat.item.sandbox.line2": "для правильной работы может потребоваться перезаход.",
+  "gui.anticheat.item.voting": "Голоса",
+
+  "player.setting.fall_damage": "Урон от падения",
+  "player.setting.fall_damage_description": "Включить / выключить урон от падения",
+
+  "player.setting.flying_kick": "Кик за флай",
+  "player.setting.flying_kick_description": "Включить / выключить кики за флай.",
+
+  "player.settings.notify_flying": "Сообщение о кике за флай.",
+  "player.settings.notify_flying_description": "Включить / выключить уведомление при кике за флай.",
+
+  "player.settings.hunger": "Голод",
+  "player.settings.hunger_description": "Включить / выключить голод.",
+
+  "player.setting.external_damage": "Посторонний урон",
+  "player.setting.external_damage_description": "Включить / выключить посторонний урон.",
+
+  "player.settings.potions": "Зелья",
+  "player.settings.potions_description": "Включить / выключить эффекты зелий.",
+
+  "player.settings.hitbox": "Визуальный Отладчик Хитбоксов",
+  "player.settings.hitbox_description": "Включить / выключить хитбоксы.",
+
+  "player.settings.raytrace": "Визуальный Отладчик RayTrace",
+  "player.settings.raytrace.description": "Включить / выключить визуальный отладчик RayTrace.",
+
+  "player.settings.critical_debugger": "Визуальный отладчик критических ударов",
+  "player.settings.critical_debugger_description": "Включить / выключить визуальный отладчик критических ударов.",
+
+  "anticheat.selected": "Вы изменили античит на",
+  "anticheat.kick.requires_reconnect": "требует перезахода для корректной работы.",
+  "anticheat.kick.requires_reconnect_warning_1": "меняет от",
+  "anticheat.kick.requires_reconnect_warning_2": "требует вас перезайти.",
+
+  "action.title.server.position": "Позиция на сервере (S08)",
+  "action.title.server.seconds": "секунды",
+  "action.title.server.tick": "тик",
+  "action.title.server.ticks": "тики",
+
+  "disguised.join.message": "Вы до сих пор замаскированы как",
+
+  "pvp.enabled": "ПвП было включено",
+  "pvp.disabled": "ПвП было выключено",
+  "pvp.toggled_enable": "ПвП было включено",
+  "pvp.wait": "Пожалуйста подождите...",
+  "pvp.countdown": "ПвП будет включено через ",
+  "pvp.countdown.second": "секунда",
+  "pvp.countdown.seconds": "секунда",
+  "pvp.reset.items": "Все зачарованные предметы в инвентаре потеряют свои чары (выйдите из зоны если вы этого не хотите)",
+  "pvp.death.message": "был убит",
+
+  "alerts.filter": "Оповещения фильтруются по умолчанию так, что бы видеть каждый тип оповещения.",
+
+  "join.message": "используйте /help для комманд и разного",
+  "discord.message": "Приглашение в Discord",
+
+  "damage.action": "Вы нанесли урон",
+  "damage.action.critical.hit": "[Критический удар]",
+
+  "civ.break.test": "Вы сломали блок",
+  "civ.break.test_2": "в тике",
+
+  "flying.kick.title": "Вы был кикнул",
+  "tag.color.change": "Цвет вашего тега сейчас",
+
+  "anticheat.vote.voted": "Вы проголосовали за",
+  "anticheat.vote.voted_other_player": "проголосовал за",
+
+  "chat.disabled": "Чат выключен",
+  "chat.throttle": "Пожалуйста, подождите перед отправкой следующего сообщения.",
+  "chat.chain": "Не повторяйте сообщения в чате.",
+
+  "anticheat.kick.title": "Вы были кикнули",
+  "anticheat.kick.vulcan.transaction": "Тайм-аут Транзакций (Transaction Packet)",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan кикнул вас за тайм-аут транзакций (Transaction Packet)",
+
+  "anticheat.kick.vulcan.keepalive": "Тайм-аут КипАлайв (KeepAlive Packet)",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan кикнул вас за тайм-аут кипалайв (KeepAlive Packet)",
+
+  "anticheat.kick.vulcan.ping": "Максимальный пинг",
+  "anticheat.kick.vulcan.ping_2": "Vulcan кикнул вас за максимальный пинг",
+
+  "anticheat.kick.vulcan.desync": "Рассинхронизация",
+  "anticheat.kick.vulcan.desync_2": "Vulcan кикнул вас за рассинхронизацию",
+
+  "chest.test.message_1": "Это заняло",
+  "chest.test.message_2": "что-бы обокрасть сундук",
+  "chest.test.message_3": "из",
+  "chest.test.message_4": "вещей были взяты",
+
+  "speed.test.start.title.1": "МАРШ!",
+  "speed.test.start.title.2": "Пробегите до конца арены для получения результата.",
+  "speed.test.starting": "Начало через",
+  "speed.test.results": "Результаты проверки на скорость",
+  "speed.test.average.bps": "Среднее кол-во BPS",
+  "speed.test.highest.bps": "Высшее кол-во BPS",
+  "speed.test.lowest.bps": "Низшее кол-во BPS",
+  "speed.test.totalseconds": "Общее время (в секундах)",
+
+  "scaffold.test.enter": "Сейчас вы можете ставить блоки.",
+  "scaffold.test.enter_2": "Используйте /items, что бы получить блоки.",
+  "scaffold.test.exit": "Сейчас вы не можете ставить блоки.",
+
+  "velocity.test.apply": "Применён удар (Velocity)",
+
+  "command.help.description.help": "Эта комманда...",
+  "command.help.description.spawn": "Вы были телепортированы на спавн.",
+  "command.help.description.warp": "Без дополнительных аргументов вы откроете GUI, вы можете добавить аргументы куда вы хотите телепортироваться.",
+  "command.help.description.items": "Список вещей доступных к использованию",
+  "command.help.description.enchant": "Позволяет вам зачаровать любые вещи",
+  "command.help.description.anticheat": "Экран выбора античита",
+  "command.help.description.ac": "Тоже самое, что и /anticheat",
+  "command.help.description.heal": "Сбрасывает ваш уровень голода и ваше здоровье",
+  "command.help.description.settings": "Список настроек, которые вы можете включить / выключить",
+  "command.help.description.clear": "Очищает ваш инвентарь",
+  "command.help.description.tagcolor": "Изменяет цвет вашего ника в табе",
+  "command.help.description.tc": "Тоже самое, что и /tagcolor",
+  "command.help.description.language": "Изменяет язык сервера",
+
+  "gui.select": "Нажмите для выбора",
+  "anticheat.message.failed": "провалил",
+
+  "scoreboard.queued": "В очереди на",
+  "gui.anticheat.item.external_server": "Этот античит используется на другом сервере",
+  "gui.anticheat.item.server_online": "Этот сервер онлайн, нажмите для подключения",
+  "gui.anticheat.item.server_offline": "Этот сервер оффлайн, нажмите для включения",
+  "gui.anticheat.item.server_starting": "Этот сервер в процессе запуска...",
+  "external.server.start.command.sent": "Сервер в процессе запуска, после его запуска вас автоматически перекинет на него.",
+
+  "credits": [
+    "paradigma1337"
+  ]
+}
