@@ -187,6 +187,8 @@
     "gui.anticheat.item.server_starting": "This server is currently booting up...",
     "external.server.start.command.sent": "This server is now starting up, you will be sent to that server once its online.",
 
+    "textureID": "c3b83a89d89e53aeddfbf6850fab3a3b52021fa41d734810d19bb925f4bc881b",
+
     "credits": [
         "Hydrogen"
     ]

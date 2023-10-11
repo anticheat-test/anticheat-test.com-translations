@@ -187,6 +187,8 @@
   "gui.anticheat.item.server_starting": "This server is currently booting up...",
   "external.server.start.command.sent": "This server is now starting up, you will be sent to that server once its online.",
 
+  "textureID": "5e7899b4806858697e283f084d9173fe487886453774626b24bd8cfecc77b3f",
+
   "credits": [
     "Viremox"
   ]
