@@ -10,10 +10,10 @@
   "scoreboard.engine.correct": "Стрейф корректен",
   "scoreboard.engine.incorrect": "Стрейф не корректен",
 
-  "scoreboard.sprinting": "Спринтить",
-  "scoreboard.sneaking": "Приседать",
-  "scoreboard.attacking": "Аттаковать",
-  "scoreboard.blocking": "Блокировать",
+  "scoreboard.sprinting": "Спринтите?",
+  "scoreboard.sneaking": "Приседаете?",
+  "scoreboard.attacking": "Аттакуете?",
+  "scoreboard.blocking": "Блокируете?",
 
   "scoreboard.fight": "Сражение",
   "scoreboard.arena": "Арена",
@@ -24,8 +24,8 @@
   "yes": "Да",
   "no": "Нет",
 
-  "true": "Истина",
-  "false": "Ложь",
+  "true": "Да",
+  "false": "Нет",
 
   "tab.rank": "Ранг",
   "tab.online": "Онлайн",
@@ -40,7 +40,7 @@
   "gui.playerSettings": "Настройки Игрока",
   "gui.warps": "Варпы",
 
-  "gui.warps.click": "Нажмите для телепортации на ",
+  "gui.warps.click": "Нажмите для телепортации на",
 
   "gui.playerSettings.modify": "Нажмите для того, что бы %s эту настройку.",
   "gui.playerSettings.disabled": "отключить",
@@ -103,13 +103,13 @@
   "pvp.disabled": "ПвП было выключено",
   "pvp.toggled_enable": "ПвП было включено",
   "pvp.wait": "Пожалуйста подождите...",
-  "pvp.countdown": "ПвП будет включено через ",
+  "pvp.countdown": "ПвП будет включено через",
   "pvp.countdown.second": "секунда",
   "pvp.countdown.seconds": "секунда",
-  "pvp.reset.items": "Все зачарованные предметы в инвентаре потеряют свои чары (выйдите из зоны если вы этого не хотите)",
+  "pvp.reset.items": "Все зачарованные предметы в инвентаре будут сброшены. (Выйдите из зоны ПвП, если вы этого не хотите.)",
   "pvp.death.message": "был убит",
 
-  "alerts.filter": "Оповещения фильтруются по умолчанию так, что бы видеть каждый тип оповещения.",
+  "alerts.filter": "Оповещения настроены по умолчанию. С этими настройками вы будете видеть все оповещения.",
 
   "join.message": "используйте /help для комманд и разного",
   "discord.message": "Приглашение в Discord",
@@ -120,7 +120,7 @@
   "civ.break.test": "Вы сломали блок",
   "civ.break.test_2": "в тике",
 
-  "flying.kick.title": "Вы был кикнул",
+  "flying.kick.title": "Вы был кикнуты",
   "tag.color.change": "Цвет вашего тега сейчас",
 
   "anticheat.vote.voted": "Вы проголосовали за",
@@ -130,7 +130,7 @@
   "chat.throttle": "Пожалуйста, подождите перед отправкой следующего сообщения.",
   "chat.chain": "Не повторяйте сообщения в чате.",
 
-  "anticheat.kick.title": "Вы были кикнули",
+  "anticheat.kick.title": "Вы были кикнуты",
   "anticheat.kick.vulcan.transaction": "Тайм-аут Транзакций (Transaction Packet)",
   "anticheat.kick.vulcan.transaction_2": "Vulcan кикнул вас за тайм-аут транзакций (Transaction Packet)",
 
@@ -163,7 +163,7 @@
 
   "velocity.test.apply": "Применён удар (Velocity)",
 
-  "command.help.description.help": "Эта комманда...",
+  "command.help.description.help": "Эта команда...",
   "command.help.description.spawn": "Вы были телепортированы на спавн.",
   "command.help.description.warp": "Без дополнительных аргументов вы откроете GUI, вы можете добавить аргументы куда вы хотите телепортироваться.",
   "command.help.description.items": "Список вещей доступных к использованию",
