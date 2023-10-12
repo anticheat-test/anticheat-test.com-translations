@@ -42,7 +42,7 @@
 
   "gui.warps.click": "Нажмите для телепортации на",
 
-  "gui.playerSettings.modify": "Нажмите для того, что бы %s эту настройку.",
+  "gui.playerSettings.modify": "Нажмите для того, чтобы %s эту настройку.",
   "gui.playerSettings.disabled": "отключить",
   "gui.playerSettings.enabled": "включить",
 
@@ -111,7 +111,7 @@
 
   "alerts.filter": "Оповещения настроены по умолчанию. С этими настройками вы будете видеть все оповещения.",
 
-  "join.message": "используйте /help для комманд и разного",
+  "join.message": "Используйте /help для команд и разного",
   "discord.message": "Приглашение в Discord",
 
   "damage.action": "Вы нанесли урон",
@@ -144,7 +144,7 @@
   "anticheat.kick.vulcan.desync_2": "Vulcan кикнул вас за рассинхронизацию",
 
   "chest.test.message_1": "Это заняло",
-  "chest.test.message_2": "что-бы обокрасть сундук",
+  "chest.test.message_2": "чтобы обокрасть сундук",
   "chest.test.message_3": "из",
   "chest.test.message_4": "вещей были взяты",
 
@@ -158,7 +158,7 @@
   "speed.test.totalseconds": "Общее время (в секундах)",
 
   "scaffold.test.enter": "Сейчас вы можете ставить блоки.",
-  "scaffold.test.enter_2": "Используйте /items, что бы получить блоки.",
+  "scaffold.test.enter_2": "Используйте /items, чтобы получить предметы.",
   "scaffold.test.exit": "Сейчас вы не можете ставить блоки.",
 
   "velocity.test.apply": "Применён удар (Velocity)",
