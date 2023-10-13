@@ -16,6 +16,7 @@ Albanian ~ Hydrogen
 Korean ~ chs12345
 Russian ~ paradigma1337
 Catalan ~ halflin
+Chinese ~ xiaohanbao233
 ```
 
 # Contributing
