@@ -178,7 +178,7 @@
   "command.help.description.language": "Changes server language",
 
   "gui.select": "点击选中",
-  "anticheat.message.failed": "失败",
+  "anticheat.message.failed": "被检测",
 
   "scoreboard.queued": "Queued for",
   "gui.anticheat.item.external_server": "这个反作弊在子服上运行",
