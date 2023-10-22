@@ -1,0 +1,196 @@
+{
+  "scoreboard.ping": "Пинг",
+  "scoreboard.anticheat": "Анти-хак система",
+  "scoreboard.version": "Версия",
+  "scoreboard.cps": "Кликове в секунда",
+  "scoreboard.bps": "Блокове в секунда",
+  "scoreboard.balance": "Баланс",
+
+  "scoreboard.engine": "Стрейф",
+  "scoreboard.engine.correct": "Стрейфът е коректен",
+  "scoreboard.engine.incorrect": "Стрейфът не е коректен",
+
+  "scoreboard.sprinting": "Тичане",
+  "scoreboard.sneaking": "Промъкване",
+  "scoreboard.attacking": "Атакуване",
+  "scoreboard.blocking": "Блокиране",
+
+  "scoreboard.fight": "Битка",
+  "scoreboard.arena": "Арена",
+  "scoreboard.duration": "Време",
+
+  "scoreboard.restart": "Рестарт",
+
+  "yes": "Да",
+  "no": "Не",
+
+  "true": "Да",
+  "false": "Не",
+
+  "tab.rank": "Ранг",
+  "tab.online": "Онлайн",
+  "tab.players": "Играчи",
+  "tab.player": "Играч",
+  "tab.cpu": "CPU",
+  "tab.memory": "Памет",
+  "tab.tps": "TPS",
+
+  "gui.tagcolor": "Цвят на таг",
+  "gui.items": "Елементи",
+  "gui.playerSettings":"Настройки на играча",
+  "gui.warps": "Уорпове",
+
+  "gui.warps.click": "Натисни, за да се телепортираш до",
+
+  "gui.playerSettings.modify": "Натисни, за да %s настройката ",
+  "gui.playerSettings.disabled": "деактивираш",
+  "gui.playerSettings.enabled": "активираш",
+
+  "gui.items.click": "Кликни, за да вземеш този елемент",
+
+  "gui.chest.test.item": "Тест-елемент за ChestStealer",
+
+  "gui.anticheat.title": "Избиране на анти-хак система",
+  "gui.anticheat.vote": "Гласуване за анти-хак система",
+  "gui.anticheat.item.author": "Автор(и)",
+  "gui.anticheat.item.description": "Описание",
+  "gui.anticheat.item.version": "Версия",
+  "gui.anticheat.item.reconnect_required": "За да използвате анти-хак системата, трябва да се включите отново.",
+  "gui.anticheat.item.sandbox": "Анти-хак системата е във сандбокс режим,",
+  "gui.anticheat.item.sandbox.line2": "може би ще е нужно включване отново, за да работи както трябва.",
+  "gui.anticheat.item.voting": "Гласове",
+
+  "player.setting.fall_damage": "Щети от падане",
+  "player.setting.fall_damage_description": "Активирай / Деактивирай щетите от падане",
+
+  "player.setting.flying_kick": "Изгонване поради летене",
+  "player.setting.flying_kick_description": "Активирай / Деактивирай изгонването поради летене",
+
+  "player.settings.notify_flying": "Съобщение за изгонване поради летене",
+  "player.settings.notify_flying_description": "Активирай / Деактивирай съобщението за изгонване поради летене",
+
+  "player.settings.hunger": "Глад",
+  "player.settings.hunger_description": "Активирай / Деактивирай глада",
+
+  "player.setting.external_damage": "Щети от други източници",
+  "player.setting.external_damage_description": "Активирай / Деактивирай щетите от други източници",
+
+  "player.settings.potions": "Отвари",
+  "player.settings.potions_description": "Активирай / Деактивирай стр. ефекти от отвари"
+
+  "player.settings.hitbox": "Визуален хитбокс",
+  "player.settings.hitbox_description": "Активирай / Деактивирай визуалният хитбокс",
+
+  "player.settings.raytrace": "Визуален Raytrace дебъгър",
+  "player.settings.raytrace.description": "Активирай / Деактивирай визуалният raytrace дебъгър"
+
+  "player.settings.critical_debugger": "Дебъгър на критикалните удари",
+  "player.settings.critical_debugger_description": "Активирай / Деактивирай дебъгъра на критикалните удари",
+
+  "anticheat.selected": "Ти смени на",
+  "anticheat.kick.requires_reconnect": "заповядва ти да се включиш отново",
+  "anticheat.kick.requires_reconnect_warning_1": "сменянето от",
+  "anticheat.kick.requires_reconnect_warning_2": "те кара да се включиш отново",
+
+  "action.title.server.position": "Позицията ти в сървъра (S08)",
+  "action.title.server.seconds": "секунди",
+  "action.title.server.tick": "тик",
+  "action.title.server.ticks": "тикове",
+
+  "disguised.join.message": "Все още си дигизиран като",
+
+  "pvp.enabled": "ИсИ вече е активно.",
+  "pvp.disabled": "ИсИ вече е деактивно.",
+  "pvp.toggled_enable": "ИсИ вече е аткивно.",
+  "pvp.wait": "Моля, изчакайте...",
+  "pvp.countdown": "ИсИ ще бъде активирано след",
+  "pvp.countdown.second": "секунда",
+  "pvp.countdown.seconds": "секунди",
+  "pvp.reset.items": "Всичките ти омагьосани оръжия ще се от-омагьосат когато ИсИ се активира. (Ако не искаш те да се от-омагьосат, излез.)",
+  "pvp.death.message": "беше убит от",
+
+  "alerts.filter": "Предупрежденията са филтрирани",
+
+  "join.message": "Използвай /help за помощ",
+  "discord.message": "Discord покана",
+
+  "damage.action": "Ти направи щета от",
+  "damage.action.critical.hit": "[Критикален удар!]",
+
+  "civ.break.test": "Ти счупи блока",
+  "civ.break.test_2": "в тика",
+
+  "flying.kick.title": "Спасих те от изхвърляне.",
+  "tag.color.change": "Цветът на ранга ти вече е",
+
+  "anticheat.vote.voted": "Ти гласува за",
+  "anticheat.vote.voted_other_player": "гласува за",
+
+  "chat.disabled": "Чатът е деактивиран!",
+  "chat.throttle": "Почакай няколко секунди преди да изпратиш нещо друго!",
+  "chat.chain": "Моля, не свързвай съобщенията.",
+
+  "anticheat.kick.title": "Спасих те от изритване",
+  "anticheat.kick.vulcan.transaction": "Таймаут на транзакция",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan можеше да те изхвърли за таймаут на транзакция!",
+
+  "anticheat.kick.vulcan.keepalive": "Таймаут на Keep Alive пакети",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan можеше да те изхвърли за таймаут на Keep Alive пакети!",
+
+  "anticheat.kick.vulcan.ping": "Максимум пинг!!",
+  "anticheat.kick.vulcan.ping_2": "Vulcan можеше да те изхвърли за максимум пинг!",
+
+  "anticheat.kick.vulcan.desync": "Десинхронизиране!",
+  "anticheat.kick.vulcan.desync_2": "Vulcan можеше да те исхвърли за десинхронизация!",
+
+  "chest.test.message_1": "Отне ти",
+  "chest.test.message_2": ", за да откраднеш нещата в сандъка.",
+  "chest.test.message_3": "от",
+  "chest.test.message_4": "елементи бяха взети",
+
+  "speed.test.start.title.1": "Давай, давай, давай!!!",
+  "speed.test.start.title.2": "Отиди до края за резултат!",
+  "speed.test.starting": "Започване в",
+  "speed.test.results": "Резулатите са тук!",
+  "speed.test.average.bps": "Средни БвС",
+  "speed.test.highest.bps": "Най-много БвС",
+  "speed.test.lowest.bps": "Най-малко БвС",
+  "speed.test.totalseconds": "Секунди (Общо)",
+
+  "scaffold.test.enter": "Вече можеш да слагаш блокчета.",
+  "scaffold.test.enter_2": "Вземи си блокчета с /items",
+  "scaffold.test.exit": "Вече не можеш да слагаш блокчета.",
+
+  "velocity.test.apply": "Дадохме ти велосити",
+
+  "command.help.description.help": "Тази команда...",
+  "command.help.description.spawn": "Те телепортира да спауна.",
+  "command.help.description.warp": "Аргументите няма да отворят ГПИ, освен ако не ги накара",
+  "command.help.description.items": "Лист от елементи, които може да използваш",
+  "command.help.description.enchant": "Дава ти да омагьосаш елементи",
+  "command.help.description.anticheat": "Селекция на анти-хак система.",
+  "command.help.description.ac": "Същото като /anticheat",
+  "command.help.description.heal": "Рестартира твоите жизн. точки и глад",
+  "command.help.description.settings": "Няколко настройки, които можеш да активираш / деактивираш.",
+  "command.help.description.clear": "Изчиства твоят инвертар. Внимавай с това!",
+  "command.help.description.tagcolor": "Променя твоят цвят във Tab менюто.",
+  "command.help.description.tc": "Същото като /tagcolor",
+  "command.help.description.language": "Променя езика",
+
+  "gui.select": "Натисни, за да я избереш",
+  "anticheat.message.failed": "не стана",
+
+  "scoreboard.queued": "Ти чакаш за",
+  "gui.anticheat.item.external_server": "Тази система върви на различен сървър",
+  "gui.anticheat.item.server_online": "Сървъра е онлайн, натисни, за да се свържеш.",
+  "gui.anticheat.item.server_offline": "Сървъра е офлайн, натисни, за да го стартираш.",
+  "gui.anticheat.item.server_starting": "Този сървър се стартира...",
+  "external.server.start.command.sent": "Този сървър вече се стартира, ще те изпратя там, когато се стартира.",
+
+  "textureID": "a66a8917d7c33cb8bc8464eb689a1a85197376f555d0d24cd37fab620e723f93",
+
+  "credits": [
+    "TheDeadMods815 (offline, so don't try to contact)"
+  ]
+
+}
