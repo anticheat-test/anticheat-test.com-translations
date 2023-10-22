@@ -18,6 +18,7 @@ Russian ~ paradigma1337
 Catalan ~ halflin
 Indonesian ~ Jiternos
 Chinese ~ xiaohanbao233
+Bulgarian ~ Hyphen3
 ```
 
 # Contributing
