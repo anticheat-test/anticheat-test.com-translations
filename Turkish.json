@@ -107,7 +107,7 @@
   "pvp.countdown.second": "saniye",
   "pvp.countdown.seconds": "saniye",
   "pvp.reset.items": "PvP aktifleştirildiğinde bütün büyülü itemleriniz kaldırlacak. (gitmesini istemiyorsanız lütfen ayrılın)",
-  "pvp.death.message": "öldürüldü, öldüren: ",
+  "pvp.death.message": "şu kişi tarafından öldürüldü: ",
 
   "alerts.filter": "Anti-Hile mesajları filtreleniyor herkes için ayrı olarak!",
 
