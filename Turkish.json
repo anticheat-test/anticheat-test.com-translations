@@ -2,8 +2,8 @@
   "scoreboard.ping": "Gecikme",
   "scoreboard.anticheat": "Anti-Hile",
   "scoreboard.version": "Sürüm",
-  "scoreboard.cps": "CPS",
-  "scoreboard.bps": "Hız",
+  "scoreboard.cps": "Atak/sn",
+  "scoreboard.bps": "Hız/sn",
   "scoreboard.balance": "Denge",
 
   "scoreboard.engine": "Motor",
