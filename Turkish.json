@@ -178,7 +178,7 @@
   "command.help.description.language": "Sunucu dilini değiştirir.",
 
   "gui.select": "Seçmek için tıkla",
-  "anticheat.message.failed": "Başarısız",
+  "anticheat.message.failed": "yakalandı",
 
   "scoreboard.queued": "Queued for",
   "gui.anticheat.item.external_server": "Bu anti-hile başka bir sunucuda çalışıyor.",
