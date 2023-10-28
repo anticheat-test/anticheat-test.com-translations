@@ -99,8 +99,8 @@
 
   "disguised.join.message": "Hala kılığın",
 
-  "pvp.enabled": "PvP aktifleştirildi.",
-  "pvp.disabled": "PvP is now disabled",
+  "pvp.enabled": "PvP açıldı.",
+  "pvp.disabled": "PvP kapatıldı.",
   "pvp.toggled_enable": "PvP izinleri kaldırıldı.",
   "pvp.wait": "Lütfen bekleyin...",
   "pvp.countdown": "PvP şu kadar süre içerisinde aktifleştirilecek",
@@ -180,7 +180,7 @@
   "gui.select": "Seçmek için tıkla",
   "anticheat.message.failed": "yakalandı",
 
-  "scoreboard.queued": "Queued for",
+  "scoreboard.queued": "Sıraya Girildi:",
   "gui.anticheat.item.external_server": "Bu anti-hile başka bir sunucuda çalışıyor.",
   "gui.anticheat.item.server_online": "Bu sunucu açık, bağlanmak için tıkla.",
   "gui.anticheat.item.server_offline": "Bu sunucu kapalı, başlatmak için tıkla.",
