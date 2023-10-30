@@ -2,8 +2,8 @@
   "scoreboard.ping": "Gecikme",
   "scoreboard.anticheat": "Anti-Hile",
   "scoreboard.version": "Sürüm",
-  "scoreboard.cps": "CPS",
-  "scoreboard.bps": "Hız",
+  "scoreboard.cps": "Atak/sn",
+  "scoreboard.bps": "Hız/sn",
   "scoreboard.balance": "Denge",
 
   "scoreboard.engine": "Motor",
@@ -99,15 +99,15 @@
 
   "disguised.join.message": "Hala kılığın",
 
-  "pvp.enabled": "PvP aktifleştirildi.",
-  "pvp.disabled": "PvP is now disabled",
+  "pvp.enabled": "PvP açıldı.",
+  "pvp.disabled": "PvP kapatıldı.",
   "pvp.toggled_enable": "PvP izinleri kaldırıldı.",
   "pvp.wait": "Lütfen bekleyin...",
   "pvp.countdown": "PvP şu kadar süre içerisinde aktifleştirilecek",
   "pvp.countdown.second": "saniye",
   "pvp.countdown.seconds": "saniye",
   "pvp.reset.items": "PvP aktifleştirildiğinde bütün büyülü itemleriniz kaldırlacak. (gitmesini istemiyorsanız lütfen ayrılın)",
-  "pvp.death.message": "öldürüldü, öldüren: ",
+  "pvp.death.message": "şu kişi tarafından öldürüldü: ",
 
   "alerts.filter": "Anti-Hile mesajları filtreleniyor herkes için ayrı olarak!",
 
@@ -120,7 +120,7 @@
   "civ.break.test": "Bloğu kurdun",
   "civ.break.test_2": "tickinde",
 
-  "flying.kick.title": "Sunucu tarafından atılmıştın",
+  "flying.kick.title": "Sunucu tarafından atıldın",
   "tag.color.change": "Etiket rengin artık ",
 
   "anticheat.vote.voted": "Oy verdiğin kişi",
@@ -178,9 +178,9 @@
   "command.help.description.language": "Sunucu dilini değiştirir.",
 
   "gui.select": "Seçmek için tıkla",
-  "anticheat.message.failed": "Başarısız",
+  "anticheat.message.failed": "yakalandı",
 
-  "scoreboard.queued": "Queued for",
+  "scoreboard.queued": "Sıraya Girildi:",
   "gui.anticheat.item.external_server": "Bu anti-hile başka bir sunucuda çalışıyor.",
   "gui.anticheat.item.server_online": "Bu sunucu açık, bağlanmak için tıkla.",
   "gui.anticheat.item.server_offline": "Bu sunucu kapalı, başlatmak için tıkla.",
@@ -190,7 +190,7 @@
   "textureID": "9852b9aba3482348514c1034d0affe73545c9de679ae4647f99562b5e5f47d09",
 
   "credits": [
-    "Tecnio",
-    "GameVPR"
+    "GameVPR",
+    "Tecnio"
   ]
 }
