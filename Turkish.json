@@ -187,6 +187,9 @@
   "gui.anticheat.item.server_starting": "Bu sunucu şu anda başlatılıyor.",
   "external.server.start.command.sent": "Bu sunucu şu anda başlatılıyor, aktif olduğunda gönderileceksin.",
 
+  "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
+  "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
+
   "textureID": "9852b9aba3482348514c1034d0affe73545c9de679ae4647f99562b5e5f47d09",
 
   "credits": [

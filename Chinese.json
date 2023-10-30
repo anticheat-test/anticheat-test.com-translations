@@ -187,6 +187,9 @@
   "gui.anticheat.item.server_starting": "该服务器正在启动中…",
   "external.server.start.command.sent": "服务器正在启动，一旦服务器上线，您将被传送到该服务器",
 
+  "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
+  "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
+
   "textureID": "7f9bc035cdc80f1ab5e1198f29f3ad3fdd2b42d9a69aeb64de990681800b98dc",
 
   "credits": [

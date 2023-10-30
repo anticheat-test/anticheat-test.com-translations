@@ -185,6 +185,9 @@
   "gui.anticheat.item.server_starting": "This server is currently booting up...",
   "external.server.start.command.sent": "This server is now starting up, you will be sent to that server once its online.",
 
+  "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
+  "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
+
   "textureID": "9a46475d5dcc815f6c5f2859edbb10611f3e861c0eb14f088161b3c0ccb2b0d9",
 
   "credits": [

@@ -187,6 +187,9 @@
   "gui.anticheat.item.server_starting": "이 서버는 현재 부팅 중입니다...",
   "external.server.start.command.sent": "이 서버는 지금 시작 중이며, 온라인 상태가 되면 해당 서버로 보내질 것 입니다.",
 
+  "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
+  "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
+
   "textureID": "ca12913d7df640d18bcc7a45a8172c68ffa04756e84c6f0a2eda3da45e00dadd",
 
   "credits": [

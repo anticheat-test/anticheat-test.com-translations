@@ -187,6 +187,9 @@
   "gui.anticheat.item.server_starting": "Server này đang khởi động...",
   "external.server.start.command.sent": "Server này đang khởi động, bạn sẽ được di chuyển đến server đó sớm..",
 
+  "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
+  "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
+
   "textureID": "1c8b7c7fb08ab8947812bb9d14da049ed2d51ad8cb932b392c2266b257adc2ac",
 
   "credits": [

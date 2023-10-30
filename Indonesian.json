@@ -186,6 +186,9 @@
   "gui.anticheat.item.server_starting": "Server ini saat ini sedang mulai...",
   "external.server.start.command.sent": "Server ini sekarang sedang mulai, Anda akan dikirim ke server tersebut begitu server tersebut online.",
 
+  "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
+  "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
+
   "textureID": "cbe63fcaa0203f8046fb96375d079a5c09b4161d0119d7194566e689cab18f68",
 
   "credits": [
