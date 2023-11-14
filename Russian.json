@@ -190,6 +190,22 @@
   "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
   "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
 
+  "player.setting.direct.messages": "Direct Messages",
+  "player.setting.direct.messages.description": "Toggle direct messages on/off",
+
+  "command.message.reply.nobody": "You don't have anyone to reply to",
+  "command.message.reply.usage": "Usage: /reply <message>",
+
+  "command.message.usage": "Usage: /message <player> <message>",
+  "command.message.finderror": "Could not find the player",
+  "command.message.message.self": "You cannot message yourself.",
+  "command.message.disabled": "You have direct messaged toggled off, enable them using /settings to use this command.",
+
+  "command.message.tell.replaced": "/tell has been replaced with /message or /msg",
+
+  "player.setting.hide.players": "Hide All Online Players",
+  "player.setting.hide.players.description": "Toggle the player hider on/off",
+
   "textureID": "16eafef980d6117dabe8982ac4b4509887e2c4621f6a8fe5c9b735a83d775ad",
 
   "credits": [
