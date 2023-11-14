@@ -206,6 +206,9 @@
     "player.setting.hide.players": "Hide All Online Players",
     "player.setting.hide.players.description": "Toggle the player hider on/off",
 
+    "hidden.action.message.1": "All players are currently hidden",
+    "hidden.action.message.2": "(use /settings to change this)",
+
     "textureID": "c3b83a89d89e53aeddfbf6850fab3a3b52021fa41d734810d19bb925f4bc881b",
 
     "credits": [
