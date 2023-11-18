@@ -190,11 +190,11 @@
   "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
   "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
 
-  "player.setting.direct.messages": "Direct Messages",
-  "player.setting.direct.messages.description": "Toggle direct messages on/off",
+  "player.setting.direct.messages": "Nhắn tin riêng (DM)",
+  "player.setting.direct.messages.description": "Bật/tắt nhắn tin riêng",
 
-  "command.message.reply.nobody": "You don't have anyone to reply to",
-  "command.message.reply.usage": "Usage: /reply <message>",
+  "command.message.reply.nobody": "Bạn không có ai để trả lời lại cả.",
+  "command.message.reply.usage": "Cách sử dụng: /reply <tin nhắn>",
 
   "command.message.usage": "Usage: /message <player> <message>",
   "command.message.finderror": "Could not find the player",
@@ -203,11 +203,11 @@
 
   "command.message.tell.replaced": "/tell has been replaced with /message or /msg",
 
-  "player.setting.hide.players": "Hide All Online Players",
-  "player.setting.hide.players.description": "Toggle the player hider on/off",
+  "player.setting.hide.players": "Ẩn tất cả người chơi",
+  "player.setting.hide.players.description": "Bật/tắt ẩn người chơi đang online",
 
-  "hidden.action.message.1": "All players are currently hidden",
-  "hidden.action.message.2": "(use /settings to change this)",
+  "hidden.action.message.1": "Đã ẩn tất cả người chơi!",
+  "hidden.action.message.2": "(dùng /settings để thay đổi lựa chọn này)",
 
   "textureID": "1c8b7c7fb08ab8947812bb9d14da049ed2d51ad8cb932b392c2266b257adc2ac",
 
