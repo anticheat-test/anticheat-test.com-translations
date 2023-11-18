@@ -196,12 +196,12 @@
   "command.message.reply.nobody": "Bạn không có ai để trả lời lại cả.",
   "command.message.reply.usage": "Cách sử dụng: /reply <tin nhắn>",
 
-  "command.message.usage": "Usage: /message <player> <message>",
-  "command.message.finderror": "Could not find the player",
-  "command.message.message.self": "You cannot message yourself.",
-  "command.message.disabled": "You have direct messaged toggled off, enable them using /settings to use this command.",
+  "command.message.usage": "Cách sử dụng: /message <người chơi> <tin nhắn>",
+  "command.message.finderror": "Không tìm thấy người chơi!",
+  "command.message.message.self": "Không thể nhắn tin cho chính bản thân được. Tự kỷ à?",
+  "command.message.disabled": "Bạn đang để <Nhắn tin riêng (DM)> tắt, để bật tính năng này nhập /settings",
 
-  "command.message.tell.replaced": "/tell has been replaced with /message or /msg",
+  "command.message.tell.replaced": "/tell đã được thay thế bằng /message hoặc /msg",
 
   "player.setting.hide.players": "Ẩn tất cả người chơi",
   "player.setting.hide.players.description": "Bật/tắt ẩn người chơi đang online",
