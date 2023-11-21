@@ -187,6 +187,7 @@
   "gui.anticheat.item.server_starting": "Этот сервер в процессе запуска...",
   "external.server.start.command.sent": "Сервер в процессе запуска, после его запуска вас автоматически перекинет на него.",
 
+
   "player.setting.scaffold.refill.blocks": "Автоматическое перезаполнение блоков",
   "player.setting.scaffold.refill.blocks.description": "Автоматически перезаполняет ваши блоки в scaffold зоне",
 
@@ -208,6 +209,7 @@
 
   "hidden.action.message.1": "Все игроки в данный момент скрыты",
   "hidden.action.message.2": "(используйте /settings для выключения)",
+
 
   "textureID": "16eafef980d6117dabe8982ac4b4509887e2c4621f6a8fe5c9b735a83d775ad",
 

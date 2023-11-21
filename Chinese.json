@@ -1,0 +1,217 @@
+{
+  "scoreboard.ping": "延迟",
+  "scoreboard.anticheat": "反作弊",
+  "scoreboard.version": "版本",
+  "scoreboard.cps": "CPS",
+  "scoreboard.bps": "BPS",
+  "scoreboard.balance": "Balance",
+
+  "scoreboard.engine": "引擎",
+  "scoreboard.engine.correct": "你的Strafe没有问题",
+  "scoreboard.engine.incorrect": "你的Strafe有问题",
+
+  "scoreboard.sprinting": "疾跑中",
+  "scoreboard.sneaking": "潜行中",
+  "scoreboard.attacking": "攻击中",
+  "scoreboard.blocking": "格挡中",
+
+  "scoreboard.fight": "战斗",
+  "scoreboard.arena": "地图",
+  "scoreboard.duration": "持续时间",
+
+  "scoreboard.restart": "重启",
+
+  "yes": "是",
+  "no": "否",
+
+  "true": "是",
+  "false": "否",
+
+  "tab.rank": "称号",
+  "tab.online": "在线玩家",
+  "tab.players": "名玩家",
+  "tab.player": "Player",
+  "tab.cpu": "CPU",
+  "tab.memory": "内存",
+  "tab.tps": "TPS",
+
+  "gui.tagcolor": "头衔颜色",
+  "gui.items": "物品",
+  "gui.playerSettings": "玩家设置",
+  "gui.warps": "Warps",
+
+  "gui.warps.click": "点击传送到",
+
+  "gui.playerSettings.modify": "点击 %s 这个设置",
+  "gui.playerSettings.disabled": "关闭",
+  "gui.playerSettings.enabled": "开启",
+
+  "gui.items.click": "点击获取这个物品",
+
+  "gui.chest.test.item": "箱子小偷测试物品",
+
+  "gui.anticheat.title": "反作弊选择菜单",
+  "gui.anticheat.vote": "反作弊投票",
+  "gui.anticheat.item.author": "作者",
+  "gui.anticheat.item.description": "介绍",
+  "gui.anticheat.item.version": "版本",
+  "gui.anticheat.item.reconnect_required": "选择此反作弊将要求您重新进入此服务器",
+  "gui.anticheat.item.sandbox": "这个反作弊在沙盒中运行",
+  "gui.anticheat.item.sandbox.line2": "它可能需要一个日志才能正常工作",
+  "gui.anticheat.item.voting": "投票",
+
+  "player.setting.fall_damage": "摔落伤害",
+  "player.setting.fall_damage_description": "关闭 / 开启 摔落伤害",
+
+  "player.setting.flying_kick": "飞行踢出",
+  "player.setting.flying_kick_description": "开启 / 关闭 这个服务器的飞行踢出",
+
+  "player.settings.notify_flying": "飞行踢出通知",
+  "player.settings.notify_flying_description": "开启 / 关闭 你因为飞踢而被踢时的通知",
+
+  "player.settings.hunger": "饥饿",
+  "player.settings.hunger_description": "开启 / 关闭 饥饿",
+
+  "player.setting.external_damage": "外部伤害",
+  "player.setting.external_damage_description": "开启 / 关闭 外部伤害",
+
+  "player.settings.potions": "药水效果",
+  "player.settings.potions_description": "开启 / 关闭 药水效果",
+
+  "player.settings.hitbox": "Visual Hitbox Debugger",
+  "player.settings.hitbox_description": "开启 / 关闭 visual hit-boxes",
+
+  "player.settings.raytrace": "Visual RayTrace Debugger",
+  "player.settings.raytrace.description": "开启 / 关闭 visual raytrace debugger",
+
+  "player.settings.critical_debugger": "Visual Critical Hits Debugger",
+  "player.settings.critical_debugger_description": "开启 / 关闭 visual criticals hit debugger",
+
+  "anticheat.selected": "你已经切换到",
+  "anticheat.kick.requires_reconnect": "需要重新连接才能完全工作",
+  "anticheat.kick.requires_reconnect_warning_1": "从",
+  "anticheat.kick.requires_reconnect_warning_2": "需要重新连接",
+
+  "action.title.server.position": "Server Position (S08)",
+  "action.title.server.seconds": "seconds",
+  "action.title.server.tick": "tick",
+  "action.title.server.ticks": "ticks",
+
+  "disguised.join.message": "你伪装成",
+
+  "pvp.enabled": "PvP 已开启",
+  "pvp.disabled": "PvP 已关闭",
+  "pvp.toggled_enable": "PvP 已开启",
+  "pvp.wait": "请稍等...",
+  "pvp.countdown": "PvP将在",
+  "pvp.countdown.second": "秒",
+  "pvp.countdown.seconds": "秒",
+  "pvp.reset.items": "当pvp启用时，您的库存中的所有附魔物品将被重置(如果您不希望它们被重置，请离开)",
+  "pvp.death.message": "was killed by",
+
+  "alerts.filter": "默认情况下，警报被过滤以查看每个人的警报类型",
+
+  "join.message": "使用 /help 查看帮助",
+  "discord.message": "Discord邀请",
+
+  "damage.action": "You dealt the damage",
+  "damage.action.critical.hit": "[Critical Hit]",
+
+  "civ.break.test": "你摧毁了方块",
+  "civ.break.test_2": "in the tick",
+
+  "flying.kick.title": "你已被踢出",
+  "tag.color.change": "你现在的头衔颜色",
+
+  "anticheat.vote.voted": "你投票给",
+  "anticheat.vote.voted_other_player": "投票给",
+
+  "chat.disabled": "聊天已被关闭",
+  "chat.throttle": "请稍候再发送另一条消息",
+  "chat.chain": "不要在聊天中发送链接",
+
+  "anticheat.kick.title": "你已被踢出",
+  "anticheat.kick.vulcan.transaction": "Transaction Timeout",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan would've kicked you for transaction timeout",
+
+  "anticheat.kick.vulcan.keepalive": "KeepAlive Timeout",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan would've kicked you for keepalive timeout",
+
+  "anticheat.kick.vulcan.ping": "Max Ping",
+  "anticheat.kick.vulcan.ping_2": "Vulcan would've kicked you for max ping",
+
+  "anticheat.kick.vulcan.desync": "Desync",
+  "anticheat.kick.vulcan.desync_2": "Vulcan would've kicked you for desync",
+
+  "chest.test.message_1": "花了",
+  "chest.test.message_2": "去拾取箱子里的物品",
+  "chest.test.message_3": "的",
+  "chest.test.message_4": "物品已被拿走",
+
+  "speed.test.start.title.1": "GO!",
+  "speed.test.start.title.2": "跑到头获取测试结果",
+  "speed.test.starting": "Starting in",
+  "speed.test.results": "Speed Test Results",
+  "speed.test.average.bps": "Average BPS",
+  "speed.test.highest.bps": "Highest BPS",
+  "speed.test.lowest.bps": "Lowest BPS",
+  "speed.test.totalseconds": "Total Seconds",
+
+  "scaffold.test.enter": "您现在可以放置方块",
+  "scaffold.test.enter_2": "使用 /items 去获取物品",
+  "scaffold.test.exit": "您现在不可以放置方块",
+
+  "velocity.test.apply": "Applied velocity",
+
+  "command.help.description.help": "This command...",
+  "command.help.description.spawn": "Teleports you to spawn",
+  "command.help.description.warp": "No arguments will open a GUI, or you can append an argument to teleport to",
+  "command.help.description.items": "List of items you can use",
+  "command.help.description.enchant": "Allows you to enchant any item",
+  "command.help.description.anticheat": "Anticheat selection GUI",
+  "command.help.description.ac": "Same as /anticheat",
+  "command.help.description.heal": "Resets your food level and health",
+  "command.help.description.settings": "List of settings you can toggle on and off",
+  "command.help.description.clear": "Clears your inventory",
+  "command.help.description.tagcolor": "Changes your name color in tab",
+  "command.help.description.tc": "Same as /tagcolor",
+  "command.help.description.language": "Changes server language",
+
+  "gui.select": "点击选中",
+  "anticheat.message.failed": "被检测",
+
+  "scoreboard.queued": "Queued for",
+  "gui.anticheat.item.external_server": "这个反作弊在子服上运行",
+  "gui.anticheat.item.server_online": "此服务器在线，单击连接此服务器",
+  "gui.anticheat.item.server_offline": "此服务器已关闭，单击启动它",
+  "gui.anticheat.item.server_starting": "该服务器正在启动中…",
+  "external.server.start.command.sent": "服务器正在启动，一旦服务器上线，您将被传送到该服务器",
+
+  "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
+  "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
+
+  "player.setting.direct.messages": "Direct Messages",
+  "player.setting.direct.messages.description": "Toggle direct messages on/off",
+
+  "command.message.reply.nobody": "You don't have anyone to reply to",
+  "command.message.reply.usage": "Usage: /reply <message>",
+
+  "command.message.usage": "Usage: /message <player> <message>",
+  "command.message.finderror": "Could not find the player",
+  "command.message.message.self": "You cannot message yourself.",
+  "command.message.disabled": "You have direct messaged toggled off, enable them using /settings to use this command.",
+
+  "command.message.tell.replaced": "/tell has been replaced with /message or /msg",
+
+  "player.setting.hide.players": "Hide All Online Players",
+  "player.setting.hide.players.description": "Toggle the player hider on/off",
+
+  "hidden.action.message.1": "All players are currently hidden",
+  "hidden.action.message.2": "(use /settings to change this)",
+
+  "textureID": "7f9bc035cdc80f1ab5e1198f29f3ad3fdd2b42d9a69aeb64de990681800b98dc",
+
+  "credits": [
+    "xiaohanbao233"
+  ]
+}

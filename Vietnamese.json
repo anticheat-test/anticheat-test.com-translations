@@ -187,6 +187,30 @@
   "gui.anticheat.item.server_starting": "Server này đang khởi động...",
   "external.server.start.command.sent": "Server này đang khởi động, bạn sẽ được di chuyển đến server đó sớm..",
 
+  "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
+  "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
+
+  "player.setting.direct.messages": "Nhắn tin riêng (DM)",
+  "player.setting.direct.messages.description": "Bật/tắt nhắn tin riêng",
+
+  "command.message.reply.nobody": "Bạn không có ai để trả lời lại cả.",
+  "command.message.reply.usage": "Cách sử dụng: /reply <tin nhắn>",
+
+  "command.message.usage": "Cách sử dụng: /message <người chơi> <tin nhắn>",
+  "command.message.finderror": "Không tìm thấy người chơi!",
+  "command.message.message.self": "Không thể nhắn tin cho chính bản thân được. Tự kỷ à?",
+  "command.message.disabled": "Bạn đang để <Nhắn tin riêng (DM)> tắt, để bật tính năng này nhập /settings",
+
+  "command.message.tell.replaced": "/tell đã được thay thế bằng /message hoặc /msg",
+
+  "player.setting.hide.players": "Ẩn tất cả người chơi",
+  "player.setting.hide.players.description": "Bật/tắt ẩn người chơi đang online",
+
+  "hidden.action.message.1": "Đã ẩn tất cả người chơi!",
+  "hidden.action.message.2": "(dùng /settings để thay đổi lựa chọn này)",
+
+  "textureID": "1c8b7c7fb08ab8947812bb9d14da049ed2d51ad8cb932b392c2266b257adc2ac",
+
   "credits": [
     "thuy"
   ]

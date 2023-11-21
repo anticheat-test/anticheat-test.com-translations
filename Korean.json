@@ -187,6 +187,30 @@
   "gui.anticheat.item.server_starting": "이 서버는 현재 부팅 중입니다...",
   "external.server.start.command.sent": "이 서버는 지금 시작 중이며, 온라인 상태가 되면 해당 서버로 보내질 것 입니다.",
 
+  "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
+  "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
+
+  "player.setting.direct.messages": "Direct Messages",
+  "player.setting.direct.messages.description": "Toggle direct messages on/off",
+
+  "command.message.reply.nobody": "You don't have anyone to reply to",
+  "command.message.reply.usage": "Usage: /reply <message>",
+
+  "command.message.usage": "Usage: /message <player> <message>",
+  "command.message.finderror": "Could not find the player",
+  "command.message.message.self": "You cannot message yourself.",
+  "command.message.disabled": "You have direct messaged toggled off, enable them using /settings to use this command.",
+
+  "command.message.tell.replaced": "/tell has been replaced with /message or /msg",
+
+  "player.setting.hide.players": "Hide All Online Players",
+  "player.setting.hide.players.description": "Toggle the player hider on/off",
+
+  "hidden.action.message.1": "All players are currently hidden",
+  "hidden.action.message.2": "(use /settings to change this)",
+
+  "textureID": "ca12913d7df640d18bcc7a45a8172c68ffa04756e84c6f0a2eda3da45e00dadd",
+
   "credits": [
     "chs12345"
   ]

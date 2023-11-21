@@ -1,0 +1,217 @@
+{
+  "scoreboard.ping": "Ping",
+  "scoreboard.anticheat": "Anticheat",
+  "scoreboard.version": "Versió",
+  "scoreboard.cps": "CPS",
+  "scoreboard.bps": "BPS",
+  "scoreboard.balance": "Balança",
+
+  "scoreboard.engine": "Motor",
+  "scoreboard.engine.correct": "L'strafe és correcte",
+  "scoreboard.engine.incorrect": "L'strafe és incorrecte",
+
+  "scoreboard.sprinting": "Corrent",
+  "scoreboard.sneaking": "Ajupit",
+  "scoreboard.attacking": "Atacant",
+  "scoreboard.blocking": "Bloquejant",
+
+  "scoreboard.fight": "Lluita",
+  "scoreboard.arena": "Arena",
+  "scoreboard.duration": "Duració",
+
+  "scoreboard.restart": "Reinici",
+
+  "yes": "Sí",
+  "no": "No",
+
+  "true": "Vertader",
+  "false": "Fals",
+
+  "tab.rank": "Rang",
+  "tab.online": "Online",
+  "tab.players": "Jugadors",
+  "tab.player": "Jugador",
+  "tab.cpu": "CPU",
+  "tab.memory": "Memòria",
+  "tab.tps": "TPS",
+
+  "gui.tagcolor": "Color de la tag",
+  "gui.items": "Ítems",
+  "gui.playerSettings": "Configuració del jugador",
+  "gui.warps": "Warps",
+
+  "gui.warps.click": "Clic per teletransportar-te a",
+
+  "gui.playerSettings.modify": "Clic per %s aquesta opció",
+  "gui.playerSettings.disabled": "desactivar",
+  "gui.playerSettings.enabled": "activar",
+
+  "gui.items.click": "Clic per obtenir aquest item",
+
+  "gui.chest.test.item": "Item de prova de Chest Stealer",
+
+  "gui.anticheat.title": "Selecció de l'Anticheat",
+  "gui.anticheat.vote": "Votació de l'Anticheat",
+  "gui.anticheat.item.author": "Autor(s)",
+  "gui.anticheat.item.description": "Descripció",
+  "gui.anticheat.item.version": "Versió",
+  "gui.anticheat.item.reconnect_required": "Seleccionar aquest anticheat requerirà que tornis a connectar-te",
+  "gui.anticheat.item.sandbox": "Aquest anticheat està en una sandbox i pot ser que",
+  "gui.anticheat.item.sandbox.line2": "sigui necessari reconectarte perquè funcioni correctament.",
+  "gui.anticheat.item.voting": "Vots",
+
+  "player.setting.fall_damage": "Dany de caiguda",
+  "player.setting.fall_damage_description": "Activar / desactivar el dany de caiguda",
+
+  "player.setting.flying_kick": "Kick per volar",
+  "player.setting.flying_kick_description": "Activar / desactivar el kick del servidor per volar",
+
+  "player.settings.notify_flying": "Notificar kick per volar",
+  "player.settings.notify_flying_description": "Activar / desactivar la notificació quan ets expulsat per kick per volar",
+
+  "player.settings.hunger": "Fam",
+  "player.settings.hunger_description": "Activar / desactivar la fam",
+
+  "player.setting.external_damage": "Dany extern",
+  "player.setting.external_damage_description": "Activar / desactivar el dany extern",
+
+  "player.settings.potions": "Pocions",
+  "player.settings.potions_description": "Activar / desactivar els efectes de poció",
+
+  "player.settings.hitbox": "Debugger visual de les hitbox",
+  "player.settings.hitbox_description": "Activar / desactivar les hitboxes visuals",
+
+  "player.settings.raytrace": "Debugger visual de raytrace",
+  "player.settings.raytrace.description": "Activar / desactivar el raytrace visual",
+
+  "player.settings.critical_debugger": "Debugger visual de hits crítics",
+  "player.settings.critical_debugger_description": "Activar / desactivar els hits crítics visuals",
+
+  "anticheat.selected": "Has cambiat a",
+  "anticheat.kick.requires_reconnect": "requereix que et reconnectis perquè funcioni completament.",
+  "anticheat.kick.requires_reconnect_warning_1": "cambiant de",
+  "anticheat.kick.requires_reconnect_warning_2": "requereix que et reconnectis.",
+
+  "action.title.server.position": "Posició del servidor (S08)",
+  "action.title.server.seconds": "segons",
+  "action.title.server.tick": "tick",
+  "action.title.server.ticks": "ticks",
+
+  "disguised.join.message": "Segueixes disfressat com",
+
+  "pvp.enabled": "El PvP ara està activat",
+  "pvp.disabled": "El PvP ara està desactivat",
+  "pvp.toggled_enable": "El PvP ara està activat",
+  "pvp.wait": "Si us plau, espera...",
+  "pvp.countdown": "El PvP s'activarà en",
+  "pvp.countdown.second": "segon",
+  "pvp.countdown.seconds": "segons",
+  "pvp.reset.items": "Tots els items encantats dintre del teu inventari seràn resetejats quan s'activi el PvP (surt si no vols que es resetejin)",
+  "pvp.death.message": "ha sigut assasinat per",
+
+  "alerts.filter": "Les alertes estàn filtrades per defecte, si vols veure les alertes de tothom escriu",
+
+  "join.message": "utilitza /help per veure les comandes",
+  "discord.message": "Invitació al Discord",
+
+  "damage.action": "Has inflingit dany",
+  "damage.action.critical.hit": "[Hit Crític]",
+
+  "civ.break.test": "Has trencat el bloc",
+  "civ.break.test_2": "en el tick",
+
+  "flying.kick.title": "Hauries estat kickejat",
+  "tag.color.change": "El teu color de tag ara és",
+
+  "anticheat.vote.voted": "Has votat per",
+  "anticheat.vote.voted_other_player": "ha votat per",
+
+  "chat.disabled": "El xat està desactivat.",
+  "chat.throttle": "Si us plau, espera després d'enviar un altre missatge.",
+  "chat.chain": "No enviis missatges duplicats al xat.",
+
+  "anticheat.kick.title": "Hauries estat kickejat",
+  "anticheat.kick.vulcan.transaction": "Transaction Timeout",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan t'hauría kickejat per transaction timeout",
+
+  "anticheat.kick.vulcan.keepalive": "KeepAlive Timeout",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan t'hauría kickejat per keepalive timeout",
+
+  "anticheat.kick.vulcan.ping": "Max Ping",
+  "anticheat.kick.vulcan.ping_2": "Vulcan t'hauría kickejat per max ping",
+
+  "anticheat.kick.vulcan.desync": "Desync",
+  "anticheat.kick.vulcan.desync_2": "Vulcan t'hauría kickejat per desync",
+
+  "chest.test.message_1": "Ha trigat",
+  "chest.test.message_2": "d'agafar del cofre",
+  "chest.test.message_3": "de",
+  "chest.test.message_4": "items s'han agafat",
+
+  "speed.test.start.title.1": "SOM-HI!",
+  "speed.test.start.title.2": "Corre fins al final del test de velocitat per aconseguir un resultat",
+  "speed.test.starting": "Començant en",
+  "speed.test.results": "Resultats del test de velocitat",
+  "speed.test.average.bps": "Mitjana de BPS",
+  "speed.test.highest.bps": "BPS més alts",
+  "speed.test.lowest.bps": "BPS més baixos",
+  "speed.test.totalseconds": "Segons totals",
+
+  "scaffold.test.enter": "Ara es poden posar blocs",
+  "scaffold.test.enter_2": "Utilitza /items per agafar items",
+  "scaffold.test.exit": "Ara no es poden posar blocs",
+
+  "velocity.test.apply": "Velocity aplicat",
+
+  "command.help.description.help": "Aquesta comanda...",
+  "command.help.description.spawn": "Et teletransporta al spawn",
+  "command.help.description.warp": "Sense arguments obrirá una GUI, o pots escriure un argument per teletransportar-te",
+  "command.help.description.items": "Llista de items que pots utilitzar",
+  "command.help.description.enchant": "Et permet encantar qualsevol item",
+  "command.help.description.anticheat": "GUI de selecció d'Anticheat",
+  "command.help.description.ac": "El mateix que /anticheat",
+  "command.help.description.heal": "Reseteja el teu nivell de fam i vida",
+  "command.help.description.settings": "Llista de configuracions que pots activar i desactivar",
+  "command.help.description.clear": "Neteja el teu inventari",
+  "command.help.description.tagcolor": "Canvia el teu color de nom en el tab",
+  "command.help.description.tc": "El mateix que /tagcolor",
+  "command.help.description.language": "Canvia el llenguatge del servidor",
+
+  "gui.select": "Clic per seleccionar",
+  "anticheat.message.failed": "fallat",
+
+  "scoreboard.queued": "En la cua de",
+  "gui.anticheat.item.external_server": "Aquest anticheat s'està executant en un altre servidor",
+  "gui.anticheat.item.server_online": "Aquest servidor està online, fes clic per connectar-te",
+  "gui.anticheat.item.server_offline": "Aquest servidor està offline, fes clic per iniciar-ho",
+  "gui.anticheat.item.server_starting": "Aquest servidor està arrencant ara...",
+  "external.server.start.command.sent": "Aquest servidor s'està iniciant, seràs enviat a aquest servidor quan estigui online.",
+
+  "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
+  "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
+
+  "player.setting.direct.messages": "Direct Messages",
+  "player.setting.direct.messages.description": "Toggle direct messages on/off",
+
+  "command.message.reply.nobody": "You don't have anyone to reply to",
+  "command.message.reply.usage": "Usage: /reply <message>",
+
+  "command.message.usage": "Usage: /message <player> <message>",
+  "command.message.finderror": "Could not find the player",
+  "command.message.message.self": "You cannot message yourself.",
+  "command.message.disabled": "You have direct messaged toggled off, enable them using /settings to use this command.",
+
+  "command.message.tell.replaced": "/tell has been replaced with /message or /msg",
+
+  "player.setting.hide.players": "Hide All Online Players",
+  "player.setting.hide.players.description": "Toggle the player hider on/off",
+
+  "hidden.action.message.1": "All players are currently hidden",
+  "hidden.action.message.2": "(use /settings to change this)",
+
+  "textureID": "629ff19f8e74d4e052982dafe1a916812f6878c3862e995f891e4322e37f93f1",
+
+  "credits": [
+    "halflin"
+  ]
+}

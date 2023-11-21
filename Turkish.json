@@ -1,12 +1,12 @@
 {
-  "scoreboard.ping": "Ping",
+  "scoreboard.ping": "Gecikme",
   "scoreboard.anticheat": "Anti-Hile",
-  "scoreboard.version": "Versiyon",
-  "scoreboard.cps": "CPS",
-  "scoreboard.bps": "Hız",
-  "scoreboard.balance": "Paket Bütçen",
+  "scoreboard.version": "Sürüm",
+  "scoreboard.cps": "Atak/sn",
+  "scoreboard.bps": "Hız/sn",
+  "scoreboard.balance": "Denge",
 
-  "scoreboard.engine": "Hareket Motoru",
+  "scoreboard.engine": "Motor",
   "scoreboard.engine.correct": "Hareketleriniz doğru.",
   "scoreboard.engine.incorrect": "Hareketleriniz yanlış.",
 
@@ -22,10 +22,10 @@
   "scoreboard.restart": "Yeniden başlat",
 
   "yes": "Evet",
-  "no": "No",
+  "no": "Hayır",
 
-  "true": "doğru",
-  "false": "yanlış",
+  "true": "Doğru",
+  "false": "Yanlış",
 
   "tab.rank": "Rütbe",
   "tab.online": "Çevrimiçi",
@@ -44,7 +44,7 @@
 
   "gui.playerSettings.modify": "Ayarı %s için tıkla.",
   "gui.playerSettings.disabled": "açmak",
-  "gui.playerSettings.enabled": "kapamak",
+  "gui.playerSettings.enabled": "kapatmak",
 
   "gui.items.click": "Öğeyi almak için tıkla",
 
@@ -52,22 +52,22 @@
 
   "gui.anticheat.title": "Anti-Hile Seçimi",
   "gui.anticheat.vote": "Anti-Hile Oylaması",
-  "gui.anticheat.item.author": "Yazar(s)",
+  "gui.anticheat.item.author": "Yazar(lar)",
   "gui.anticheat.item.description": "Açıklama",
-  "gui.anticheat.item.version": "Versiyon",
+  "gui.anticheat.item.version": "Sürüm",
   "gui.anticheat.item.reconnect_required": "Bu anti-hileyi seçmek için sunucuya yeniden bağlanmalısın.",
   "gui.anticheat.item.sandbox": "Bu anti-hile sandboxlanmış.",
-  "gui.anticheat.item.sandbox.line2": "doğru çalışması için yeniden sunucuta bağlanman gerekebilir.",
+  "gui.anticheat.item.sandbox.line2": "doğru çalışması için sunucuya yeniden bağlanman gerekebilir.",
   "gui.anticheat.item.voting": "Oylar",
 
   "player.setting.fall_damage": "Düşme Hasarı",
   "player.setting.fall_damage_description": "Düşme hasarını aç veya kapat",
 
-  "player.setting.flying_kick": "Uçma Kicki",
-  "player.setting.flying_kick_description": "Sunucu uçuş kickini aç veya kapat",
+  "player.setting.flying_kick": "Uçma Atması",
+  "player.setting.flying_kick_description": "Sunucuda uçarken sunucudan atılmayı aç veya kapat",
 
-  "player.settings.notify_flying": "Uçuma Kicklerini Bana Göster",
-  "player.settings.notify_flying_description": "Uçma kickleri olduğunda bana göster veya gösterme",
+  "player.settings.notify_flying": "Uçuma Atmalarını Bana Göster",
+  "player.settings.notify_flying_description": "Uçma atmaları olduğunda bana göster veya gösterme",
 
   "player.settings.hunger": "Açlık",
   "player.settings.hunger_description": "Açlığı aç veya kapat",
@@ -92,26 +92,26 @@
   "anticheat.kick.requires_reconnect_warning_1": "bir önceki anti-hilen",
   "anticheat.kick.requires_reconnect_warning_2": "yeniden bağlanmanı gerektiriyor.",
 
-  "action.title.server.position": "Server Position (S08)",
+  "action.title.server.position": "Sunucu Pozisyonu (S08)",
   "action.title.server.seconds": "saniye",
   "action.title.server.tick": "tick",
   "action.title.server.ticks": "tickler",
 
   "disguised.join.message": "Hala kılığın",
 
-  "pvp.enabled": "PvP aktifleştirildi.",
-  "pvp.disabled": "PvP is now disabled",
+  "pvp.enabled": "PvP açıldı.",
+  "pvp.disabled": "PvP kapatıldı.",
   "pvp.toggled_enable": "PvP izinleri kaldırıldı.",
   "pvp.wait": "Lütfen bekleyin...",
   "pvp.countdown": "PvP şu kadar süre içerisinde aktifleştirilecek",
   "pvp.countdown.second": "saniye",
   "pvp.countdown.seconds": "saniye",
   "pvp.reset.items": "PvP aktifleştirildiğinde bütün büyülü itemleriniz kaldırlacak. (gitmesini istemiyorsanız lütfen ayrılın)",
-  "pvp.death.message": "öldürüldü, öldüren: ",
+  "pvp.death.message": "şu kişi tarafından öldürüldü: ",
 
   "alerts.filter": "Anti-Hile mesajları filtreleniyor herkes için ayrı olarak!",
 
-  "join.message": "komutlar vesaire için /help'i kullanın",
+  "join.message": "komutlar için /help'i kullanın",
   "discord.message": "Discord daveti",
 
   "damage.action": "Hasar verdin",
@@ -120,7 +120,7 @@
   "civ.break.test": "Bloğu kurdun",
   "civ.break.test_2": "tickinde",
 
-  "flying.kick.title": "Sunucu tarafından atılmıştın",
+  "flying.kick.title": "Sunucu tarafından atıldın",
   "tag.color.change": "Etiket rengin artık ",
 
   "anticheat.vote.voted": "Oy verdiğin kişi",
@@ -132,16 +132,16 @@
 
   "anticheat.kick.title": "Anti-Hile tarafından sunucudan atılırdın",
   "anticheat.kick.vulcan.transaction": "Transaction Gecikmesi",
-  "anticheat.kick.vulcan.transaction_2": "Vulcan transactionlara cevap vermediğinden seni sunucudan atardı",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan işlemlere cevap vermediğinden seni sunucudan attı.",
 
-  "anticheat.kick.vulcan.keepalive": "KeepAlive Gecikmesi",
-  "anticheat.kick.vulcan.keepalive_2": "Vulcan keepalivelara cevap vermediğinden seni sunucudan atardı",
+  "anticheat.kick.vulcan.keepalive": "KeepAlive gecikmesi",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan keepalivelara cevap vermediğinden seni sunucudan attı.",
 
-  "anticheat.kick.vulcan.ping": "Maksimum Ping",
-  "anticheat.kick.vulcan.ping_2": "Vulcan seni maksimum ping limitinden sunucudan atardı",
+  "anticheat.kick.vulcan.ping": "Maksimum gecikme",
+  "anticheat.kick.vulcan.ping_2": "Vulcan seni maksimum ping limitinden dolayı sunucudan attı.",
 
   "anticheat.kick.vulcan.desync": "Senkronizasyon Kayboldu",
-  "anticheat.kick.vulcan.desync_2": "Vulcan seni senkronizasyonun kaybolduğundan atardı",
+  "anticheat.kick.vulcan.desync_2": "Vulcan seni senkronizasyonun kaybolduğundan attı.",
 
   "chest.test.message_1": "Almak için harcadığın süre",
   "chest.test.message_2": "",
@@ -155,39 +155,64 @@
   "speed.test.average.bps": "Ortalama hız",
   "speed.test.highest.bps": "En üst hız",
   "speed.test.lowest.bps": "En düşük hız",
-  "speed.test.totalseconds": "Total Süre",
+  "speed.test.totalseconds": "Toplam Süre",
 
   "scaffold.test.enter": "Blok yerleştirme aktifleştirildi.",
-  "scaffold.test.enter_2": "Öğe almak için /items'ı kullanabiliriniz.",
+  "scaffold.test.enter_2": "Öğe almak için /items'i kullanabiliriniz.",
   "scaffold.test.exit": "Artık blok yerleştiremezsiniz.",
-
-  "velocity.test.apply": "Velocity uygulandı",
+  
+  "velocity.test.apply": "Sekme uygulandı",
 
   "command.help.description.help": "Bu komut...",
-  "command.help.description.spawn": "Seni başlangıca ışınlar",
-  "command.help.description.warp": "Argüman vermemek bir arayüz açar fakat bir argüman vererek direk gidebilirsiniz",
-  "command.help.description.items": "Kullanabileceğin öğeler bunlar",
-  "command.help.description.enchant": "Bir öğeyi büyüler",
-  "command.help.description.anticheat": "Anti-Hile Seçim Arayüzü",
-  "command.help.description.ac": "/anticheat ile aynı",
-  "command.help.description.heal": "Canını ve açlığını sıfırlıyor",
-  "command.help.description.settings": "Değiştirebileceğin ayarların listesi",
-  "command.help.description.clear": "Envanterini temizler",
-  "command.help.description.tagcolor": "Etkiket rengini tab menüsünde değiştirirdi.",
-  "command.help.description.tc": "/tagcolor ile aynı",
-  "command.help.description.language": "Changes server language",
+  "command.help.description.spawn": "Seni başlangıca ışınlar.",
+  "command.help.description.warp": "Işınlanma menüsünü açar.",
+  "command.help.description.items": "Eşya alma menüsünü açar.",
+  "command.help.description.enchant": "Elindeki eşyayı büyüler.",
+  "command.help.description.anticheat": "Anti-Hile seçim arayüzü.",
+  "command.help.description.ac": "Anti-Hile seçim arayüzü.",
+  "command.help.description.heal": "Canını ve açlığını sıfırlıyor.",
+  "command.help.description.settings": "Ayarları gösterir.",
+  "command.help.description.clear": "Envanterini temizler.",
+  "command.help.description.tagcolor": "Etiket rengini tab menüsünde değiştirir.",
+  "command.help.description.tc": "Etiket rengini tab menüsünde değiştirir.",
+  "command.help.description.language": "Sunucu dilini değiştirir.",
 
   "gui.select": "Seçmek için tıkla",
-  "anticheat.message.failed": "başarısız",
+  "anticheat.message.failed": "yakalandı",
 
-  "scoreboard.queued": "Queued for",
-  "gui.anticheat.item.external_server": "This anticheat is running on another server",
-  "gui.anticheat.item.server_online": "This server is online, click to connect",
-  "gui.anticheat.item.server_offline": "This server is offline, click to start it",
-  "gui.anticheat.item.server_starting": "This server is currently booting up...",
-  "external.server.start.command.sent": "This server is now starting up, you will be sent to that server once its online.",
+  "scoreboard.queued": "Sıraya Girildi:",
+  "gui.anticheat.item.external_server": "Bu anti-hile başka bir sunucuda çalışıyor.",
+  "gui.anticheat.item.server_online": "Bu sunucu açık, bağlanmak için tıkla.",
+  "gui.anticheat.item.server_offline": "Bu sunucu kapalı, başlatmak için tıkla.",
+  "gui.anticheat.item.server_starting": "Bu sunucu şu anda başlatılıyor.",
+  "external.server.start.command.sent": "Bu sunucu şu anda başlatılıyor, aktif olduğunda gönderileceksin.",
+
+  "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
+  "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
+
+  "player.setting.direct.messages": "Direct Messages",
+  "player.setting.direct.messages.description": "Toggle direct messages on/off",
+
+  "command.message.reply.nobody": "You don't have anyone to reply to",
+  "command.message.reply.usage": "Usage: /reply <message>",
+
+  "command.message.usage": "Usage: /message <player> <message>",
+  "command.message.finderror": "Could not find the player",
+  "command.message.message.self": "You cannot message yourself.",
+  "command.message.disabled": "You have direct messaged toggled off, enable them using /settings to use this command.",
+
+  "command.message.tell.replaced": "/tell has been replaced with /message or /msg",
+
+  "player.setting.hide.players": "Hide All Online Players",
+  "player.setting.hide.players.description": "Toggle the player hider on/off",
+
+  "hidden.action.message.1": "All players are currently hidden",
+  "hidden.action.message.2": "(use /settings to change this)",
+
+  "textureID": "9852b9aba3482348514c1034d0affe73545c9de679ae4647f99562b5e5f47d09",
 
   "credits": [
+    "GameVPR",
     "Tecnio"
   ]
 }
