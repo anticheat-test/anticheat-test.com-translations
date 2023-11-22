@@ -187,27 +187,29 @@
   "gui.anticheat.item.server_starting": "Этот сервер в процессе запуска...",
   "external.server.start.command.sent": "Сервер в процессе запуска, после его запуска вас автоматически перекинет на него.",
 
-  "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
-  "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
 
-  "player.setting.direct.messages": "Direct Messages",
-  "player.setting.direct.messages.description": "Toggle direct messages on/off",
+  "player.setting.scaffold.refill.blocks": "Автоматическое перезаполнение блоков",
+  "player.setting.scaffold.refill.blocks.description": "Автоматически перезаполняет ваши блоки в scaffold зоне",
 
-  "command.message.reply.nobody": "You don't have anyone to reply to",
-  "command.message.reply.usage": "Usage: /reply <message>",
+  "player.setting.direct.messages": "Личные сообщения",
+  "player.setting.direct.messages.description": "Включить/выключить личные сообщения",
 
-  "command.message.usage": "Usage: /message <player> <message>",
-  "command.message.finderror": "Could not find the player",
-  "command.message.message.self": "You cannot message yourself.",
-  "command.message.disabled": "You have direct messaged toggled off, enable them using /settings to use this command.",
+  "command.message.reply.nobody": "Вам некому отвечать",
+  "command.message.reply.usage": "Правильное использование: /reply <сообщение>",
 
-  "command.message.tell.replaced": "/tell has been replaced with /message or /msg",
+  "command.message.usage": "Правильное использование: /message <игрок> <сообщение>",
+  "command.message.finderror": "Не удаётся найти игрока",
+  "command.message.message.self": "Вы не можете писать сами себе.",
+  "command.message.disabled": "У вас выключены личные сообщения, включите их используя /settings для использования данной команды.",
 
-  "player.setting.hide.players": "Hide All Online Players",
-  "player.setting.hide.players.description": "Toggle the player hider on/off",
+  "command.message.tell.replaced": "/tell был заменён /message или /msg",
 
-  "hidden.action.message.1": "All players are currently hidden",
-  "hidden.action.message.2": "(use /settings to change this)",
+  "player.setting.hide.players": "Скрыть всех игроков",
+  "player.setting.hide.players.description": "Включить/выключить скрытие игроков",
+
+  "hidden.action.message.1": "Все игроки в данный момент скрыты",
+  "hidden.action.message.2": "(используйте /settings для выключения)",
+
 
   "textureID": "16eafef980d6117dabe8982ac4b4509887e2c4621f6a8fe5c9b735a83d775ad",
 
