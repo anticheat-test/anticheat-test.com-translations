@@ -208,6 +208,7 @@
 
   "hidden.action.message.1": "Đã ẩn tất cả người chơi!",
   "hidden.action.message.2": "(dùng /settings để thay đổi lựa chọn này)",
+  "discord.notlinked.message.cooldown": "You are on a message cool-down, to remove this cool-down you must link your discord account by using \"/discord connect\", (%ss remaining)",
 
   "textureID": "1c8b7c7fb08ab8947812bb9d14da049ed2d51ad8cb932b392c2266b257adc2ac",
 

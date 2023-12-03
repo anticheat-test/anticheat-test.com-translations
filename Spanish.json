@@ -208,6 +208,7 @@
 
   "hidden.action.message.1": "All players are currently hidden",
   "hidden.action.message.2": "(use /settings to change this)",
+  "discord.notlinked.message.cooldown": "You are on a message cool-down, to remove this cool-down you must link your discord account by using \"/discord connect\", (%ss remaining)",
 
   "textureID": "c2d730b6dda16b584783b63d082a80049b5fa70228aba4ae884c2c1fc0c3a8bc",
 
