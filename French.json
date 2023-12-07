@@ -1,0 +1,217 @@
+{
+  "scoreboard.ping": "Ping",
+  "scoreboard.anticheat": "Anticheat",
+  "scoreboard.version": "Version",
+  "scoreboard.cps": "CPS",
+  "scoreboard.bps": "BPS",
+  "scoreboard.balance": "Balance",
+
+  "scoreboard.engine": "Moteur",
+  "scoreboard.engine.correct": "Strafe est correcte",
+  "scoreboard.engine.incorrect": "Strafe est incorrecte",
+
+  "scoreboard.sprinting": "En train de courrir",
+  "scoreboard.sneaking": "Accroupi",
+  "scoreboard.attacking": "En train d'attaquer",
+  "scoreboard.blocking": "En train de bloquer",
+
+  "scoreboard.fight": "Combat",
+  "scoreboard.arena": "Arène",
+  "scoreboard.duration": "Durée",
+
+  "scoreboard.restart": "Redémarrer",
+
+  "yes": "Oui",
+  "no": "Non",
+
+  "true": "vrai",
+  "false": "faux",
+
+  "tab.rank": "Grade",
+  "tab.online": "En ligne",
+  "tab.players": "Joueurs",
+  "tab.player": "Joueur",
+  "tab.cpu": "CPU",
+  "tab.memory": "Mémoire RAM",
+  "tab.tps": "TPS",
+
+  "gui.tagcolor": "Couleur du tag",
+  "gui.items": "Items",
+  "gui.playerSettings": "Paramètres du joueur",
+  "gui.warps": "Warps",
+
+  "gui.warps.click": "Cliquez pour vous téléporter à",
+
+  "gui.playerSettings.modify": "Cliquez pour %s ce paramètre",
+  "gui.playerSettings.disabled": "désactiver",
+  "gui.playerSettings.enabled": "activer",
+
+  "gui.items.click": "Cliquez pour obtenir cet item",
+
+  "gui.chest.test.item": "Item de test de voleur de coffre",
+
+  "gui.anticheat.title": "Sélection de l'anticheat",
+  "gui.anticheat.vote": "Vote de l'anticheat",
+  "gui.anticheat.item.author": "Auteur(s)",
+  "gui.anticheat.item.description": "Description",
+  "gui.anticheat.item.version": "Version",
+  "gui.anticheat.item.reconnect_required": "Selectionner cet anticheat requiert une reconnexion.",
+  "gui.anticheat.item.sandbox": "Cet anticheat est sandboxé",
+  "gui.anticheat.item.sandbox.line2": "une reconnexion pourrait être requise pour que tout fonctionne.",
+  "gui.anticheat.item.voting": "Votes",
+
+  "player.setting.fall_damage": "Dégats de chute",
+  "player.setting.fall_damage_description": "Activer / Désactiver les dégats de chute",
+
+  "player.setting.flying_kick": "Kick pour vol",
+  "player.setting.flying_kick_description": "Activer / Désactiver le kick pour vol",
+
+  "player.settings.notify_flying": "Notifier en cas de kick pour vol",
+  "player.settings.notify_flying_description": "Activer / Désactiver la notification lorsque vous êtes expulsé pour vol",
+
+  "player.settings.hunger": "Faim",
+  "player.settings.hunger_description": "Activer / Désactiver la faim",
+
+  "player.setting.external_damage": "Dommages externes",
+  "player.setting.external_damage_description": "Activer / Désactiver les dommages externes",
+
+  "player.settings.potions": "Potions",
+  "player.settings.potions_description": "Activer / Désactiver les effets de potion",
+
+  "player.settings.hitbox": "Débogueur de boîte de collision visuelle",
+  "player.settings.hitbox_description": "Activer / Désactiver les boîtes de collision visuelles",
+
+  "player.settings.raytrace": "Débogueur visuel de RayTrace",
+  "player.settings.raytrace_description": "Activer / Désactiver le débogueur visuel de RayTrace",
+
+  "player.settings.critical_debugger": "Débogueur visuel des coups critiques",
+  "player.settings.critical_debugger_description": "Activer / Désactiver le débogueur visuel des coups critiques",
+
+  "anticheat.selected": "Vous avez basculé vers",
+  "anticheat.kick.requires_reconnect": "nécessite que vous vous reconnectiez pour fonctionner pleinement.",
+  "anticheat.kick.requires_reconnect_warning_1": "passer de",
+  "anticheat.kick.requires_reconnect_warning_2": "nécessite que vous vous reconnectiez.",
+
+  "action.title.server.position": "Position du serveur (S08)",
+  "action.title.server.seconds": "secondes",
+  "action.title.server.tick": "tick",
+  "action.title.server.ticks": "ticks",
+
+  "disguised.join.message": "Vous êtes toujours déguisé en tant que",
+
+  "pvp.enabled": "Le PvP est maintenant activé",
+  "pvp.disabled": "Le PvP est maintenant désactivé",
+  "pvp.toggled_enable": "Le PvP est maintenant activé",
+  "pvp.wait": "Veuillez patienter...",
+  "pvp.countdown": "Le PvP sera activé dans",
+  "pvp.countdown.second": "seconde",
+  "pvp.countdown.seconds": "secondes",
+  "pvp.reset.items": "Tous les objets enchantés dans votre inventaire seront réinitialisés lorsque le PvP est activé (quittez si vous ne voulez pas qu'ils soient réinitialisés)",
+  "pvp.death.message": "a été tué par",
+
+  "alerts.filter": "Les alertes sont filtrées par défaut pour voir le type d'alertes de tout le monde",
+
+  "join.message": "utilisez /help pour les commandes et autres",
+  "discord.message": "Invitation Discord",
+
+  "damage.action": "Vous avez infligé des dégâts",
+  "damage.action.critical.hit": "[Coup critique]",
+
+  "civ.break.test": "Vous avez cassé le bloc",
+  "civ.break.test_2": "au tick",
+
+  "flying.kick.title": "Vous auriez été expulsé",
+  "tag.color.change": "La couleur de votre tag est maintenant",
+
+  "anticheat.vote.voted": "Vous avez voté pour",
+  "anticheat.vote.voted_other_player": "a voté pour",
+
+  "chat.disabled": "Le chat est désactivé",
+  "chat.throttle": "Veuillez attendre avant d'envoyer un autre message.",
+  "chat.chain": "Ne chaînez pas les messages dans le chat.",
+
+  "anticheat.kick.title": "Vous auriez été expulsé",
+  "anticheat.kick.vulcan.transaction": "Délai d'expiration de la transaction",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan vous aurait expulsé pour délai d'expiration de la transaction",
+
+  "anticheat.kick.vulcan.keepalive": "Délai d'expiration KeepAlive",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan vous aurait expulsé pour délai d'expiration KeepAlive",
+
+  "anticheat.kick.vulcan.ping": "Ping maximum",
+  "anticheat.kick.vulcan.ping_2": "Vulcan vous aurait expulsé pour ping maximum",
+
+  "anticheat.kick.vulcan.desync": "Désynchronisation",
+  "anticheat.kick.vulcan.desync_2": "Vulcan vous aurait expulsé pour désynchronisation",
+
+  "chest.test.message_1": "Il a fallu",
+  "chest.test.message_2": "pour voler le coffre",
+  "chest.test.message_3": "sur",
+  "chest.test.message_4": "objets ont été pris",
+
+  "speed.test.start.title.1": "C'EST PARTI !",
+  "speed.test.start.title.2": "Courez jusqu'à la fin du test de vitesse pour obtenir un résultat",
+  "speed.test.starting": "Démarrage dans",
+  "speed.test.results": "Résultats du test de vitesse",
+  "speed.test.average.bps": "Débit moyen",
+  "speed.test.highest.bps": "Débit maximal",
+  "speed.test.lowest.bps": "Débit minimal",
+  "speed.test.totalseconds": "Total des secondes",
+
+  "scaffold.test.enter": "Les blocs sont maintenant placés",
+  "scaffold.test.enter_2": "Utilisez /items pour obtenir des objets",
+  "scaffold.test.exit": "Les blocs ne sont plus placés",
+
+  "velocity.test.apply": "Vélocité appliquée",
+
+  "command.help.description.help": "Cette commande...",
+  "command.help.description.spawn": "Vous téléporte à l'apparition",
+  "command.help.description.warp": "Aucun argument n'ouvrira une GUI, ou vous pouvez ajouter un argument pour vous téléporter à",
+  "command.help.description.items": "Liste des objets que vous pouvez utiliser",
+  "command.help.description.enchant": "Vous permet d'enchanter n'importe quel objet",
+  "command.help.description.anticheat": "GUI de sélection d'anticheat",
+  "command.help.description.ac": "Identique à /anticheat",
+  "command.help.description.heal": "Réinitialise votre niveau de nourriture et votre santé",
+  "command.help.description.settings": "Liste des paramètres que vous pouvez activer ou désactiver",
+  "command.help.description.clear": "Efface votre inventaire",
+  "command.help.description.tagcolor": "Change la couleur de votre nom dans l'onglet",
+  "command.help.description.tc": "Identique à /tagcolor",
+  "command.help.description.language": "Change la langue du serveur",
+
+  "gui.select": "Cliquez pour sélectionner",
+  "anticheat.message.failed": "a échoué",
+
+  "scoreboard.queued": "En file d'attente pour",
+  "gui.anticheat.item.external_server": "Cet anticheat s'exécute sur un autre serveur",
+  "gui.anticheat.item.server_online": "Ce serveur est en ligne, cliquez pour vous connecter",
+  "gui.anticheat.item.server_offline": "Ce serveur est hors ligne, cliquez pour le démarrer",
+  "gui.anticheat.item.server_starting": "Ce serveur est en cours de démarrage...",
+  "external.server.start.command.sent": "Ce serveur démarre maintenant, vous serez envoyé sur ce serveur une fois qu'il sera en ligne.",
+
+  "player.setting.scaffold.refill.blocks": "Recharge automatique des blocs",
+  "player.setting.scaffold.refill.blocks.description": "Recharge automatiquement vos blocs dans la zone de l'échafaudage",
+
+  "player.setting.direct.messages": "Messages directs",
+  "player.setting.direct.messages.description": "Activer/désactiver les messages directs",
+
+  "command.message.reply.nobody": "Vous n'avez personne à qui répondre",
+  "command.message.reply.usage": "Utilisation : /reply <message>",
+
+  "command.message.usage": "Utilisation : /message <joueur> <message>",
+  "command.message.finderror": "Impossible de trouver le joueur",
+  "command.message.message.self": "Vous ne pouvez pas vous envoyer un message.",
+  "command.message.disabled": "Vous avez désactivé les messages directs, activez-les avec /settings pour utiliser cette commande.",
+
+  "command.message.tell.replaced": "/tell a été remplacé par /message ou /msg",
+
+  "player.setting.hide.players": "Masquer tous les joueurs en ligne",
+  "player.setting.hide.players.description": "Activer/désactiver le masquage des joueurs",
+
+  "hidden.action.message.1": "Tous les joueurs sont actuellement masqués",
+  "hidden.action.message.2": "(utilisez /settings pour changer cela)",
+
+  "textureID": "6903349fa45bdd87126d9cd3c6c0abba7dbd6f56fb8d78701873a1e7c8ee33cf",
+
+  "credits": [
+    "ri1_"
+  ]
+}
