@@ -210,6 +210,10 @@
   "hidden.action.message.2": "(use /settings to change this)",
   "discord.notlinked.message.cooldown": "You are on a message cool-down, to remove this cool-down you must link your discord account by using \"/discord connect\", (%ss remaining)",
 
+  "scoreboard.pps.pps": "PPS",
+  "scoreboard.pps.in": "in",
+  "scoreboard.pps.out": "out",
+
   "textureID": "85ce89223fa42fe06ad65d8d44ca412ae899c831309d68924dfe0d142fdbeea4",
 
   "credits": [
