@@ -215,6 +215,8 @@
   "scoreboard.pps.in": "in",
   "scoreboard.pps.out": "out",
 
+  "explosion.place.area": "This area is not safe, try in another area.",
+
   "textureID": "c439d7f9c67f32dcbb86b7010b1e14b60de96776a35f61cee982660aacf5264b",
 
   "credits": [
