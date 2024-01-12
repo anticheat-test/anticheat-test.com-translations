@@ -220,6 +220,8 @@
   "scoreboard.gcd.incorrect": "GCD is incorrect",
   "hotbar.hitmiss": "Hit/Miss Ratio",
 
+  "detections.post": "Looks like you are currently attacking/placing on POST, this is a very common check on most anti-cheats you may want to change this if you are unaware.",
+
   "textureID": "5e7899b4806858697e283f084d9173fe487886453774626b24bd8cfecc77b3f",
 
   "credits": [
