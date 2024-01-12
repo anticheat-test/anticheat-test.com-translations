@@ -216,6 +216,10 @@
 
   "explosion.place.area": "This area is not safe, try in another area.",
 
+  "scoreboard.gcd.correct": "GCD is correct",
+  "scoreboard.gcd.incorrect": "GCD is incorrect",
+  "hotbar.hitmiss": "Hit/Miss Ratio",
+
   "textureID": "629ff19f8e74d4e052982dafe1a916812f6878c3862e995f891e4322e37f93f1",
 
   "credits": [
