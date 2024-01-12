@@ -221,6 +221,8 @@
   "hotbar.hitmiss": "Hit/Miss Ratio",
 
   "detections.post": "Looks like you are currently attacking/placing on POST, this is a very common check on most anti-cheats you may want to change this if you are unaware.",
+  "player.setting.background.detections": "Background Detections",
+  "player.setting.background.detections.description": "Warns you of any basic stuff that most anti-cheats flag for",
 
   "textureID": "9852b9aba3482348514c1034d0affe73545c9de679ae4647f99562b5e5f47d09",
 
