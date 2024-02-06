@@ -227,6 +227,7 @@
   "packetSelection.gui.title": "Packet Selector",
   "packetSelection.part.1": "Click to",
   "packetSelection.part.2": "this packet",
+  "packetDebugger.disabled": "The debugger cannot be used on the client you are using.",
 
   "textureID": "cbe63fcaa0203f8046fb96375d079a5c09b4161d0119d7194566e689cab18f68",
 
