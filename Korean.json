@@ -225,6 +225,10 @@
   "player.setting.background.detections": "Background Detections",
   "player.setting.background.detections.description": "Warns you of any basic stuff that most anti-cheats flag for",
 
+  "packetSelection.gui.title": "Packet Selector",
+  "packetSelection.part.1": "Click to",
+  "packetSelection.part.2": "this packet",
+
   "textureID": "ca12913d7df640d18bcc7a45a8172c68ffa04756e84c6f0a2eda3da45e00dadd",
 
   "credits": [
