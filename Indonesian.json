@@ -176,6 +176,8 @@
   "command.help.description.tagcolor": "Mengubah warna nama Anda di tab",
   "command.help.description.tc": "Sama dengan /tagcolor",
   "command.help.description.language": "Mengubah bahasa server",
+  "command.help.description.packetdebugger": "Toggles to packet debugger",
+  "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
 
   "gui.select": "Klik untuk memilih",
   "anticheat.message.failed": "gagal",

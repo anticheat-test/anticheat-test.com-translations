@@ -177,6 +177,8 @@
     "command.help.description.tagcolor": "Ndyrshon ngjyrën së emrit suaj në tab",
     "command.help.description.tc": "Njësoj si /ngjyrëetikete",
     "command.help.description.language": "Ndryshon gjuhën e server-it",
+    "command.help.description.packetdebugger": "Toggles to packet debugger",
+    "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
   
     "gui.select": "Klikoni për të zgjedhur",
     "anticheat.message.failed": "S'punoj",

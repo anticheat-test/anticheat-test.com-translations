@@ -177,6 +177,8 @@
   "command.help.description.tagcolor": "Изменяет цвет вашего ника в табе",
   "command.help.description.tc": "Тоже самое, что и /tagcolor",
   "command.help.description.language": "Изменяет язык сервера",
+  "command.help.description.packetdebugger": "Toggles to packet debugger",
+  "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
 
   "gui.select": "Нажмите для выбора",
   "anticheat.message.failed": "провалил",

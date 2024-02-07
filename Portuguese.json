@@ -176,6 +176,8 @@
   "command.help.description.tagcolor": "Muda a cor do seu nome na lista de Players",
   "command.help.description.tc": "O mesmo que /tagcolor",
   "command.help.description.language": "Muda a linguagem do server",
+  "command.help.description.packetdebugger": "Toggles to packet debugger",
+  "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
 
   "gui.select": "Clique para selecionar",
 

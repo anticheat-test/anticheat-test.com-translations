@@ -177,6 +177,8 @@
   "command.help.description.tagcolor": "Etiket rengini tab menüsünde değiştirir.",
   "command.help.description.tc": "Etiket rengini tab menüsünde değiştirir.",
   "command.help.description.language": "Sunucu dilini değiştirir.",
+  "command.help.description.packetdebugger": "Toggles to packet debugger",
+  "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
 
   "gui.select": "Seçmek için tıkla",
   "anticheat.message.failed": "yakalandı",

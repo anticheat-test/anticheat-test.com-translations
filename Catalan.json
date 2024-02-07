@@ -177,6 +177,8 @@
   "command.help.description.tagcolor": "Canvia el teu color de nom en el tab",
   "command.help.description.tc": "El mateix que /tagcolor",
   "command.help.description.language": "Canvia el llenguatge del servidor",
+  "command.help.description.packetdebugger": "Toggles to packet debugger",
+  "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
 
   "gui.select": "Clic per seleccionar",
   "anticheat.message.failed": "fallat",

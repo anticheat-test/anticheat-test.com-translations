@@ -177,6 +177,8 @@
   "command.help.description.tagcolor": "탭에서 이름 색상을 변경합니다",
   "command.help.description.tc": "/tagcolor와 동일",
   "command.help.description.language": "서버 언어를 변경합니다",
+  "command.help.description.packetdebugger": "Toggles to packet debugger",
+  "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
 
   "gui.select": "선택하려면 클릭하세요",
   "anticheat.message.failed": "실패하였습니다",

@@ -177,6 +177,8 @@
   "command.help.description.tagcolor": "Đổi màu tên của bạn trên tablist",
   "command.help.description.tc": "Tương tự như /tagcolor",
   "command.help.description.language": "Đổi ngôn ngữ",
+  "command.help.description.packetdebugger": "Toggles to packet debugger",
+  "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
 
   "gui.select": "Nhấp để chọn",
   "anticheat.message.failed": "failed",

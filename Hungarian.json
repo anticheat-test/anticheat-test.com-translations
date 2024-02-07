@@ -177,6 +177,8 @@
     "command.help.description.tagcolor": "Átváltoztatja a tag színedet",
     "command.help.description.tc": "Ugyanaz mint a /tagcolor",
     "command.help.description.language": "Megváltoztatja a nyelvedet",
+    "command.help.description.packetdebugger": "Toggles to packet debugger",
+    "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
   
     "gui.select": "Klikkelj hogy kiválaszd",
     "anticheat.message.failed": "failed",
