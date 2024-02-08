@@ -178,6 +178,8 @@
   "command.help.description.language": "Muda a linguagem do server",
   "command.help.description.packetdebugger": "Toggles to packet debugger",
   "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
+  "command.help.description.discord_connect": "Invites and starts the link process to join our discord",
+  "command.help.description.discord_unlink": "Unlink your Discord account",
 
   "gui.select": "Clique para selecionar",
 

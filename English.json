@@ -112,7 +112,7 @@
 
   "alerts.filter": "Alerts are filtered by default to see everyone's alerts type",
 
-  "join.message": "To view all commands use /help we recently added some new stuff you might want to check out!",
+  "join.message": "To view all commands use /help we recently added some new stuff you might want to check out, also make sure to join the Discord (/discord connect) for anticheat update notifications and server changelogs.",
   "discord.message": "Discord invite",
 
   "damage.action": "You dealt the damage",
@@ -179,6 +179,8 @@
   "command.help.description.language": "Changes server language",
   "command.help.description.packetdebugger": "Toggles to packet debugger",
   "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
+  "command.help.description.discord_connect": "Invites and starts the link process to join our discord",
+  "command.help.description.discord_unlink": "Unlink your Discord account",
 
   "gui.select": "Click to select",
   "anticheat.message.failed": "failed",

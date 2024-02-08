@@ -179,6 +179,8 @@
   "command.help.description.language": "Changes server language",
   "command.help.description.packetdebugger": "Toggles to packet debugger",
   "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
+  "command.help.description.discord_connect": "Invites and starts the link process to join our discord",
+  "command.help.description.discord_unlink": "Unlink your Discord account",
 
   "gui.select": "Clicca per selezionare",
   "anticheat.message.failed": "failed",

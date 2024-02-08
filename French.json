@@ -179,6 +179,8 @@
   "command.help.description.language": "Change la langue du serveur",
   "command.help.description.packetdebugger": "Toggles to packet debugger",
   "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
+  "command.help.description.discord_connect": "Invites and starts the link process to join our discord",
+  "command.help.description.discord_unlink": "Unlink your Discord account",
 
   "gui.select": "Cliquez pour sélectionner",
   "anticheat.message.failed": "a échoué",
@@ -212,31 +214,30 @@
   "hidden.action.message.1": "Tous les joueurs sont actuellement masqués",
   "hidden.action.message.2": "(utilisez /settings pour changer cela)",
 
-  "discord.notlinked.message.cooldown": "Vous êtes en cool-down pour le message, pour supprimer le cool-down vous devez relier votre compte discord en utilisant \"/discord connect\", (%ss remaining)",
+  "discord.notlinked.message.cooldown": "You are on a message cool-down, to remove this cool-down you must link your discord account by using \"/discord connect\", (%ss remaining)",
 
   "scoreboard.pps.pps": "PPS",
   "scoreboard.pps.in": "in",
   "scoreboard.pps.out": "out",
 
-  "explosion.place.area": "Cette zone n'est pas sûre, essayer dans une autre zone",
+  "explosion.place.area": "This area is not safe, try in another area.",
 
-  "scoreboard.gcd.correct": "GCD est correcte",
-  "scoreboard.gcd.incorrect": "GCD est incorrect",
+  "scoreboard.gcd.correct": "GCD is correct",
+  "scoreboard.gcd.incorrect": "GCD is incorrect",
   "hotbar.hitmiss": "Hit/Miss Ratio",
 
-  "detections.post": "On dirait que vous êtes en train d'attaquer/de placer sur POST, il s'agit d'un check très fréquente sur la plupart des anti-cheats vous voudrez peut-être le modifier si vous n'êtes pas au courant.",
-  "player.setting.background.detections": "Detections d'arriere-plan",
-  "player.setting.background.detections.description": "Warns de tous les éléments de base que la plupart des anti-cheats flag pour",
+  "detections.post": "Looks like you are currently attacking/placing on POST, this is a very common check on most anti-cheats you may want to change this if you are unaware.",
+  "player.setting.background.detections": "Background Detections",
+  "player.setting.background.detections.description": "Warns you of any basic stuff that most anti-cheats flag for",
 
-  "packetSelection.gui.title": "Selecteur de paquets",
+  "packetSelection.gui.title": "Packet Selector",
   "packetSelection.part.1": "Click to",
-  "packetSelection.part.2": "Ce paquet",
-  "packetDebugger.disabled": "Le débogueur ne peut pas etre utilise sur le client que vous utilisez.",
+  "packetSelection.part.2": "this packet",
+  "packetDebugger.disabled": "The debugger cannot be used on the client you are using.",
 
   "textureID": "6903349fa45bdd87126d9cd3c6c0abba7dbd6f56fb8d78701873a1e7c8ee33cf",
 
   "credits": [
-    "ri1_",
-    "SoncraftYT"
+    "ri1_"
   ]
 }
