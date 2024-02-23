@@ -17,7 +17,7 @@
   "scoreboard.ground": "Ground",
 
   "scoreboard.fight": "Chiến đấu",
-  "scoreboard.arena": "Map",
+  "scoreboard.arena": "Bản đồ",
   "scoreboard.duration": "Thời gian",
 
   "scoreboard.restart": "Khởi động lại",
@@ -57,8 +57,8 @@
   "gui.anticheat.item.description": "Mô tả",
   "gui.anticheat.item.version": "Phiên bản",
   "gui.anticheat.item.reconnect_required": "Nếu chọn Anticheat này thì bạn phải kết nối lại",
-  "gui.anticheat.item.sandbox": "Anticheat này đang trong quá trình thử nghiệm (sandboxed)",
-  "gui.anticheat.item.sandbox.line2": "Bạn phải kết nối lại để cho anticheat này hoạt động đúng cách.",
+  "gui.anticheat.item.sandbox": "Anticheat được chạy trong hộp cát (sandboxed)",
+  "gui.anticheat.item.sandbox.line2": "Bạn phải kết nối lại để anticheat này hoạt động đúng cách.",
   "gui.anticheat.item.voting": "Số lượng bầu chọn",
 
   "player.setting.fall_damage": "Sát thương rơi",
@@ -76,9 +76,8 @@
   "player.setting.external_damage": "Sát thương bên ngoài (từ dung nham, đuối nước v.v)",
   "player.setting.external_damage_description": "Bật/tắt sát thương bên ngoài",
 
-  "player.settings.potions": "Thuốc (potion)",
-  "player.settings.potions_description": "Bật/tắt khả năng của thuốc (potion)",
-
+  "player.settings.potions": "Thuốc (potions)",
+  "player.settings.potions_description": "Bật/tắt hiệu ứng của thuốc (potions)",
   "player.settings.hitbox": "Gỡ lỗi hitbox",
   "player.settings.hitbox_description": "Bật/tắt gỡ lỗi hitbox",
 
@@ -98,7 +97,7 @@
   "action.title.server.tick": "tick",
   "action.title.server.ticks": "ticks",
 
-  "disguised.join.message": "You are still disguised as",
+  "disguised.join.message": "Bạn vẫn đang được cải trang dưới tên",
 
   "pvp.enabled": "PvP đã được bật",
   "pvp.disabled": "PvP đã được tắt",
@@ -107,7 +106,7 @@
   "pvp.countdown": "PvP sẽ được bật vào",
   "pvp.countdown.second": "giây",
   "pvp.countdown.seconds": "giây",
-  "pvp.reset.items": "Mọi item đã được enchant sẽ bị reset khi pvp đã được bật (hãy ra ngoài nếu bạn không muốn chúng bị reset)",
+  "pvp.reset.items": "Mọi item đã được enchant sẽ bị reset khi PvP đã được bật (hãy ra ngoài nếu bạn không muốn chúng bị reset)",
   "pvp.death.message": "đã bị giết bởi",
 
   "alerts.filter": "Alerts are filtered by default to see everyone's alerts type",
@@ -162,25 +161,25 @@
   "scaffold.test.enter_2": "Dùng /items để lấy item",
   "scaffold.test.exit": "Bạn không thể đặt block được nữa.",
 
-  "velocity.test.apply": "Applied velocity",
+  "velocity.test.apply": "Đã bật lùi người chơi",
 
-  "command.help.description.help": "Lệnh này...",
+  "command.help.description.help": "Cái lệnh bạn vừa gõ...",
   "command.help.description.spawn": "Dịch chuyển bạn về spawn",
-  "command.help.description.warp": "Không điền gì hết sẽ mở GUI, hoặc bạn có thể điền địa chỉ để dịch chuyển đến khu đó",
-  "command.help.description.items": "Danh sách item bạn có thể sự dụng",
+  "command.help.description.warp": "Không điền bất kỳ đối số nào hết sẽ mở GUI, hoặc bạn có thể điền khu vực bạn muốn đến vào sau câu lệnh để dịch chuyển đến đó",
+  "command.help.description.items": "Danh sách item bạn có thể sử dụng",
   "command.help.description.enchant": "Cho phép bạn enchant một item nào đó",
   "command.help.description.anticheat": "Lựa chọn anticheat qua GUI",
   "command.help.description.ac": "Tương tự như /anticheat",
   "command.help.description.heal": "Reset thanh máu và thanh đói",
-  "command.help.description.settings": "Danh sách cài đặt bạn có thể tắt hay bật",
+  "command.help.description.settings": "Danh sách những cài đặt bạn có thể tắt hay bật",
   "command.help.description.clear": "Dọn sạch inventory của bạn",
   "command.help.description.tagcolor": "Đổi màu tên của bạn trên tablist",
   "command.help.description.tc": "Tương tự như /tagcolor",
   "command.help.description.language": "Đổi ngôn ngữ",
-  "command.help.description.packetdebugger": "Toggles to packet debugger",
-  "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
-  "command.help.description.discord_connect": "Invites and starts the link process to join our discord",
-  "command.help.description.discord_unlink": "Unlink your Discord account",
+  "command.help.description.packetdebugger": "Kích hoạt trình gỡ lỗi packets",
+  "command.help.description.packetdebuggerconfig": "Tinh chỉnh các cài đặt liên quan đến trình gỡ lỗi packets",
+  "command.help.description.discord_connect": "Mời bạn và bắt đầu quá trình liên kết tài khoản trên server với discord",
+  "command.help.description.discord_unlink": "Gỡ liên kết tài khoản Discord của bạn",
 
   "gui.select": "Nhấp để chọn",
   "anticheat.message.failed": "failed",
@@ -213,26 +212,26 @@
 
   "hidden.action.message.1": "Đã ẩn tất cả người chơi!",
   "hidden.action.message.2": "(dùng /settings để thay đổi lựa chọn này)",
-  "discord.notlinked.message.cooldown": "You are on a message cool-down, to remove this cool-down you must link your discord account by using \"/discord connect\", (%ss remaining)",
+  "discord.notlinked.message.cooldown": "Bạn đang bị giới hạn tốc độ nhắn tin, để loại bỏ giới hạn này hãy liên kết tài khoản Discord của bạn với server bằng cách sử dụng lệnh \"/discord connect\", (Còn %ss)",
 
   "scoreboard.pps.pps": "PPS",
   "scoreboard.pps.in": "in",
   "scoreboard.pps.out": "out",
 
-  "explosion.place.area": "This area is not safe, try in another area.",
+  "explosion.place.area": "Khu vực này không an toàn, hãy thử tại một nơi khác.",
 
-  "scoreboard.gcd.correct": "GCD is correct",
-  "scoreboard.gcd.incorrect": "GCD is incorrect",
-  "hotbar.hitmiss": "Hit/Miss Ratio",
+  "scoreboard.gcd.correct": "GCD đúng",
+  "scoreboard.gcd.incorrect": "GCD không được đúng",
+  "hotbar.hitmiss": "Tỉ lệ đánh/hụt",
 
   "detections.post": "Looks like you are currently attacking/placing on POST, this is a very common check on most anti-cheats you may want to change this if you are unaware.",
   "player.setting.background.detections": "Background Detections",
   "player.setting.background.detections.description": "Warns you of any basic stuff that most anti-cheats flag for",
 
-  "packetSelection.gui.title": "Packet Selector",
-  "packetSelection.part.1": "Click to",
-  "packetSelection.part.2": "this packet",
-  "packetDebugger.disabled": "The debugger cannot be used on the client you are using.",
+  "packetSelection.gui.title": "Chọn Packets",
+  "packetSelection.part.1": "Chọn",
+  "packetSelection.part.2": "packet này",
+  "packetDebugger.disabled": "Client bạn đang sử dụng không thể sử dụng được chức năng gỡ lỗi packets.",
 
   "textureID": "1c8b7c7fb08ab8947812bb9d14da049ed2d51ad8cb932b392c2266b257adc2ac",
 
