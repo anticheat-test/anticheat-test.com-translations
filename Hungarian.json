@@ -181,6 +181,7 @@
     "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
     "command.help.description.discord_connect": "Invites and starts the link process to join our discord",
     "command.help.description.discord_unlink": "Unlink your Discord account",
+    "command.help.description.bottest": "Trigger a killaura bot test",
   
     "gui.select": "Klikkelj hogy kiválaszd",
     "anticheat.message.failed": "failed",
@@ -233,6 +234,20 @@
     "packetSelection.part.1": "Click to",
     "packetSelection.part.2": "this packet",
     "packetDebugger.disabled": "The debugger cannot be used on the client you are using.",
+
+    "bot.test.start": "The antibot test will now start",
+    "bot.test.already_running": "Test is already running.",
+    "bot.test.finished": "Bot test has finished",
+    "bot.test.stage": "Testing the bot",
+    "bot.test.stage.1": "basic-fake",
+    "bot.test.stage.2": "basic-spoof",
+    "bot.test.stage.3": "basic-spoof with damage, aggressive movement",
+    "bot.test.stage.4": "basic-spoof with swing, aggressive movement",
+    "bot.test.stage.5": "basic-spoof with damage, swing, aggressive movement",
+    "bot.test.stage.6": "basic-spoof with damage, swing, aggressive movement x2",
+    "bot.test.stage.7": "basic-spoof with damage, swing, aggressive movement, armor, items",
+    "bot.test.stage.8": "basic-spoof with damage, swing, aggressive movement, armor, items x2",
+
 
     "textureID": "4a9c3c4b6c5031332dd2bfece5e31e999f8deff55474065cc86993d7bdcdbd0",
 

@@ -180,6 +180,7 @@
   "command.help.description.packetdebuggerconfig": "Tinh chỉnh các cài đặt liên quan đến trình gỡ lỗi packets",
   "command.help.description.discord_connect": "Mời bạn và bắt đầu quá trình liên kết tài khoản trên server với discord",
   "command.help.description.discord_unlink": "Gỡ liên kết tài khoản Discord của bạn",
+  "command.help.description.bottest": "Trigger a killaura bot test",
 
   "gui.select": "Nhấp để chọn",
   "anticheat.message.failed": "failed",
@@ -232,6 +233,20 @@
   "packetSelection.part.1": "Chọn",
   "packetSelection.part.2": "packet này",
   "packetDebugger.disabled": "Client bạn đang sử dụng không thể sử dụng được chức năng gỡ lỗi packets.",
+
+  "bot.test.start": "The antibot test will now start",
+  "bot.test.already_running": "Test is already running.",
+  "bot.test.finished": "Bot test has finished",
+  "bot.test.stage": "Testing the bot",
+  "bot.test.stage.1": "basic-fake",
+  "bot.test.stage.2": "basic-spoof",
+  "bot.test.stage.3": "basic-spoof with damage, aggressive movement",
+  "bot.test.stage.4": "basic-spoof with swing, aggressive movement",
+  "bot.test.stage.5": "basic-spoof with damage, swing, aggressive movement",
+  "bot.test.stage.6": "basic-spoof with damage, swing, aggressive movement x2",
+  "bot.test.stage.7": "basic-spoof with damage, swing, aggressive movement, armor, items",
+  "bot.test.stage.8": "basic-spoof with damage, swing, aggressive movement, armor, items x2",
+
 
   "textureID": "1c8b7c7fb08ab8947812bb9d14da049ed2d51ad8cb932b392c2266b257adc2ac",
 
