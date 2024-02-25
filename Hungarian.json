@@ -247,6 +247,7 @@
     "bot.test.stage.6": "basic-spoof with damage, swing, aggressive movement x2",
     "bot.test.stage.7": "basic-spoof with damage, swing, aggressive movement, armor, items",
     "bot.test.stage.8": "basic-spoof with damage, swing, aggressive movement, armor, items x2",
+    "bot.test.higher.versions.warning": "This test works better on 1.8.x based clients, newer minecraft versions changed how spawning is handled so all the bots will have a fake username",
 
 
     "textureID": "4a9c3c4b6c5031332dd2bfece5e31e999f8deff55474065cc86993d7bdcdbd0",
