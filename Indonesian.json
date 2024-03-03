@@ -88,6 +88,9 @@
   "player.settings.critical_debugger": "Pemantauan Pukulan Kritikal Visual",
   "player.settings.critical_debugger_description": "Aktifkan / Nonaktifkan pemantauan pukulan kritis visual",
 
+  "player.settings.anticheat.bans": "Ban Warnings",
+  "player.settings.anticheat.bans.description": "Warns you when you reach the anticheat max ban vl",
+
   "anticheat.selected": "Anda telah beralih ke",
   "anticheat.kick.requires_reconnect": "memerlukan Anda untuk menyambung kembali agar berfungsi sepenuhnya.",
   "anticheat.kick.requires_reconnect_warning_1": "berpindah dari",
@@ -248,6 +251,8 @@
   "bot.test.stage.8": "basic-spoof with damage, swing, aggressive movement, armor, items x2",
   "bot.test.higher.versions.warning": "This test works better on 1.8.x based clients, newer minecraft versions changed how spawning is handled so all the bots will have a fake username",
 
+  "anticheat.ban.warning.message": "You would of been banned for",
+  "anticheat.ban.title.message": "You would of been banned",
 
   "textureID": "cbe63fcaa0203f8046fb96375d079a5c09b4161d0119d7194566e689cab18f68",
 

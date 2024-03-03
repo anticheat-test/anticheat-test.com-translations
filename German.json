@@ -88,6 +88,9 @@
   "player.settings.critical_debugger": "Visueller Kritischer Treffer-Debugger",
   "player.settings.critical_debugger_description": "Visuellen kritischen Treffer-Debugger aktivieren / deaktivieren",
 
+  "player.settings.anticheat.bans": "Ban Warnings",
+  "player.settings.anticheat.bans.description": "Warns you when you reach the anticheat max ban vl",
+
   "anticheat.selected": "Du hast zu",
   "anticheat.kick.requires_reconnect": "gewechselt. Es ist erforderlich, dich neu zu verbinden, damit es vollständig funktioniert.",
   "anticheat.kick.requires_reconnect_warning_1": "wechsele von ",
@@ -249,6 +252,8 @@
   "bot.test.stage.8": "basic-spoof with damage, swing, aggressive movement, armor, items x2",
   "bot.test.higher.versions.warning": "This test works better on 1.8.x based clients, newer minecraft versions changed how spawning is handled so all the bots will have a fake username",
 
+  "anticheat.ban.warning.message": "You would of been banned for",
+  "anticheat.ban.title.message": "You would of been banned",
 
   "textureID": "5e7899b4806858697e283f084d9173fe487886453774626b24bd8cfecc77b3f",
 

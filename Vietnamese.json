@@ -87,6 +87,9 @@
   "player.settings.critical_debugger": "Gỡ lỗi sát thương chí mạng",
   "player.settings.critical_debugger_description": "Bật/tắt gỡ lỗi sát thương chí mạng",
 
+  "player.settings.anticheat.bans": "Ban Warnings",
+  "player.settings.anticheat.bans.description": "Warns you when you reach the anticheat max ban vl",
+
   "anticheat.selected": "Bạn đã chuyển về",
   "anticheat.kick.requires_reconnect": "cần phải kết nối lại để cho nó hoạt động hoàn toàn.",
   "anticheat.kick.requires_reconnect_warning_1": "chuyền về",
@@ -248,6 +251,8 @@
   "bot.test.stage.8": "basic-spoof with damage, swing, aggressive movement, armor, items x2",
   "bot.test.higher.versions.warning": "This test works better on 1.8.x based clients, newer minecraft versions changed how spawning is handled so all the bots will have a fake username",
 
+  "anticheat.ban.warning.message": "You would of been banned for",
+  "anticheat.ban.title.message": "You would of been banned",
 
   "textureID": "1c8b7c7fb08ab8947812bb9d14da049ed2d51ad8cb932b392c2266b257adc2ac",
 

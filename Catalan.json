@@ -88,6 +88,9 @@
   "player.settings.critical_debugger": "Debugger visual de hits crítics",
   "player.settings.critical_debugger_description": "Activar / desactivar els hits crítics visuals",
 
+  "player.settings.anticheat.bans": "Ban Warnings",
+  "player.settings.anticheat.bans.description": "Warns you when you reach the anticheat max ban vl",
+
   "anticheat.selected": "Has cambiat a",
   "anticheat.kick.requires_reconnect": "requereix que et reconnectis perquè funcioni completament.",
   "anticheat.kick.requires_reconnect_warning_1": "cambiant de",
@@ -250,6 +253,8 @@
   "bot.test.stage.8": "basic-spoof with damage, swing, aggressive movement, armor, items x2",
   "bot.test.higher.versions.warning": "This test works better on 1.8.x based clients, newer minecraft versions changed how spawning is handled so all the bots will have a fake username",
 
+  "anticheat.ban.warning.message": "You would of been banned for",
+  "anticheat.ban.title.message": "You would of been banned",
 
   "textureID": "629ff19f8e74d4e052982dafe1a916812f6878c3862e995f891e4322e37f93f1",
 
