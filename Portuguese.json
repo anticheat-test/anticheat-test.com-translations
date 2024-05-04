@@ -240,9 +240,7 @@ Vulcan teria te kickado por tempo limite de transação",
 
   "bot.test.start": "O teste de antibot começará agora",
   "bot.test.already_running": "O teste já está em execução.",
-  "bot.test.finished": "O teste de
-
- bot foi concluído",
+  "bot.test.finished": "O teste de bot foi concluído",
   "bot.test.stage": "Testando o bot",
   "bot.test.stage.1": "falso-básico",
   "bot.test.stage.2": "falso-básico com spoof",
