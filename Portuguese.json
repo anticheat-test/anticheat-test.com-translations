@@ -135,9 +135,7 @@
 
   "anticheat.kick.title": "Você teria sido kickado",
   "anticheat.kick.vulcan.transaction": "Tempo Limite da Transação",
-  "anticheat.kick.vulcan.transaction_2": "
-
-Vulcan teria te kickado por tempo limite de transação",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan teria te kickado por tempo limite de transação",
 
   "anticheat.kick.vulcan.keepalive": "Tempo Limite do KeepAlive",
   "anticheat.kick.vulcan.keepalive_2": "Vulcan teria te kickado por tempo limite do KeepAlive",
