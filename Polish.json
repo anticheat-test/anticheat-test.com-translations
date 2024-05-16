@@ -91,6 +91,9 @@
   "player.settings.anticheat.bans": "Ban Warnings",
   "player.settings.anticheat.bans.description": "Warns you when you reach the anticheat max ban vl",
 
+  "player.settings.proximity.hider": "Proximity Player Hider",
+  "player.settings.proximity.hider.description": "Hides players when they get too close",
+
   "anticheat.selected": "Przełączyłeś na",
   "anticheat.kick.requires_reconnect": "wymaga ponownego połączenia, aby w pełni działało.",
   "anticheat.kick.requires_reconnect_warning_1": "przełączanie z",
