@@ -4,6 +4,7 @@
   "scoreboard.version": "버전",
   "scoreboard.cps": "초당 클릭수",
   "scoreboard.bps": "속도",
+  "scoreboard.vbs": "VBS",
   "scoreboard.balance": "밸런스",
 
   "scoreboard.engine": "엔진",

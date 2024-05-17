@@ -4,6 +4,7 @@
   "scoreboard.version": "Version",
   "scoreboard.cps": "CPS",
   "scoreboard.bps": "BPS",
+  "scoreboard.vbs": "VBS",
   "scoreboard.balance": "Balanceo",
 
   "scoreboard.engine": "Motor",
