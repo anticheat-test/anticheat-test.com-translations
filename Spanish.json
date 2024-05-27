@@ -30,7 +30,7 @@
   "false": "falso",
 
   "tab.rank": "Rango",
-  "tab.online": "Online",
+  "tab.online": "En linea",
   "tab.players": "Jugadores",
   "tab.player": "Jugador",
   "tab.cpu": "CPU",
@@ -108,10 +108,10 @@
   "disguised.join.message": "Sigues disfrazado como",
 
   "pvp.enabled": "El PvP ahora esta activado",
-  "pvp.disabled": "PvP is now disabled",
+  "pvp.disabled": "El PvP ahora esta desactivado",
   "pvp.toggled_enable": "El PvP ahora esta activado",
   "pvp.wait": "Por favor espera...",
-  "pvp.countdown": "El pvp sera activado en ",
+  "pvp.countdown": "El PvP sera activado en ",
   "pvp.countdown.second": "segundo",
   "pvp.countdown.seconds": "segundos",
   "pvp.reset.items": "Todos los encantamientos de tu inventario seran reiniciados cuando el pvp se active (abandona si no quieres que se reinicien)",
@@ -119,11 +119,11 @@
 
   "alerts.filter": "Estas viendo las alertas de todo el mundo por defecto",
 
-  "join.message": "usa /help para ver todos los comandos",
+  "join.message": "utiliza /help para ver todos los comandos",
   "discord.message": "Invitacion a discord",
 
   "damage.action": "Has hecho daño",
-  "damage.action.critical.hit": "[Hit Critico]",
+  "damage.action.critical.hit": "[Golpe Critico]",
 
   "civ.break.test": "Has roto el bloque",
   "civ.break.test_2": "en el tick",
@@ -169,7 +169,7 @@
   "scaffold.test.enter_2": "Usa /items para recibir items",
   "scaffold.test.exit": "Ahora no puedes poner bloques",
 
-  "velocity.test.apply": "Velocity aplicada",
+  "velocity.test.apply": "Velocity aplicado",
 
   "command.help.description.help": "Este comando...",
   "command.help.description.spawn": "Te teletransporta al spawn",
@@ -178,7 +178,7 @@
   "command.help.description.enchant": "Te permite encantar cualquier item",
   "command.help.description.anticheat": "Seleccion de AntiCheat",
   "command.help.description.ac": "Igual que /anticheat",
-  "command.help.description.heal": "Resetea tu nivel de comida y vida",
+  "command.help.description.heal": "Reinicia tu nivel de comida y vida",
   "command.help.description.settings": "Lista de ajustes que puedes activar / desactivar",
   "command.help.description.clear": "Limpia tu inventario",
   "command.help.description.tagcolor": "Cambia tu color de nombre en el tag",
@@ -263,6 +263,8 @@
 
   "credits": [
     "FuXiiOn",
-    "Upioti"
+    "Upioti",
+    "ImLegiitXD"
+    
   ]
 }
