@@ -26,7 +26,7 @@
   "yes": "Si",
   "no": "No",
 
-  "true": "Verdadera",
+  "true": "Verdadero",
   "false": "falso",
 
   "tab.rank": "Rango",
@@ -50,7 +50,7 @@
 
   "gui.items.click": "Click para obtener este item",
 
-  "gui.chest.test.item": "Item test del Chest Stealer",
+  "gui.chest.test.item": "Item de prueba del Chest Stealer",
 
   "gui.anticheat.title": "Seleccion del AntiCheat",
   "gui.anticheat.vote": "Votacion del AntiCheat",
@@ -86,11 +86,11 @@
   "player.settings.raytrace": "Debugger de Raytrace Visual",
   "player.settings.raytrace.description": "Activar / Desactivar debugger del raytrace visual",
 
-  "player.settings.critical_debugger": "Debugger de Hits Criticos Visuales",
+  "player.settings.critical_debugger": "Debugger de Golpes Criticos Visuales",
   "player.settings.critical_debugger_description": "Activar / Desactivar debugger de criticos visuales",
 
-  "player.settings.anticheat.bans": "Ban Warnings",
-  "player.settings.anticheat.bans.description": "Warns you when you reach the anticheat max ban vl",
+  "player.settings.anticheat.bans": "Advertencias de ban",
+  "player.settings.anticheat.bans.description": "Te advierte cuando alcanzas las alertas maximas de Anticheat",
 
   "player.settings.proximity.hider": "Proximity Player Hider",
   "player.settings.proximity.hider.description": "Hides players when they get too close",
@@ -101,7 +101,7 @@
   "anticheat.kick.requires_reconnect_warning_2": "requiere reconectarte.",
 
   "action.title.server.position": "Posicion del Servidor (S08)",
-  "action.title.server.seconds": "seconds",
+  "action.title.server.seconds": "segundos",
   "action.title.server.tick": "tick",
   "action.title.server.ticks": "ticks",
 
@@ -165,9 +165,9 @@
   "speed.test.lowest.bps": "Menor BPS",
   "speed.test.totalseconds": "Segundos totales",
 
-  "scaffold.test.enter": "Ahora puedes poner bloques",
-  "scaffold.test.enter_2": "Usa /items para recibir items",
-  "scaffold.test.exit": "Ahora no puedes poner bloques",
+  "scaffold.test.enter": "Ahora puedes colocar bloques",
+  "scaffold.test.enter_2": "Usa /items para obtener items",
+  "scaffold.test.exit": "Ahora no puedes colocar bloques",
 
   "velocity.test.apply": "Velocity aplicado",
 
@@ -183,55 +183,55 @@
   "command.help.description.clear": "Limpia tu inventario",
   "command.help.description.tagcolor": "Cambia tu color de nombre en el tag",
   "command.help.description.tc": "Igual que /tagcolor",
-  "command.help.description.language": "Changes server language",
+  "command.help.description.language": "Cambia el idioma del servidor",
   "command.help.description.packetdebugger": "Toggles to packet debugger",
   "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
-  "command.help.description.discord_connect": "Invites and starts the link process to join our discord",
-  "command.help.description.discord_unlink": "Unlink your Discord account",
-  "command.help.description.bottest": "Trigger a killaura bot test",
+  "command.help.description.discord_connect": "Te invita y empieza el proceso de vinculacion para unirse a nuestro discord",
+  "command.help.description.discord_unlink": "Desvincula tu cuenta de discord",
+  "command.help.description.bottest": "Activa un bot para testear el killaura",
 
   "gui.select": "Click para seleccionar",
-  "anticheat.message.failed": "failed",
+  "anticheat.message.failed": "fallido",
 
-  "scoreboard.queued": "Queued for",
-  "gui.anticheat.item.external_server": "This anticheat is running on another server",
-  "gui.anticheat.item.server_online": "This server is online, click to connect",
-  "gui.anticheat.item.server_offline": "This server is offline, click to start it",
-  "gui.anticheat.item.server_starting": "This server is currently booting up...",
-  "external.server.start.command.sent": "This server is now starting up, you will be sent to that server once its online.",
+  "scoreboard.queued": "En cola para",
+  "gui.anticheat.item.external_server": "Este anticheat se ejecuta en otro servidor",
+  "gui.anticheat.item.server_online": "Este servidor esta en linea, click para conectarte",
+  "gui.anticheat.item.server_offline": "Este servidor esta apagado, click para iniciarlo",
+  "gui.anticheat.item.server_starting": "Este servidor se esta iniciando...",
+  "external.server.start.command.sent": "Este servidor se esta iniciando, seras enviado a este servidor una vez este iniciado.",
 
   "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
   "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
 
-  "player.setting.direct.messages": "Direct Messages",
-  "player.setting.direct.messages.description": "Toggle direct messages on/off",
+  "player.setting.direct.messages": "Mensajes directos",
+  "player.setting.direct.messages.description": "Alterna los mensajes directos on/off",
 
-  "command.message.reply.nobody": "You don't have anyone to reply to",
-  "command.message.reply.usage": "Usage: /reply <message>",
+  "command.message.reply.nobody": "No tienes a nadie para responderle",
+  "command.message.reply.usage": "Uso: /reply <mensaje>",
 
-  "command.message.usage": "Usage: /message <player> <message>",
-  "command.message.finderror": "Could not find the player",
-  "command.message.message.self": "You cannot message yourself.",
-  "command.message.disabled": "You have direct messaged toggled off, enable them using /settings to use this command.",
+  "command.message.usage": "Uso: /message <jugador> <mensaje>",
+  "command.message.finderror": "No se pudo encontrar al jugador",
+  "command.message.message.self": "No te puedes mandar un mensaje a ti mismo.",
+  "command.message.disabled": "Tienes los mensajes directos desactivados, activalos usando /settings para usar este comando.",
 
-  "command.message.tell.replaced": "/tell has been replaced with /message or /msg",
+  "command.message.tell.replaced": "/tell ha sido reemplazado por /message o /msg",
 
-  "player.setting.hide.players": "Hide All Online Players",
-  "player.setting.hide.players.description": "Toggle the player hider on/off",
+  "player.setting.hide.players": "Esconde a todos los jugadores en linea",
+  "player.setting.hide.players.description": "Activa para esconder a los jugadores on/off",
 
-  "hidden.action.message.1": "All players are currently hidden",
-  "hidden.action.message.2": "(use /settings to change this)",
-  "discord.notlinked.message.cooldown": "You are on a message cool-down, to remove this cool-down you must link your discord account by using \"/discord connect\", (%ss remaining)",
+  "hidden.action.message.1": "Todos los jugadores estan actualmente escondidos",
+  "hidden.action.message.2": "(usa /settings para cambiar esto)",
+  "discord.notlinked.message.cooldown": "Estas en cool-down para mandar un mensaje, para remover este cool-down deberas de vincular tu cuenta de discord usando \"/discord connect\", (%ss remaining)",
 
   "scoreboard.pps.pps": "PPS",
   "scoreboard.pps.in": "in",
   "scoreboard.pps.out": "out",
 
-  "explosion.place.area": "This area is not safe, try in another area.",
+  "explosion.place.area": "Este area no es seguro, intenta en otro area.",
 
-  "scoreboard.gcd.correct": "GCD is correct",
-  "scoreboard.gcd.incorrect": "GCD is incorrect",
-  "hotbar.hitmiss": "Hit/Miss Ratio",
+  "scoreboard.gcd.correct": "El GCD es correcto",
+  "scoreboard.gcd.incorrect": "El GCD es correcto",
+  "hotbar.hitmiss": "Ratio de Golpes/fallidos",
 
   "detections.post": "Looks like you are currently attacking/placing on POST, this is a very common check on most anti-cheats you may want to change this if you are unaware.",
   "player.setting.background.detections": "Background Detections",
@@ -256,8 +256,8 @@
   "bot.test.stage.8": "basic-spoof with damage, swing, aggressive movement, armor, items x2",
   "bot.test.higher.versions.warning": "This test works better on 1.8.x based clients, newer minecraft versions changed how spawning is handled so all the bots will have a fake username",
 
-  "anticheat.ban.warning.message": "You would of been banned for",
-  "anticheat.ban.title.message": "You would of been banned",
+  "anticheat.ban.warning.message": "Pudiste haber sido baneado por",
+  "anticheat.ban.title.message": "Pudiste haber sido baneado",
 
   "textureID": "c2d730b6dda16b584783b63d082a80049b5fa70228aba4ae884c2c1fc0c3a8bc",
 
