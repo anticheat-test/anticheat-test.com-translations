@@ -1,0 +1,267 @@
+{
+  "scoreboard.ping": "Ping",
+  "scoreboard.anticheat": "Anticheat",
+  "scoreboard.version": "Verze",
+  "scoreboard.cps": "CPS",
+  "scoreboard.bps": "BPS",
+  "scoreboard.vbs": "VBS",
+  "scoreboard.balance": "Balanc",
+
+  "scoreboard.engine": "Hra",
+  "scoreboard.engine.correct": "Strafe is correct",
+  "scoreboard.engine.incorrect": "Strafe is incorrect",
+
+  "scoreboard.sprinting": "Sprintování",
+  "scoreboard.sneaking": "Kroučování",
+  "scoreboard.attacking": "Attacking",
+  "scoreboard.blocking": "Blokování",
+  "scoreboard.ground": "Zem",
+
+  "scoreboard.fight": "Fight",
+  "scoreboard.arena": "Arena",
+  "scoreboard.duration": "Duration",
+
+  "scoreboard.restart": "Restart",
+
+  "yes": "Ano",
+  "no": "Ne",
+
+  "true": "true",
+  "false": "false",
+
+  "tab.rank": "Rank",
+  "tab.online": "Online",
+  "tab.players": "Hráči",
+  "tab.player": "Hráč",
+  "tab.cpu": "CPU",
+  "tab.memory": "Memory",
+  "tab.tps": "TPS",
+
+  "gui.tagcolor": "Tag Color",
+  "gui.items": "Itemy",
+  "gui.playerSettings": "Player Settings",
+  "gui.warps": "Warps",
+
+  "gui.warps.click": "Click to teleport to",
+
+  "gui.playerSettings.modify": "Click to %s this setting",
+  "gui.playerSettings.disabled": "disable",
+  "gui.playerSettings.enabled": "enable",
+
+  "gui.items.click": "Click to get this item",
+
+  "gui.chest.test.item": "Chest Stealer Test Item",
+
+  "gui.anticheat.title": "Anticheat Selection",
+  "gui.anticheat.vote": "Anticheat Voting",
+  "gui.anticheat.item.author": "Author(s)",
+  "gui.anticheat.item.description": "Description",
+  "gui.anticheat.item.version": "Version",
+  "gui.anticheat.item.reconnect_required": "Selecting this anticheat will require you to reconnect",
+  "gui.anticheat.item.sandbox": "This anticheat is sandboxed",
+  "gui.anticheat.item.sandbox.line2": "a relog might be required for it function correctly.",
+  "gui.anticheat.item.voting": "Votes",
+
+  "player.setting.fall_damage": "Fall Damage",
+  "player.setting.fall_damage_description": "Enable / Disable fall damage",
+
+  "player.setting.flying_kick": "Flying kick",
+  "player.setting.flying_kick_description": "Enable / Disable the server flying kick",
+
+  "player.settings.notify_flying": "Notify on flying kick",
+  "player.settings.notify_flying_description": "Enable / Disable the notification for when you get kicked for flying kick",
+
+  "player.settings.hunger": "Hunger",
+  "player.settings.hunger_description": "Enable / Disable hunger",
+
+  "player.setting.external_damage": "External Damage",
+  "player.setting.external_damage_description": "Enable / Disable external damage",
+
+  "player.settings.potions": "Potions",
+  "player.settings.potions_description": "Enable / Disable potion effects",
+
+  "player.settings.hitbox": "Visual Hitbox Debugger",
+  "player.settings.hitbox_description": "Enable / Disable visual hit-boxes",
+
+  "player.settings.raytrace": "Visual RayTrace Debugger",
+  "player.settings.raytrace.description": "Enable / Disable visual raytrace debugger",
+
+  "player.settings.critical_debugger": "Visual Critical Hits Debugger",
+  "player.settings.critical_debugger_description": "Enable / Disable visual criticals hit debugger",
+
+  "player.settings.anticheat.bans": "Ban Warnings",
+  "player.settings.anticheat.bans.description": "Warns you when you reach the anticheat max ban vl",
+
+  "player.settings.proximity.hider": "Proximity Player Hider",
+  "player.settings.proximity.hider.description": "Hides players when they get too close",
+
+  "anticheat.selected": "You have switched to",
+  "anticheat.kick.requires_reconnect": "requires you to reconnect for it to fully work.",
+  "anticheat.kick.requires_reconnect_warning_1": "switching from",
+  "anticheat.kick.requires_reconnect_warning_2": "requires you to reconnect.",
+
+  "action.title.server.position": "Server Position (S08)",
+  "action.title.server.seconds": "seconds",
+  "action.title.server.tick": "tick",
+  "action.title.server.ticks": "ticks",
+
+  "disguised.join.message": "You are still disguised as",
+
+  "pvp.enabled": "PvP is now enabled",
+  "pvp.disabled": "PvP is now disabled",
+  "pvp.toggled_enable": "PvP is now enabled",
+  "pvp.wait": "Please wait...",
+  "pvp.countdown": "PvP will be enabled in",
+  "pvp.countdown.second": "second",
+  "pvp.countdown.seconds": "seconds",
+  "pvp.reset.items": "All enchanted items inside your inventory will be reset when pvp is enabled (leave if you don't want them to be reset)",
+  "pvp.death.message": "was killed by",
+
+  "alerts.filter": "Alerts are filtered by default to see everyone's alerts type",
+
+  "join.message": "To view all commands use /help we recently added some new stuff you might want to check out, also make sure to join the Discord (/discord connect) for anticheat update notifications and server changelogs.",
+  "discord.message": "Discord invite",
+
+  "damage.action": "You dealt the damage",
+  "damage.action.critical.hit": "[Critical Hit]",
+
+  "civ.break.test": "You broke the block",
+  "civ.break.test_2": "in the tick",
+
+  "flying.kick.title": "You would've been kicked",
+  "tag.color.change": "Your tag color is now",
+
+  "anticheat.vote.voted": "You voted for",
+  "anticheat.vote.voted_other_player": "voted for",
+
+  "chat.disabled": "Chat is disabled",
+  "chat.throttle": "Please wait before sending another message.",
+  "chat.chain": "Do not chain messages in chat.",
+
+  "anticheat.kick.title": "You would've been kicked",
+  "anticheat.kick.vulcan.transaction": "Transaction Timeout",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan would've kicked you for transaction timeout",
+
+  "anticheat.kick.vulcan.keepalive": "KeepAlive Timeout",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan would've kicked you for keepalive timeout",
+
+  "anticheat.kick.vulcan.ping": "Max Ping",
+  "anticheat.kick.vulcan.ping_2": "Vulcan would've kicked you for max ping",
+
+  "anticheat.kick.vulcan.desync": "Desync",
+  "anticheat.kick.vulcan.desync_2": "Vulcan would've kicked you for desync",
+
+  "chest.test.message_1": "It took",
+  "chest.test.message_2": "to steal the chest",
+  "chest.test.message_3": "out of",
+  "chest.test.message_4": "items have been taken",
+
+  "speed.test.start.title.1": "BĚZ!",
+  "speed.test.start.title.2": "Run to the end of the speed test to get a result",
+  "speed.test.starting": "Začína za",
+  "speed.test.results": "Výsledky rychostního testu",
+  "speed.test.average.bps": "Průměrný BPS",
+  "speed.test.highest.bps": "Největší BPS",
+  "speed.test.lowest.bps": "Nejmenší BPS",
+  "speed.test.totalseconds": "Celkem Sekund",
+
+  "scaffold.test.enter": "Blocks are now placeable",
+  "scaffold.test.enter_2": "Use /items to get items",
+  "scaffold.test.exit": "Blocks are no-longer placeable",
+
+  "velocity.test.apply": "Applied velocity",
+
+  "command.help.description.help": "Tento příkaz...",
+  "command.help.description.spawn": "Teleportuje tě na spawn",
+  "command.help.description.warp": "Žádné argumenty otevřou GUI, nebo můžes přidat argument do kterýho se chceš teleportovat.",
+  "command.help.description.items": "List věcí co můžes použit",
+  "command.help.description.enchant": "Dovolí ti enchantovat jaký koli item",
+  "command.help.description.anticheat": "GUI pro výběr anticheatu",
+  "command.help.description.ac": "Stejný jako /anticheat",
+  "command.help.description.heal": "Resetuje tvuj level hladu a životů",
+  "command.help.description.settings": "List nastavení co můžes vypínat a zapínat",
+  "command.help.description.clear": "Vyprázdní ti inventář",
+  "command.help.description.tagcolor": "Změní barva jmena v Tab",
+  "command.help.description.tc": "Stejný jako /tagcolor",
+  "command.help.description.language": "Mění jazyk servru",
+  "command.help.description.packetdebugger": "Zapne ladič paketů.",
+  "command.help.description.packetdebuggerconfig": "Nastavit ladič paketů",
+  "command.help.description.discord_connect": "Invites and starts the link process to join our discord",
+  "command.help.description.discord_unlink": "Unlink your Discord account",
+  "command.help.description.bottest": "Spustí killaura bot test",
+  "gui.select": "Click abys vybral",
+  "anticheat.message.failed": "selhalo",
+
+  "scoreboard.queued": "V řade pro",
+  "gui.anticheat.item.external_server": "Tento anticheat běží na jiným servru",
+  "gui.anticheat.item.server_online": "Tento servr je offline, clickni aby ses připojil",
+  "gui.anticheat.item.server_offline": "Tento servr je offline, clickni abys ho zapl.",
+  "gui.anticheat.item.server_starting": "Tento servr se právě zapíná...",
+  "external.server.start.command.sent": "Tento server se nyní zapíná, budeš na něj připojen až se zapne.",
+
+  "player.setting.scaffold.refill.blocks": "Automatický doplňování bloků",
+  "player.setting.scaffold.refill.blocks.description": "Automaticky doplní tvoje bloky v scaffold aréně",
+
+  "player.setting.direct.messages": "Příma Správa",
+  "player.setting.direct.messages.description": "Zapnutí/vypnutí přímých zpráv",
+
+  "command.message.reply.nobody": "Nemáš komu odepsat",
+  "command.message.reply.usage": "Použití: /reply <message>",
+
+  "command.message.usage": "Usage: /message <player> <message>",
+  "command.message.finderror": "Nešlo nalézt hráče.",
+  "command.message.message.self": "Nemůžes napsat sobě.",
+  "command.message.disabled": "You have direct messaged toggled off, enable them using /settings to use this command.",
+
+  "command.message.tell.replaced": "/tell byl vyměňen s /message, /msg",
+
+  "player.setting.hide.players": "Schovat všechny online hráče",
+  "player.setting.hide.players.description": "Přepni schovávač hračí zapnuto/vypnuto",
+
+  "hidden.action.message.1": "All players are currently hidden",
+  "hidden.action.message.2": "(použij /settings abys tohle změnil)",
+
+  "discord.notlinked.message.cooldown": "You are on a message cool-down, to remove this cool-down you must link your discord account by using \"/discord connect\", (%ss remaining)",
+
+  "scoreboard.pps.pps": "PPS",
+  "scoreboard.pps.in": "in",
+  "scoreboard.pps.out": "out",
+
+  "explosion.place.area": "Tato aréna není bezpečná, skus v jiný aréně.",
+
+  "scoreboard.gcd.correct": "GCD is correct",
+  "scoreboard.gcd.incorrect": "GCD is incorrect",
+  "hotbar.hitmiss": "Hit/Miss Ratio",
+
+  "detections.post": "Looks like you are currently attacking/placing on POST, this is a very common check on most anti-cheats you may want to change this if you are unaware.",
+  "player.setting.background.detections": "Background Detections",
+  "player.setting.background.detections.description": "Warns you of any basic stuff that most anti-cheats flag for",
+
+  "packetSelection.gui.title": "Vybírač paketů",
+  "packetSelection.part.1": "Click to",
+  "packetSelection.part.2": "this packet",
+  "packetDebugger.disabled": "The debugger cannot be used on the client you are using.",
+
+  "bot.test.start": "The antibot test will now start",
+  "bot.test.already_running": "Test is already running.",
+  "bot.test.finished": "Bot test has finished",
+  "bot.test.stage": "Testing the bot",
+  "bot.test.stage.1": "basic-fake",
+  "bot.test.stage.2": "basic-spoof",
+  "bot.test.stage.3": "basic-spoof with damage, aggressive movement",
+  "bot.test.stage.4": "basic-spoof with swing, aggressive movement",
+  "bot.test.stage.5": "basic-spoof with damage, swing, aggressive movement",
+  "bot.test.stage.6": "basic-spoof with damage, swing, aggressive movement x2",
+  "bot.test.stage.7": "basic-spoof with damage, swing, aggressive movement, armor, items",
+  "bot.test.stage.8": "basic-spoof with damage, swing, aggressive movement, armor, items x2",
+  "bot.test.higher.versions.warning": "This test works better on 1.8.x based clients, newer minecraft versions changed how spawning is handled so all the bots will have a fake username",
+
+  "anticheat.ban.warning.message": "Byl bys zabanován za ",
+  "anticheat.ban.title.message": "Byl bys zabánován",
+
+  "textureID": "c439d7f9c67f32dcbb86b7010b1e14b60de96776a35f61cee982660aacf5264b",
+
+  "credits": [
+    "pipe_sfx"
+  ]
+}
