@@ -31,7 +31,7 @@
   
     "tab.rank": "Rang",
     "tab.online": "Online",
-    "tab.players": "Játékosok",
+    "tab.players": "Játékos",
     "tab.player": "Játékos",
     "tab.cpu": "CPU",
     "tab.memory": "Memória",
@@ -186,8 +186,8 @@
     "command.help.description.language": "Megváltoztatja a nyelvedet",
     "command.help.description.packetdebugger": "Kapcsolja a packet debugger-t",
     "command.help.description.packetdebuggerconfig": "Konfiguráld a packet debugger-t",
-    "command.help.description.discord_connect": "Invites and starts the link process to join our discord",
-    "command.help.description.discord_unlink": "Unlink your Discord account",
+    "command.help.description.discord_connect": "Meghív és elkezdi az összeköttetési folyamatot a Discord szerverünkkel.",
+    "command.help.description.discord_unlink": "Összeköttetés megszüntetése a Discord felhasználóddal.",
     "command.help.description.bottest": "Trigger a killaura bot test",
   
     "gui.select": "Klikkelj, hogy kiválaszd",
@@ -264,6 +264,7 @@
     "textureID": "4a9c3c4b6c5031332dd2bfece5e31e999f8deff55474065cc86993d7bdcdbd0",
 
     "credits": [
-      "Blitoka33"
+      "Blitoka33",
+      "jkacsa01"
     ]
   }
