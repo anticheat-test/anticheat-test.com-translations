@@ -185,7 +185,7 @@
   "command.help.description.tc": "O mesmo que /tagcolor",
   "command.help.description.language": "Muda o idioma do server",
   "command.help.description.packetdebugger": "Ativa o depurador de pacotes",
-  "command.help.description.packetdebuggerconfig": "Configure o depurador de pacotes",
+  "command.help.description.packetdebugger_config": "Configure o depurador de pacotes",
   "command.help.description.discord_connect": "Convida e inicia o processo de vínculo para entrar no nosso Discord",
   "command.help.description.discord_unlink": "Desvincula sua conta do Discord",
   "command.help.description.bottest": "Dispara um teste de bot de killaura",

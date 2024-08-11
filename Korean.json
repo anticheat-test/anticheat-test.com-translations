@@ -185,7 +185,7 @@
   "command.help.description.tc": "/tagcolor와 동일",
   "command.help.description.language": "서버 언어를 변경합니다",
   "command.help.description.packetdebugger": "Toggles to packet debugger",
-  "command.help.description.packetdebuggerconfig": "Configure the packet debugger",
+  "command.help.description.packetdebugger_config": "Configure the packet debugger",
   "command.help.description.discord_connect": "Invites and starts the link process to join our discord",
   "command.help.description.discord_unlink": "Unlink your Discord account",
   "command.help.description.bottest": "Trigger a killaura bot test",

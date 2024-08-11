@@ -184,7 +184,7 @@
   "command.help.description.tc": "Tương tự như /tagcolor",
   "command.help.description.language": "Đổi ngôn ngữ",
   "command.help.description.packetdebugger": "Kích hoạt trình gỡ lỗi packets",
-  "command.help.description.packetdebuggerconfig": "Tinh chỉnh các cài đặt liên quan đến trình gỡ lỗi packets",
+  "command.help.description.packetdebugger_config": "Tinh chỉnh các cài đặt liên quan đến trình gỡ lỗi packets",
   "command.help.description.discord_connect": "Mời bạn và bắt đầu quá trình liên kết tài khoản trên server với discord",
   "command.help.description.discord_unlink": "Gỡ liên kết tài khoản Discord của bạn",
   "command.help.description.bottest": "Trigger a killaura bot test",

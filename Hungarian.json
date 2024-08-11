@@ -185,7 +185,7 @@
     "command.help.description.tc": "Ugyanaz mint a /tagcolor",
     "command.help.description.language": "Megváltoztatja a nyelvedet",
     "command.help.description.packetdebugger": "Kapcsolja a packet debugger-t",
-    "command.help.description.packetdebuggerconfig": "Konfiguráld a packet debugger-t",
+    "command.help.description.packetdebugger_config": "Konfiguráld a packet debugger-t",
     "command.help.description.discord_connect": "Meghív és elkezdi az összeköttetési folyamatot a Discord szerverünkkel.",
     "command.help.description.discord_unlink": "Összeköttetés megszüntetése a Discord felhasználóddal.",
     "command.help.description.bottest": "Trigger a killaura bot test",
