@@ -283,6 +283,7 @@
   "gui.theme.builder.complete.footer.1": "Click to apply changes",
   "gui.theme.builder.complete.footer.2": "Left/Right-Shift & Click to reset changes",
   "theme.applied": "has been applied",
+  "command.help.description.theme": "Change the map theme",
 
   "textureID": "c439d7f9c67f32dcbb86b7010b1e14b60de96776a35f61cee982660aacf5264b",
 
