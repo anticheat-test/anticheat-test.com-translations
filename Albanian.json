@@ -258,6 +258,29 @@
 
    "setting.vip.only": "You can access this setting by donating!",
 
+   "gui.theme.selector.title": "Theme Selector",
+   "gui.theme.selector.enabled": "You currently have this theme enabled",
+   "gui.theme.selector.enable": "Click to enable this theme",
+   "gui.theme.selector.vip.only": "Only users who have donated can access this feature.",
+   "gui.theme.builder.title": "Custom Theme Builder",
+ 
+   "gui.theme.builder.blocks.base": "Base Blocks",
+   "gui.theme.builder.blocks.area": "Area Blocks",
+   "gui.theme.builder.blocks.layer": "Layer Blocks",
+   "gui.theme.builder.blocks.pvp": "PvP Area Blocks",
+   "gui.theme.builder.blocks.outer": "Outer Layer Blocks",
+ 
+   "gui.theme.builder.anvil.title": "Custom Block Builder",
+   "gui.theme.builder.anvil.invalid.1": "Invalid Material",
+   "gui.theme.builder.anvil.invalid.2": "Invalid Input",
+ 
+   "gui.theme.builder.modify": "Click to modify this block",
+   "gui.theme.builder.complete": "Complete",
+   "gui.theme.builder.complete.footer.1": "Click to apply changes",
+   "gui.theme.builder.complete.footer.2": "Left/Right-Shift & Click to reset changes",
+   "theme.applied": "has been applied",
+   "command.help.description.theme": "Change the map theme",
+
     "textureID": "c3b83a89d89e53aeddfbf6850fab3a3b52021fa41d734810d19bb925f4bc881b",
 
     "credits": [
