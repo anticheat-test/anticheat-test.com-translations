@@ -92,6 +92,12 @@
   "player.settings.anticheat.bans": "Notificacions de ban",
   "player.settings.anticheat.bans.description": "T'avisa quan arribes a la màxima vl de l'anticheat",
 
+  "player.settings.proximity.hider": "Proximity Player Hider",
+  "player.settings.proximity.hider.description": "Hides players when they get too close",
+
+  "player.setting.snow": "Snow",
+  "player.setting.snow.description": "Show snow (using particles)",
+
   "anticheat.selected": "Has cambiat a",
   "anticheat.kick.requires_reconnect": "requereix que et reconnectis perquè funcioni completament.",
   "anticheat.kick.requires_reconnect_warning_1": "cambiant de",

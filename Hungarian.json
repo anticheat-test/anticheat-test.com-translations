@@ -95,6 +95,9 @@
     "player.settings.proximity.hider": "Közeli Játékos Elrejtő",
     "player.settings.proximity.hider.description": "Eltünteti a játékosokat, akik túl közel vannak.",
 
+    "player.setting.snow": "Snow",
+    "player.setting.snow.description": "Show snow (using particles)",  
+
     "anticheat.selected": "Váltottál:",
     "anticheat.kick.requires_reconnect": "újra kell csatlakoznod.",
     "anticheat.kick.requires_reconnect_warning_1": "váltás erről",

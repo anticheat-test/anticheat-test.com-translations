@@ -95,6 +95,9 @@
   "player.settings.proximity.hider": "Proximity Player Hider",
   "player.settings.proximity.hider.description": "Hides players when they get too close",
 
+  "player.setting.snow": "Snow",
+  "player.setting.snow.description": "Show snow (using particles)",  
+  
   "anticheat.selected": "안티치트들 다음과 같이 변경하였습니다",
   "anticheat.kick.requires_reconnect": "완전히 작동하려면 다시 연결해야 합니다.",
   "anticheat.kick.requires_reconnect_warning_1": "에서 전환",

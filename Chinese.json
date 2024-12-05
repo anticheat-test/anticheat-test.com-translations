@@ -95,6 +95,9 @@
   "player.settings.proximity.hider": "Proximity Player Hider",
   "player.settings.proximity.hider.description": "Hides players when they get too close",
 
+  "player.setting.snow": "Snow",
+  "player.setting.snow.description": "Show snow (using particles)",
+
   "anticheat.selected": "你已经切换到",
   "anticheat.kick.requires_reconnect": "需要重新连接才能完全工作",
   "anticheat.kick.requires_reconnect_warning_1": "从",

@@ -95,6 +95,9 @@
   "player.settings.proximity.hider": "Proximity Player Hider",
   "player.settings.proximity.hider.description": "Hides players when they get too close",
 
+  "player.setting.snow": "Snow",
+  "player.setting.snow.description": "Show snow (using particles)",  
+
   "anticheat.selected": "Anti-Hilen değişti",
   "anticheat.kick.requires_reconnect": "bu anti hilenin çalışması için yeniden bağlanmalısın.",
   "anticheat.kick.requires_reconnect_warning_1": "bir önceki anti-hilen",
