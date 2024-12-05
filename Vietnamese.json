@@ -121,7 +121,7 @@
 
   "alerts.filter": "Alerts are filtered by default to see everyone's alerts type",
 
-  "join.message": "dùng /help để xem danh sách lệnh và những thứ khác",
+  "join.message": "To view all commands use /help",
   "discord.message": "Discord invite",
 
   "damage.action": "Sát thương bạn gây ra",

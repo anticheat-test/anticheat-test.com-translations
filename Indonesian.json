@@ -122,7 +122,7 @@
 
   "alerts.filter": "Pemberitahuan difilter secara default untuk melihat tipe pemberitahuan semua orang",
 
-  "join.message": "gunakan /help untuk perintah dan lainnya",
+  "join.message": "To view all commands use /help",
   "discord.message": "Undangan Discord",
 
   "damage.action": "Anda memberikan pukulan kritikal",

@@ -122,7 +122,7 @@
   
     "alerts.filter": "Alapból az alertek szűrve vannak, hogy lásd mindenki alertjét",
   
-    "join.message": "Használd a /help parancsot információkért stb...",
+    "join.message": "To view all commands use /help",
     "discord.message": "Discord meghívó",
   
     "damage.action": "Sebzést okoztál",

@@ -122,7 +122,7 @@
 
   "alerts.filter": "Les alertes sont filtrées par défaut pour voir le type d'alertes de tout le monde",
 
-  "join.message": "utilisez /help pour les commandes et autres",
+  "join.message": "To view all commands use /help",
   "discord.message": "Invitation Discord",
 
   "damage.action": "Vous avez infligé des dégâts",

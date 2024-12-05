@@ -108,7 +108,7 @@
   "action.title.server.tick": "tick",
   "action.title.server.ticks": "ticks",
 
-  "disguised.join.message": "Sigues disfrazado como",
+  "disguised.join.message": "To view all commands use /help",
 
   "pvp.enabled": "El PvP ahora esta activado",
   "pvp.disabled": "El PvP ahora esta desactivado",
@@ -122,7 +122,7 @@
 
   "alerts.filter": "Estas viendo las alertas de todo el mundo por defecto",
 
-  "join.message": "utiliza /help para ver todos los comandos",
+  "join.message": "To view all commands use /help",
   "discord.message": "Invitacion a discord",
 
   "damage.action": "Has hecho daño",

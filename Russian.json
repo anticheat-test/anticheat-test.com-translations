@@ -122,7 +122,7 @@
 
   "alerts.filter": "Оповещения настроены по умолчанию. С этими настройками вы будете видеть все оповещения.",
 
-  "join.message": "Используйте /help для команд и разного",
+  "join.message": "To view all commands use /help",
   "discord.message": "Приглашение в Discord",
 
   "damage.action": "Вы нанесли урон",

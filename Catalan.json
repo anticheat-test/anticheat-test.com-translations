@@ -122,7 +122,7 @@
 
   "alerts.filter": "Les alertes estàn filtrades per defecte, si vols veure les alertes de tothom escriu",
 
-  "join.message": "Per veure tots els commands utilitza /help. Recentment hem afegit algunes coses noves que t'agradaria veure, també assegurat d'unirte al Discord (/discord connect) per notificacions d'actualitzacions d'anticheats i cambis del servidor.",
+  "join.message": "To view all commands use /help",
   "discord.message": "Invitació al Discord",
 
   "damage.action": "Has inflingit dany",

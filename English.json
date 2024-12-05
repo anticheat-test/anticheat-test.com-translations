@@ -122,7 +122,7 @@
 
   "alerts.filter": "Alerts are filtered by default to see everyone's alerts type",
 
-  "join.message": "To view all commands use /help we recently added some new stuff you might want to check out, also make sure to join the Discord (/discord connect) for anticheat update notifications and server changelogs.",
+  "join.message": "To view all commands use /help",
   "discord.message": "Discord invite",
 
   "damage.action": "You dealt the damage",
