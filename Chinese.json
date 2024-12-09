@@ -108,7 +108,7 @@
   "action.title.server.tick": "tick",
   "action.title.server.ticks": "ticks",
 
-  "disguised.join.message": "你伪装成",
+  "join.message": "To view all commands use /help",
 
   "pvp.enabled": "PvP 已开启",
   "pvp.disabled": "PvP 已关闭",
