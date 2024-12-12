@@ -121,8 +121,6 @@
   "pvp.death.message": "was killed by",
 
   "alerts.filter": "默认情况下，警报被过滤以查看每个人的警报类型",
-
-  "join.message": "使用 /help 查看帮助",
   "discord.message": "Discord邀请",
 
   "damage.action": "You dealt the damage",
