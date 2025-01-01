@@ -285,7 +285,7 @@
   "theme.applied": "has been applied",
   "command.help.description.theme": "Change the map theme",
 
-  "rotate.random": "Set yaw to %s and to pitch %s",
+  "rotate.random": "Set yaw to %s and pitch to %s",
   "rotate.yaw": "Added %s° to current yaw",
   "rotate.pitch": "Added %s to current pitch",
   "rotate.expect.invalid.pitch": "Pitch did not follow server expected pitch (packet: %s, expected: %s)",
