@@ -131,7 +131,7 @@
   "civ.break.test": "You broke the block",
   "civ.break.test_2": "in the tick",
 
-  "flying.kick.title": "You would've been kicked",
+  "flying.kick.title": "You would of been kicked",
   "tag.color.change": "Your tag color is now",
 
   "anticheat.vote.voted": "You voted for",
@@ -141,18 +141,18 @@
   "chat.throttle": "Please wait before sending another message.",
   "chat.chain": "Do not chain messages in chat.",
 
-  "anticheat.kick.title": "You would've been kicked",
+  "anticheat.kick.title": "You would of been kicked",
   "anticheat.kick.vulcan.transaction": "Transaction Timeout",
-  "anticheat.kick.vulcan.transaction_2": "Vulcan would've kicked you for transaction timeout",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan would of kicked you for transaction timeout",
 
   "anticheat.kick.vulcan.keepalive": "KeepAlive Timeout",
-  "anticheat.kick.vulcan.keepalive_2": "Vulcan would've kicked you for keepalive timeout",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan would of kicked you for keepalive timeout",
 
   "anticheat.kick.vulcan.ping": "Max Ping",
-  "anticheat.kick.vulcan.ping_2": "Vulcan would've kicked you for max ping",
+  "anticheat.kick.vulcan.ping_2": "Vulcan would of kicked you for max ping",
 
   "anticheat.kick.vulcan.desync": "Desync",
-  "anticheat.kick.vulcan.desync_2": "Vulcan would've kicked you for desync",
+  "anticheat.kick.vulcan.desync_2": "Vulcan would of kicked you for desync",
 
   "chest.test.message_1": "It took",
   "chest.test.message_2": "to steal the chest",
@@ -287,6 +287,12 @@
   "gui.theme.builder.complete.footer.2": "Left/Right-Shift & Click to reset changes",
   "theme.applied": "has been applied",
   "command.help.description.theme": "Change the map theme",
+
+  "rotate.random": "Set yaw to %s and to pitch %s",
+  "rotate.yaw": "Added %s° to current yaw",
+  "rotate.pitch": "Added %s to current pitch",
+  "rotate.expect.invalid.pitch": "Pitch did not follow server expected pitch (packet: %s, expected: %s)",
+  "rotate.expect.invalid.yaw": "Yaw did not follow server expected yaw (packet: %s, expected: %s)",
 
   "textureID": "c439d7f9c67f32dcbb86b7010b1e14b60de96776a35f61cee982660aacf5264b",
 

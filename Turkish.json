@@ -287,6 +287,12 @@
   "theme.applied": "teması uygulandı.",
   "command.help.description.theme": "Harita temasını değiştir",
 
+  "rotate.random": "Set yaw to %s and to pitch %s",
+  "rotate.yaw": "Added %s° to current yaw",
+  "rotate.pitch": "Added %s to current pitch",
+  "rotate.expect.invalid.pitch": "Pitch did not follow server expected pitch (packet: %s, expected: %s)",
+  "rotate.expect.invalid.yaw": "Yaw did not follow server expected yaw (packet: %s, expected: %s)",
+
   "textureID": "9852b9aba3482348514c1034d0affe73545c9de679ae4647f99562b5e5f47d09",
 
   "credits": [

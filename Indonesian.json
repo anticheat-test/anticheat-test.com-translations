@@ -286,6 +286,12 @@
   "theme.applied": "has been applied",
   "command.help.description.theme": "Change the map theme",
 
+  "rotate.random": "Set yaw to %s and to pitch %s",
+  "rotate.yaw": "Added %s° to current yaw",
+  "rotate.pitch": "Added %s to current pitch",
+  "rotate.expect.invalid.pitch": "Pitch did not follow server expected pitch (packet: %s, expected: %s)",
+  "rotate.expect.invalid.yaw": "Yaw did not follow server expected yaw (packet: %s, expected: %s)",
+
   "textureID": "cbe63fcaa0203f8046fb96375d079a5c09b4161d0119d7194566e689cab18f68",
 
   "credits": [

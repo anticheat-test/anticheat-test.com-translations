@@ -288,6 +288,12 @@
   "theme.applied": "ha sigut aplicat",
   "command.help.description.theme": "Canvia el tema del mapa",
 
+  "rotate.random": "Set yaw to %s and to pitch %s",
+  "rotate.yaw": "Added %s° to current yaw",
+  "rotate.pitch": "Added %s to current pitch",
+  "rotate.expect.invalid.pitch": "Pitch did not follow server expected pitch (packet: %s, expected: %s)",
+  "rotate.expect.invalid.yaw": "Yaw did not follow server expected yaw (packet: %s, expected: %s)",
+
   "textureID": "629ff19f8e74d4e052982dafe1a916812f6878c3862e995f891e4322e37f93f1",
 
   "credits": [
