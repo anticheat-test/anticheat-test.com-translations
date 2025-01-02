@@ -293,6 +293,9 @@
     "rotate.expect.invalid.pitch": "Pitch did not follow server expected pitch (packet: %s, expected: %s)",
     "rotate.expect.invalid.yaw": "Yaw did not follow server expected yaw (packet: %s, expected: %s)",
 
+    "matrix.bot.summon": "Bot has been spawned",
+  "matrix.bot.hint": "To summon the Matrix anticheat bot, run: /summonMatrixBot",
+
     "textureID": "4a9c3c4b6c5031332dd2bfece5e31e999f8deff55474065cc86993d7bdcdbd0",
 
     "credits": [
