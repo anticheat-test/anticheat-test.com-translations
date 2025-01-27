@@ -118,7 +118,7 @@
   "pvp.countdown.second": "秒",
   "pvp.countdown.seconds": "秒",
   "pvp.reset.items": "当pvp启用时，你的物品栏的所有物品的附魔将被重置(如果你不希望它们被重置，请离开)",
-  "pvp.death.message": "被",
+  "pvp.death.message": "was killed by",
 
   "alerts.filter": "默认情况下，警报被过滤以查看每个人的警报类型",
   "discord.message": "Discord邀请",
