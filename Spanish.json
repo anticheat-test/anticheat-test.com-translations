@@ -1,5 +1,5 @@
 {
-  "scoreboard.ping": "Ping",
+  "scoreboard.ping": "Latencia",
   "scoreboard.anticheat": "Anticheat",
   "scoreboard.version": "Version",
   "scoreboard.cps": "CPS",
@@ -15,7 +15,7 @@
   "scoreboard.sneaking": "Agachado",
   "scoreboard.attacking": "Atacando",
   "scoreboard.blocking": "Bloqueando",
-  "scoreboard.ground": "Ground",
+  "scoreboard.ground": "Suelo",
 
   "scoreboard.fight": "Lucha",
   "scoreboard.arena": "Arena",
@@ -57,8 +57,8 @@
   "gui.anticheat.item.author": "Autor(es)",
   "gui.anticheat.item.description": "Descripcion",
   "gui.anticheat.item.version": "Version",
-  "gui.anticheat.item.reconnect_required": "Necesitaras reconectarte si seleccionas este AntiCheat",
-  "gui.anticheat.item.sandbox": "Este AntiCheat esta sandboxed",
+  "gui.anticheat.item.reconnect_required": "Necesitaras reconectarte si seleccionas este Anticheat",
+  "gui.anticheat.item.sandbox": "Este Anticheat esta sandboxed",
   "gui.anticheat.item.sandbox.line2": "Reiniciar puede ser necesario para el funcionamiento correcto",
   "gui.anticheat.item.voting": "Votos",
 
@@ -93,10 +93,10 @@
   "player.settings.anticheat.bans.description": "Te advierte cuando alcanzas las alertas maximas de Anticheat",
 
   "player.settings.proximity.hider": "Proximity Player Hider",
-  "player.settings.proximity.hider.description": "Hides players when they get too close",
+  "player.settings.proximity.hider.description": "Oculta a los jugadores cuando se acercan mucho",
 
-  "player.setting.snow": "Snow",
-  "player.setting.snow.description": "Show snow (using particles)",  
+  "player.setting.snow": "Nieve",
+  "player.setting.snow.description": "Mostrar nieve (usando particulas)",  
 
   "anticheat.selected": "Has cambiado a",
   "anticheat.kick.requires_reconnect": "requiere reconectarte para el funcionamiento correcto",
@@ -108,7 +108,7 @@
   "action.title.server.tick": "tick",
   "action.title.server.ticks": "ticks",
 
-  "disguised.join.message": "To view all commands use /help",
+  "disguised.join.message": "Para ver todos los comandos usa /help",
 
   "pvp.enabled": "El PvP ahora esta activado",
   "pvp.disabled": "El PvP ahora esta desactivado",
@@ -154,10 +154,10 @@
   "anticheat.kick.vulcan.desync": "Desync",
   "anticheat.kick.vulcan.desync_2": "Vulcan te habria kickeado por desync",
 
-  "chest.test.message_1": "It took",
-  "chest.test.message_2": "to steal the chest",
-  "chest.test.message_3": "out of",
-  "chest.test.message_4": "items have been taken",
+  "chest.test.message_1": "Tomó",
+  "chest.test.message_2": "para lootear el cofre",
+  "chest.test.message_3": "de",
+  "chest.test.message_4": "items han sido tomados",
 
   "speed.test.start.title.1": "VAMOS!",
   "speed.test.start.title.2": "Corre hasta el final del test y obtendras tu resultado",
@@ -187,8 +187,8 @@
   "command.help.description.tagcolor": "Cambia tu color de nombre en el tag",
   "command.help.description.tc": "Igual que /tagcolor",
   "command.help.description.language": "Cambia el idioma del servidor",
-  "command.help.description.packetdebugger": "Toggles to packet debugger",
-  "command.help.description.packetdebugger_config": "Configure the packet debugger",
+  "command.help.description.packetdebugger": "Activas el packet debugger",
+  "command.help.description.packetdebugger_config": "Configura el packet debugger",
   "command.help.description.discord_connect": "Te invita y empieza el proceso de vinculacion para unirse a nuestro discord",
   "command.help.description.discord_unlink": "Desvincula tu cuenta de discord",
   "command.help.description.bottest": "Activa un bot para testear el killaura",
@@ -203,8 +203,8 @@
   "gui.anticheat.item.server_starting": "Este servidor se esta iniciando...",
   "external.server.start.command.sent": "Este servidor se esta iniciando, seras enviado a este servidor una vez este iniciado.",
 
-  "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
-  "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
+  "player.setting.scaffold.refill.blocks": "Auto refillear bloques",
+  "player.setting.scaffold.refill.blocks.description": "Automaticamente refillea tus bloques en el area de scaffold",
 
   "player.setting.direct.messages": "Mensajes directos",
   "player.setting.direct.messages.description": "Alterna los mensajes directos on/off",
@@ -240,15 +240,15 @@
   "player.setting.background.detections": "Background Detections",
   "player.setting.background.detections.description": "Warns you of any basic stuff that most anti-cheats flag for",
 
-  "packetSelection.gui.title": "Packet Selector",
-  "packetSelection.part.1": "Click to",
-  "packetSelection.part.2": "this packet",
-  "packetDebugger.disabled": "The debugger cannot be used on the client you are using.",
+  "packetSelection.gui.title": "Selector de packets",
+  "packetSelection.part.1": "Click para",
+  "packetSelection.part.2": "este packet",
+  "packetDebugger.disabled": "El debugger no se puede usar en el client que estas usando.",
 
-  "bot.test.start": "The antibot test will now start",
-  "bot.test.already_running": "Test is already running.",
-  "bot.test.finished": "Bot test has finished",
-  "bot.test.stage": "Testing the bot",
+  "bot.test.start": "La prueba de antibot iniciará ahora",
+  "bot.test.already_running": "La prueba ya está en curso.",
+  "bot.test.finished": "La prueba ha finalizado",
+  "bot.test.stage": "Testeando el bot",
   "bot.test.stage.1": "basic-fake",
   "bot.test.stage.2": "basic-spoof",
   "bot.test.stage.3": "basic-spoof with damage, aggressive movement",
@@ -257,18 +257,18 @@
   "bot.test.stage.6": "basic-spoof with damage, swing, aggressive movement x2",
   "bot.test.stage.7": "basic-spoof with damage, swing, aggressive movement, armor, items",
   "bot.test.stage.8": "basic-spoof with damage, swing, aggressive movement, armor, items x2",
-  "bot.test.higher.versions.warning": "This test works better on 1.8.x based clients, newer minecraft versions changed how spawning is handled so all the bots will have a fake username",
+  "bot.test.higher.versions.warning": "Esta prueba funcionará mejor en clientes basados en la 1.8.x, las nuevas versiones cambiaron como se maneja el spawneo por lo tanto todos los bots tendran un username falso",
 
   "anticheat.ban.warning.message": "Pudiste haber sido baneado por",
   "anticheat.ban.title.message": "Pudiste haber sido baneado",
 
-  "setting.vip.only": "You can access this setting by donating!",
+  "setting.vip.only": "Puedes acceder a esta configuración al donar!",
 
-  "gui.theme.selector.title": "Theme Selector",
-  "gui.theme.selector.enabled": "You currently have this theme enabled",
-  "gui.theme.selector.enable": "Click to enable this theme",
-  "gui.theme.selector.vip.only": "Only users who have donated can access this feature.",
-  "gui.theme.builder.title": "Custom Theme Builder",
+  "gui.theme.selector.title": "Selector de temas",
+  "gui.theme.selector.enabled": "Tienes este tema seleccionado actualmente",
+  "gui.theme.selector.enable": "Click para habilitar este tema",
+  "gui.theme.selector.vip.only": "Solo los usuarios que donaron pueden acceder a esta funcion.",
+  "gui.theme.builder.title": "Constructor de temas personalizados",
 
   "gui.theme.builder.blocks.base": "Base Blocks",
   "gui.theme.builder.blocks.area": "Area Blocks",
@@ -280,12 +280,12 @@
   "gui.theme.builder.anvil.invalid.1": "Invalid Material",
   "gui.theme.builder.anvil.invalid.2": "Invalid Input",
 
-  "gui.theme.builder.modify": "Click to modify this block",
-  "gui.theme.builder.complete": "Complete",
-  "gui.theme.builder.complete.footer.1": "Click to apply changes",
+  "gui.theme.builder.modify": "Click para modificar este bloque",
+  "gui.theme.builder.complete": "Completado",
+  "gui.theme.builder.complete.footer.1": "Click para aplicar cambios",
   "gui.theme.builder.complete.footer.2": "Left/Right-Shift & Click to reset changes",
-  "theme.applied": "has been applied",
-  "command.help.description.theme": "Change the map theme",
+  "theme.applied": "ha sido aplicado",
+  "command.help.description.theme": "Cambia el tema del mapa",
 
   "rotate.random": "Set yaw to %s and pitch to %s",
   "rotate.yaw": "Added %s° to current yaw",
@@ -293,8 +293,8 @@
   "rotate.expect.invalid.pitch": "Pitch did not follow server expected pitch (packet: %s, expected: %s)",
   "rotate.expect.invalid.yaw": "Yaw did not follow server expected yaw (packet: %s, expected: %s)",
 
-  "matrix.bot.summon": "Bot has been spawned",
-  "matrix.bot.hint": "To summon the Matrix anticheat bot, run: /summonMatrixBot",
+  "matrix.bot.summon": "El bot ha spawneado",
+  "matrix.bot.hint": "Para invocar al bot de Matrix, usa: /summonMatrixBot",
 
   "textureID": "c2d730b6dda16b584783b63d082a80049b5fa70228aba4ae884c2c1fc0c3a8bc",
 
