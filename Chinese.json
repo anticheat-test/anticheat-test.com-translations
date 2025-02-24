@@ -288,8 +288,8 @@
   "rotate.random": "将 Yaw 设置为 %s，Pitch 设置为 %s",
   "rotate.yaw": "当前 Yaw 增加 %s°度",
   "rotate.pitch": "当前 Pitch 增加 %s°度",
-  "rotate.expect.invalid.pitch": "Pitch 不符合服务器预期 Pitch (数据包：％s，预期：％s)",
-  "rotate.expect.invalid.yaw": "Yaw 不符合服务器预期 Yaw (数据包：％s，预期：％s)",
+  "rotate.expect.invalid.pitch": "Pitch 不符合服务器预期 Pitch (数据包：%s，预期：%s)",
+  "rotate.expect.invalid.yaw": "Yaw 不符合服务器预期 Yaw (数据包：%s，预期：%s)",
 
   "matrix.bot.summon": "Matrix 假人已生成",
   "matrix.bot.hint": "要生成 Matrix 假人，请执行: /summonMatrixBot",
