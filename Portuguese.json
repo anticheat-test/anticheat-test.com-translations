@@ -295,6 +295,9 @@
   "matrix.bot.summon": "Bot has been spawned",
   "matrix.bot.hint": "To summon the Matrix anticheat bot, run: /summonMatrixBot",
 
+  "server.remote.startup_1": "You will be connected to",
+  "server.remote.startup_2": "soon, its starting up...",
+
   "textureID": "9a46475d5dcc815f6c5f2859edbb10611f3e861c0eb14f088161b3c0ccb2b0d9",
 
   "credits": [

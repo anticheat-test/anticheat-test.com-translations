@@ -294,6 +294,9 @@
   "matrix.bot.summon": "Matrix 假人已生成",
   "matrix.bot.hint": "要生成 Matrix 假人，请执行: /summonMatrixBot",
 
+  "server.remote.startup_1": "You will be connected to",
+  "server.remote.startup_2": "soon, its starting up...",
+
   "textureID": "7f9bc035cdc80f1ab5e1198f29f3ad3fdd2b42d9a69aeb64de990681800b98dc",
 
   "credits": [

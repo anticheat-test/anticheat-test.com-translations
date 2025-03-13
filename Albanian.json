@@ -294,7 +294,10 @@
    "rotate.expect.invalid.yaw": "Yaw did not follow server expected yaw (packet: %s, expected: %s)",
 
    "matrix.bot.summon": "Bot has been spawned",
-  "matrix.bot.hint": "To summon the Matrix anticheat bot, run: /summonMatrixBot",
+   "matrix.bot.hint": "To summon the Matrix anticheat bot, run: /summonMatrixBot",
+
+   "server.remote.startup_1": "You will be connected to",
+   "server.remote.startup_2": "soon, its starting up...",
 
     "textureID": "c3b83a89d89e53aeddfbf6850fab3a3b52021fa41d734810d19bb925f4bc881b",
 
