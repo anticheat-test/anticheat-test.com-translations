@@ -1,0 +1,308 @@
+{
+  "scoreboard.ping": "بينغ",
+  "scoreboard.anticheat": "نظام مكافحة الغش",
+  "scoreboard.version": "الإصدار",
+  "scoreboard.cps": "نقرات",
+  "scoreboard.bps": "كتل",
+  "scoreboard.vbs": "سرعات",
+  "scoreboard.balance": "توازن",
+
+  "scoreboard.engine": "المحرك",
+  "scoreboard.engine.correct": "الحركة الجانبية صحيحة",
+  "scoreboard.engine.incorrect": "الحركة الجانبية خاطئة",
+
+  "scoreboard.sprinting": "العدو",
+  "scoreboard.sneaking": "التسلل",
+  "scoreboard.attacking": "الهجوم",
+  "scoreboard.blocking": "التحصين",
+  "scoreboard.ground": "على الأرض",
+
+  "scoreboard.fight": "القتال",
+  "scoreboard.arena": "الساحة",
+  "scoreboard.duration": "المدة",
+
+  "scoreboard.restart": "إعادة التشغيل",
+
+  "yes": "نعم",
+  "no": "لا",
+
+  "true": "صحيح",
+  "false": "خاطئ",
+
+  "tab.rank": "الرتبة",
+  "tab.online": "متصل",
+  "tab.players": "اللاعبون",
+  "tab.player": "اللاعب",
+  "tab.cpu": "المعالج",
+  "tab.memory": "الذاكرة",
+  "tab.tps": "TPS",
+
+  "gui.tagcolor": "لون الوسم",
+  "gui.items": "العناصر",
+  "gui.playerSettings": "إعدادات اللاعب",
+  "gui.warps": "النقاط الانتقالية",
+
+  "gui.warps.click": "انقر للانتقال إلى",
+
+  "gui.playerSettings.modify": "انقر لتغيير (%s) هذا الإعداد",
+  "gui.playerSettings.disabled": "تعطيل",
+  "gui.playerSettings.enabled": "تفعيل",
+
+  "gui.items.click": "انقر للحصول على هذا العنصر",
+
+  "gui.chest.test.item": "عنصر اختبار سرقة الصندوق",
+
+  "gui.anticheat.title": "اختيار نظام مكافحة الغش",
+  "gui.anticheat.vote": "التصويت لنظام مكافحة الغش",
+  "gui.anticheat.item.author": "المطور(ون)",
+  "gui.anticheat.item.description": "الوصف",
+  "gui.anticheat.item.version": "الإصدار",
+  "gui.anticheat.item.reconnect_required": "اختيار هذا النظام يتطلب إعادة الاتصال",
+  "gui.anticheat.item.sandbox": "هذا النظام يعمل في بيئة معزولة",
+  "gui.anticheat.item.sandbox.line2": "قد تحتاج إلى إعادة الدخول ليعمل بشكل صحيح.",
+  "gui.anticheat.item.voting": "الأصوات",
+
+  "player.setting.fall_damage": "ضرر السقوط",
+  "player.setting.fall_damage_description": "تفعيل/تعطيل ضرر السقوط",
+
+  "player.setting.flying_kick": "طرد الطيران",
+  "player.setting.flying_kick_description": "تفعيل/تعطيل طرد اللاعبين للطيران غير المشروع",
+
+  "player.settings.notify_flying": "إشعارات طرد الطيران",
+  "player.settings.notify_flying_description": "تفعيل/تعطيل الإشعارات عند الطرد بسبب الطيران",
+
+  "player.settings.hunger": "الجوع",
+  "player.settings.hunger_description": "تفعيل/تعطيل نظام الجوع",
+
+  "player.setting.external_damage": "الضرر الخارجي",
+  "player.setting.external_damage_description": "تفعيل/تعطيل الضرر الخارجي",
+
+  "player.settings.potions": "الجرعات",
+  "player.settings.potions_description": "تفعيل/تعطيل تأثيرات الجرعات",
+
+  "player.settings.hitbox": "تصحيح مربع الاصطدام",
+  "player.settings.hitbox_description": "تفعيل/تعطيل عرض مربعات الاصطدام",
+
+  "player.settings.raytrace": "تصحيح تتبع الأشعة",
+  "player.settings.raytrace.description": "تفعيل/تعطيل أداة تتبع الأشعة",
+
+  "player.settings.critical_debugger": "تصحيح الضربات الحرجة",
+  "player.settings.critical_debugger_description": "تفعيل/تعطيل تصحيح الضربات الحرجة",
+
+  "player.settings.anticheat.bans": "تحذيرات الحظر",
+  "player.settings.anticheat.bans.description": "تنبيهك عند الوصول إلى حد الحظر من النظام",
+
+  "player.settings.proximity.hider": "إخفاء اللاعبين القريبين",
+  "player.settings.proximity.hider.description": "إخفاء اللاعبين عند الاقتراب منهم",
+
+  "player.setting.snow": "الثلج",
+  "player.setting.snow.description": "عرض الثلج (باستخدام الجسيمات)",
+
+  "anticheat.selected": "لقد قمت بالتبديل إلى",
+  "anticheat.kick.requires_reconnect": "يتطلب إعادة الاتصال ليعمل بشكل كامل.",
+  "anticheat.kick.requires_reconnect_warning_1": "التبديل من",
+  "anticheat.kick.requires_reconnect_warning_2": "يتطلب إعادة الاتصال.",
+
+  "action.title.server.position": "موقع الخادم (S08)",
+  "action.title.server.seconds": "ثواني",
+  "action.title.server.tick": "تِك",
+  "action.title.server.ticks": "تِكات",
+
+  "disguised.join.message": "ما زلت متخفياً كـ",
+
+  "pvp.enabled": "تم تفعيل القتال",
+  "pvp.disabled": "تم تعطيل القتال",
+  "pvp.toggled_enable": "القتال مفعّل الآن",
+  "pvp.wait": "يرجى الانتظار...",
+  "pvp.countdown": "سيُفعّل القتال خلال",
+  "pvp.countdown.second": "ثانية",
+  "pvp.countdown.seconds": "ثواني",
+  "pvp.reset.items": "سيتم إعادة تعيين جميع العناصر المسحورة عند تفعيل القتال (اخرج إذا كنت لا تريد ذلك)",
+  "pvp.death.message": "قُتِلَ بواسطة",
+
+  "alerts.filter": "يتم تصفية التنبيهات افتراضيًا. اكتب",
+
+  "join.message": "استخدم /help لعرض جميع الأوامر",
+  "discord.message": "رابط الديسكورد",
+
+  "damage.action": "لقد تسببت في ضرر",
+  "damage.action.critical.hit": "[ضربة حرجة]",
+
+  "civ.break.test": "لقد كسرت الكتلة",
+  "civ.break.test_2": "في التِك",
+
+  "flying.kick.title": "كنت ستُطرَد",
+  "tag.color.change": "لون وسمك الآن",
+
+  "anticheat.vote.voted": "صوّت لـ",
+  "anticheat.vote.voted_other_player": "صوّت لـ",
+
+  "chat.disabled": "الدردشة معطّلة",
+  "chat.throttle": "يرجى الانتظار قبل إرسال رسالة أخرى.",
+  "chat.chain": "لا تُرسل رسائل متتالية في الدردشة.",
+
+  "anticheat.kick.title": "كنت ستُطرَد",
+  "anticheat.kick.vulcan.transaction": "انتهت مهلة المعاملة",
+  "anticheat.kick.vulcan.transaction_2": "كان Vulcan سيطردك لانتهاء مهلة المعاملة",
+
+  "anticheat.kick.vulcan.keepalive": "انتهت مهلة الاتصال",
+  "anticheat.kick.vulcan.keepalive_2": "كان Vulcan سيطردك لانتهاء مهلة الاتصال",
+
+  "anticheat.kick.vulcan.ping": "أعلى بينغ",
+  "anticheat.kick.vulcan.ping_2": "كان Vulcan سيطردك بسبب البينغ العالي",
+
+  "anticheat.kick.vulcan.desync": "عدم التزامن",
+  "anticheat.kick.vulcan.desync_2": "كان Vulcan سيطردك لعدم التزامن",
+
+  "chest.test.message_1": "استغرق",
+  "chest.test.message_2": "لسرقة الصندوق",
+  "chest.test.message_3": "من أصل",
+  "chest.test.message_4": "تم أخذ العناصر",
+
+  "speed.test.start.title.1": "انطلق!",
+  "speed.test.start.title.2": "اركض إلى نهاية الاختبار للحصول على النتيجة",
+  "speed.test.starting": "يبدأ خلال",
+  "speed.test.results": "نتائج اختبار السرعة",
+  "speed.test.average.bps": "متوسط ك/ث",
+  "speed.test.highest.bps": "أعلى ك/ث",
+  "speed.test.lowest.bps": "أدنى ك/ث",
+  "speed.test.totalseconds": "إجمالي الثواني",
+
+  "scaffold.test.enter": "يمكنك الآن وضع الكتل",
+  "scaffold.test.enter_2": "استخدم /items للحصول على العناصر",
+  "scaffold.test.exit": "لم يعد مسموحًا بوضع الكتل",
+
+  "velocity.test.apply": "تم تطبيق السرعة",
+
+  "command.help.description.help": "هذا الأمر...",
+  "command.help.description.spawn": "ينقلك إلى نقطة البداية",
+  "command.help.description.warp": "بدون إدخالات سيفتح واجهة، أو يمكنك إضافة اسم للنقطة",
+  "command.help.description.items": "قائمة العناصر المتاحة",
+  "command.help.description.enchant": "يتيح لك تحسين العناصر",
+  "command.help.description.anticheat": "واجهة اختيار نظام مكافحة الغش",
+  "command.help.description.ac": "مثل /anticheat",
+  "command.help.description.heal": "يعيد صحتك وطعامك",
+  "command.help.description.settings": "قائمة الإعدادات القابلة للتعديل",
+  "command.help.description.clear": "يمسح مخزونك",
+  "command.help.description.tagcolor": "يغير لون اسمك في القائمة",
+  "command.help.description.tc": "مثل /tagcolor",
+  "command.help.description.language": "يغير لغة الخادم",
+  "command.help.description.packetdebugger": "يفعّل/يعطّل مصحح الحزم",
+  "command.help.description.packetdebugger_config": "ضبط مصحح الحزم",
+  "command.help.description.discord_connect": "يربط حسابك بالديسكورد",
+  "command.help.description.discord_unlink": "يفصل حساب الديسكورد",
+  "command.help.description.bottest": "تشغيل اختبار البوتات",
+
+  "gui.select": "انقر للاختيار",
+  "anticheat.message.failed": "فشل",
+
+  "scoreboard.queued": "في قائمة الانتظار لـ",
+  "gui.anticheat.item.external_server": "هذا النظام يعمل على خادم آخر",
+  "gui.anticheat.item.server_online": "الخادم متصل، انقر للانضمام",
+  "gui.anticheat.item.server_offline": "الخادم غير متصل، انقر لتشغيله",
+  "gui.anticheat.item.server_starting": "جاري تشغيل الخادم...",
+  "external.server.start.command.sent": "جارٍ تشغيل الخادم، سيتم نقلك عند الاتصال.",
+
+  "player.setting.scaffold.refill.blocks": "إعادة تعبئة الكتل تلقائيًا",
+  "player.setting.scaffold.refill.blocks.description": "إعادة تعبئة الكتل في منطقة السقالات تلقائيًا",
+
+  "player.setting.direct.messages": "الرسائل المباشرة",
+  "player.setting.direct.messages.description": "تفعيل/تعطيل الرسائل المباشرة",
+
+  "command.message.reply.nobody": "لا يوجد أحد للرد عليه",
+  "command.message.reply.usage": "الاستخدام: /reply <الرسالة>",
+
+  "command.message.usage": "الاستخدام: /message <اللاعب> <الرسالة>",
+  "command.message.finderror": "لم يتم العثور على اللاعب",
+  "command.message.message.self": "لا يمكنك مراسلة نفسك.",
+  "command.message.disabled": "الرسائل المباشرة معطّلة، فعّلها من /settings.",
+
+  "command.message.tell.replaced": "استبدل /tell بـ /message أو /msg",
+
+  "player.setting.hide.players": "إخفاء جميع اللاعبين",
+  "player.setting.hide.players.description": "تفعيل/تعطيل إخفاء اللاعبين",
+
+  "hidden.action.message.1": "جميع اللاعبين مخفيين حاليًا",
+  "hidden.action.message.2": "(استخدم /settings لتغيير هذا)",
+
+  "discord.notlinked.message.cooldown": "أنت تحتاج إلى الانتظار، لرفع القيد يجب ربط حساب الديسكورد عبر \"/discord connect\"، (متبقي: %ss)",
+
+  "scoreboard.pps.pps": "حزم/ثانية",
+  "scoreboard.pps.in": "داخل",
+  "scoreboard.pps.out": "خارج",
+
+  "explosion.place.area": "هذه المنطقة غير آمنة، جرب منطقة أخرى.",
+
+  "scoreboard.gcd.correct": "GCD صحيح",
+  "scoreboard.gcd.incorrect": "GCD خاطئ",
+  "hotbar.hitmiss": "نسبة الضرب/الإخفاق",
+
+  "detections.post": "يبدو أنك تهاجم/تضع في POST، قد تريد تغيير هذا إذا كنت لا تعرف.",
+  "player.setting.background.detections": "الكشف الخلفي",
+  "player.setting.background.detections.description": "تحذيرك من الأشياء التي تكتشفها أنظمة مكافحة الغش",
+
+  "packetSelection.gui.title": "محدد الحزم",
+  "packetSelection.part.1": "انقر",
+  "packetSelection.part.2": "لهذه الحزمة",
+  "packetDebugger.disabled": "لا يمكن استخدام المصحح مع الإصدار الحالي.",
+
+  "bot.test.start": "سيبدأ اختبار البوت الآن",
+  "bot.test.already_running": "الاختبار قيد التشغيل.",
+  "bot.test.finished": "انتهى اختبار البوت",
+  "bot.test.stage": "مرحلة الاختبار",
+  "bot.test.stage.1": "تقليد بسيط",
+  "bot.test.stage.2": "تزييف بسيط",
+  "bot.test.stage.3": "تزييف مع ضرر وحركة عدوانية",
+  "bot.test.stage.4": "تزييف مع تأرجح وحركة عدوانية",
+  "bot.test.stage.5": "تزييف مع ضرر وتأرجح وحركة عدوانية",
+  "bot.test.stage.6": "تزييف مع ضرر وتأرجح وحركة عدوانية x2",
+  "bot.test.stage.7": "تزييف مع ضرر وتأرجح وحركة عدوانية ودروع وعناصر",
+  "bot.test.stage.8": "تزييف مع ضرر وتأرجح وحركة عدوانية ودروع وعناصر x2",
+  "bot.test.higher.versions.warning": "يعمل هذا الاختبار بشكل أفضل على إصدارات 1.8.x، الإصدارات الأحدث غيرت طريقة إنشاء البوتات.",
+
+  "anticheat.ban.warning.message": "كنت ستُحظَر بسبب",
+  "anticheat.ban.title.message": "كنت ستُحظَر",
+
+  "setting.vip.only": "هذا الإعداد متاح للداعمين فقط!",
+
+  "gui.theme.selector.title": "محدد السمات",
+  "gui.theme.selector.enabled": "هذه السمة مفعّلة حاليًا",
+  "gui.theme.selector.enable": "انقر لتفعيل هذه السمة",
+  "gui.theme.selector.vip.only": "هذه الميزة متاحة للداعمين فقط.",
+  "gui.theme.builder.title": "منشئ السمات المخصصة",
+
+  "gui.theme.builder.blocks.base": "الكتل الأساسية",
+  "gui.theme.builder.blocks.area": "كتل المنطقة",
+  "gui.theme.builder.blocks.layer": "كتل الطبقات",
+  "gui.theme.builder.blocks.pvp": "كتل منطقة القتال",
+  "gui.theme.builder.blocks.outer": "كتل الطبقة الخارجية",
+
+  "gui.theme.builder.anvil.title": "منشئ الكتل المخصصة",
+  "gui.theme.builder.anvil.invalid.1": "مادة غير صالحة",
+  "gui.theme.builder.anvil.invalid.2": "إدخال خاطئ",
+
+  "gui.theme.builder.modify": "انقر لتعديل هذه الكتلة",
+  "gui.theme.builder.complete": "تم",
+  "gui.theme.builder.complete.footer.1": "انقر لتطبيق التغييرات",
+  "gui.theme.builder.complete.footer.2": "Shift+Click لإعادة التعيين",
+  "theme.applied": "تم تطبيق السمة",
+  "command.help.description.theme": "تغيير سمة الخريطة",
+
+  "rotate.random": "تم ضبط Yaw إلى %s و Pitch إلى %s",
+  "rotate.yaw": "أضيف %s° إلى Yaw الحالي",
+  "rotate.pitch": "أضيف %s إلى Pitch الحالي",
+  "rotate.expect.invalid.pitch": "لم يتطابق Pitch مع المتوقع (الحزمة: %s، المتوقع: %s)",
+  "rotate.expect.invalid.yaw": "لم يتطابق Yaw مع المتوقع (الحزمة: %s، المتوقع: %s)",
+
+  "matrix.bot.summon": "تم استدعاء البوت",
+  "matrix.bot.hint": "لاستدعاء بوت Matrix، استخدم: /summonMatrixBot",
+
+  "server.remote.startup_1": "سيتم توصيلك بـ",
+  "server.remote.startup_2": "قريبًا، جاري التشغيل...",
+
+  "textureID": "4bd403b953ba6e6c8e538d8d68c34ed5e329c6f9eed4a6bc3434b66d3198d044",
+
+  "credits": [
+    "Webmasters"
+  ]
+}
