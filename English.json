@@ -168,9 +168,9 @@
   "speed.test.lowest.bps": "Lowest BPS",
   "speed.test.totalseconds": "Total Seconds",
 
-  "scaffold.test.enter": "Blocks are now placeable",
+  "scaffold.test.enter": "You can now place blocks",
   "scaffold.test.enter_2": "Use /items to get items",
-  "scaffold.test.exit": "Blocks are no-longer placeable",
+  "scaffold.test.exit": "You can no-longer place blocks",
 
   "velocity.test.apply": "Applied velocity",
 
