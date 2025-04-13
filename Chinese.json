@@ -1,5 +1,5 @@
 {
-  "scoreboard.ping": "延迟",
+  "scoreboard.ping": "网络延迟",
   "scoreboard.anticheat": "反作弊",
   "scoreboard.version": "版本",
   "scoreboard.cps": "CPS",
@@ -118,7 +118,7 @@
   "pvp.countdown.second": "秒",
   "pvp.countdown.seconds": "秒",
   "pvp.reset.items": "当pvp启用时，你的物品栏的所有物品的附魔将被重置(如果你不希望它们被重置，请离开)",
-  "pvp.death.message": "was killed by",
+  "pvp.death.message": "被击杀，击杀者：",
 
   "alerts.filter": "默认情况下，警报被过滤以查看每个人的警报类型",
   "discord.message": "Discord邀请",
@@ -294,13 +294,14 @@
   "matrix.bot.summon": "Matrix 假人已生成",
   "matrix.bot.hint": "要生成 Matrix 假人，请执行: /summonMatrixBot",
 
-  "server.remote.startup_1": "You will be connected to",
+  "server.remote.startup_1": "你将被连接到",
   "server.remote.startup_2": "soon, its starting up...",
 
   "textureID": "7f9bc035cdc80f1ab5e1198f29f3ad3fdd2b42d9a69aeb64de990681800b98dc",
 
   "credits": [
     "Loyisa",
-    "xiaohanbao233"
+    "xiaohanbao233",
+    "a114mc"
   ]
 }
