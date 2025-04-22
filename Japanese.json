@@ -1,0 +1,308 @@
+{
+  "scoreboard.ping": "ピング",
+  "scoreboard.anticheat": "アンチチート",
+  "scoreboard.version": "バージョン",
+  "scoreboard.cps": "CPS",
+  "scoreboard.bps": "BPS",
+  "scoreboard.vbs": "VBS",
+  "scoreboard.balance": "バランス",
+
+  "scoreboard.engine": "ゲーム",
+  "scoreboard.engine.correct": "ストラーフ正しい",
+  "scoreboard.engine.incorrect": "Strafe is incorrect",
+
+  "scoreboard.sprinting": "スプリンティング",
+  "scoreboard.sneaking": "スニーキング",
+  "scoreboard.attacking": "アタッキング",
+  "scoreboard.blocking": "ブロッキング",
+  "scoreboard.ground": "グラウンド",
+
+  "scoreboard.fight": "Fight",
+  "scoreboard.arena": "アリーナ",
+  "scoreboard.duration": "期間",
+
+  "scoreboard.restart": "再起動",
+
+  "yes": "はい",
+  "no": "いいえ",
+
+  "true": "有効",
+  "false": "無効",
+
+  "tab.rank": "ランク",
+  "tab.online": "オンライン",
+  "tab.players": "プレイヤー",
+  "tab.player": "プレイヤー",
+  "tab.cpu": "CPU",
+  "tab.memory": "メモリー",
+  "tab.tps": "TPS",
+
+  "gui.tagcolor": "タグカラー",
+  "gui.items": "アイテム",
+  "gui.playerSettings": "プレイヤーの設定",
+  "gui.warps": "ワープ",
+
+  "gui.warps.click": "クリックでテレポート",
+
+  "gui.playerSettings.modify": "クリックで %s 設定を変更",
+  "gui.playerSettings.disabled": "無効化",
+  "gui.playerSettings.enabled": "有効化",
+
+  "gui.items.click": "クリックでアイテムを入手",
+
+  "gui.chest.test.item": "Chest Stealerをテストするためのアイテム",
+
+  "gui.anticheat.title": "アンチチートを選択してください。",
+  "gui.anticheat.vote": "アンチチートの投票",
+  "gui.anticheat.item.author": "Author(s)",
+  "gui.anticheat.item.description": "説明",
+  "gui.anticheat.item.version": "バージョン",
+  "gui.anticheat.item.reconnect_required": "Selecting this anticheat will require you to reconnect",
+  "gui.anticheat.item.sandbox": "This anticheat is sandboxed",
+  "gui.anticheat.item.sandbox.line2": "a relog might be required for it function correctly.",
+  "gui.anticheat.item.voting": "Votes",
+
+  "player.setting.fall_damage": "落下ダメージ",
+  "player.setting.fall_damage_description": "落下ダメージを有効にするか、無効にするか",
+
+  "player.setting.flying_kick": "飛行kick",
+  "player.setting.flying_kick_description": "flyを利用していて、kickを無効にするか、有効にするか",
+
+  "player.settings.notify_flying": "Fly Kickに関する注意事項",
+  "player.settings.notify_flying_description": "Fly kickに関する警告を有効にするか、無効にするか",
+
+  "player.settings.hunger": "ハンガー",
+  "player.settings.hunger_description": "ハンガーを無効にするか、有効にするか",
+
+  "player.setting.external_damage": "外部ダメージ",
+  "player.setting.external_damage_description": "外部からのダメージを無効にするか、有効にするか",
+
+  "player.settings.potions": "ポーション",
+  "player.settings.potions_description": "ポーションを有効にするか、無効にするか",
+
+  "player.settings.hitbox": "Visual Hitbox Debugger",
+  "player.settings.hitbox_description": "Enable / Disable visual hit-boxes",
+
+  "player.settings.raytrace": "Visual RayTrace Debugger",
+  "player.settings.raytrace.description": "Enable / Disable visual raytrace debugger",
+
+  "player.settings.critical_debugger": "Visual Critical Hits Debugger",
+  "player.settings.critical_debugger_description": "Enable / Disable visual criticals hit debugger",
+
+  "player.settings.anticheat.bans": "Ban警告",
+  "player.settings.anticheat.bans.description": "Warns you when you reach the anticheat max ban vl",
+
+  "player.settings.proximity.hider": "Proximity Player Hider",
+  "player.settings.proximity.hider.description": "Hides players when they get too close",
+
+  "player.setting.snow": "雪",
+  "player.setting.snow.description": "雪を表示する (using particles)",
+
+  "anticheat.selected": "You have switched to",
+  "anticheat.kick.requires_reconnect": "requires you to reconnect for it to fully work.",
+  "anticheat.kick.requires_reconnect_warning_1": "switching from",
+  "anticheat.kick.requires_reconnect_warning_2": "requires you to reconnect.",
+
+  "action.title.server.position": "サーバーポジション (S08)",
+  "action.title.server.seconds": "seconds",
+  "action.title.server.tick": "tick",
+  "action.title.server.ticks": "ticks",
+
+  "disguised.join.message": "You are still disguised as",
+
+  "pvp.enabled": "PvP が有効になりました。",
+  "pvp.disabled": "PvP が無効になりました。",
+  "pvp.toggled_enable": "PvPが有効になりました。",
+  "pvp.wait": "お待ち下さい。",
+  "pvp.countdown": "PvP will be enabled in",
+  "pvp.countdown.second": "秒",
+  "pvp.countdown.seconds": "秒",
+  "pvp.reset.items": "All enchanted items inside your inventory will be reset when pvp is enabled (leave if you don't want them to be reset)",
+  "pvp.death.message": " に殺された ",
+
+  "alerts.filter": "Alerts are filtered by default to see everyone's alerts type",
+
+  "join.message": "To view all commands use /help",
+  "discord.message": "Discord invite",
+
+  "damage.action": "You dealt the damage",
+  "damage.action.critical.hit": "[Critical Hit]",
+
+  "civ.break.test": "ブロックの破壊に成功しました",
+  "civ.break.test_2": "in the tick",
+
+  "flying.kick.title": "You would of been kicked",
+  "tag.color.change": "Your tag color is now",
+
+  "anticheat.vote.voted": "に投票しました！",
+  "anticheat.vote.voted_other_player": "voted for",
+
+  "chat.disabled": "チャット欄は無効化されました。",
+  "chat.throttle": "Please wait before sending another message.",
+  "chat.chain": "Do not chain messages in chat.",
+
+  "anticheat.kick.title": "You would of been kicked",
+  "anticheat.kick.vulcan.transaction": "Transaction Timeout",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan would of kicked you for transaction timeout",
+
+  "anticheat.kick.vulcan.keepalive": "KeepAlive Timeout",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan would of kicked you for keepalive timeout",
+
+  "anticheat.kick.vulcan.ping": "マックスピング",
+  "anticheat.kick.vulcan.ping_2": "Vulcan would of kicked you for max ping",
+
+  "anticheat.kick.vulcan.desync": "Desync",
+  "anticheat.kick.vulcan.desync_2": "Vulcan would of kicked you for desync",
+
+  "chest.test.message_1": "It took",
+  "chest.test.message_2": "to steal the chest",
+  "chest.test.message_3": "out of",
+  "chest.test.message_4": "items have been taken",
+
+  "speed.test.start.title.1": "行け!",
+  "speed.test.start.title.2": "Run to the end of the speed test to get a result",
+  "speed.test.starting": "Starting in",
+  "speed.test.results": "Speed Test Results",
+  "speed.test.average.bps": "Average BPS",
+  "speed.test.highest.bps": "Highest BPS",
+  "speed.test.lowest.bps": "Lowest BPS",
+  "speed.test.totalseconds": "Total Seconds",
+
+  "scaffold.test.enter": "ブロックを設置できるようになりました",
+  "scaffold.test.enter_2": "Use /items to get items",
+  "scaffold.test.exit": "You can no-longer place blocks",
+
+  "velocity.test.apply": "Applied velocity",
+
+  "command.help.description.help": "This command...",
+  "command.help.description.spawn": "Teleports you to spawn",
+  "command.help.description.warp": "No arguments will open a GUI, or you can append an argument to teleport to",
+  "command.help.description.items": "List of items you can use",
+  "command.help.description.enchant": "Allows you to enchant any item",
+  "command.help.description.anticheat": "Anticheat selection GUI",
+  "command.help.description.ac": "Same as /anticheat",
+  "command.help.description.heal": "Resets your food level and health",
+  "command.help.description.settings": "List of settings you can toggle on and off",
+  "command.help.description.clear": "Clears your inventory",
+  "command.help.description.tagcolor": "Changes your name color in tab",
+  "command.help.description.tc": "Same as /tagcolor",
+  "command.help.description.language": "Changes server language",
+  "command.help.description.packetdebugger": "Toggles to packet debugger",
+  "command.help.description.packetdebugger_config": "Configure the packet debugger",
+  "command.help.description.discord_connect": "Invites and starts the link process to join our discord",
+  "command.help.description.discord_unlink": "Unlink your Discord account",
+  "command.help.description.bottest": "Trigger a killaura bot test",
+
+  "gui.select": "クリックしたら",
+  "anticheat.message.failed": "失敗",
+
+  "scoreboard.queued": "Queued for",
+  "gui.anticheat.item.external_server": "This anticheat is running on another server",
+  "gui.anticheat.item.server_online": "This server is online, click to connect",
+  "gui.anticheat.item.server_offline": "This server is offline, click to start it",
+  "gui.anticheat.item.server_starting": "This server is currently booting up...",
+  "external.server.start.command.sent": "This server is now starting up, you will be sent to that server once its online.",
+
+  "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
+  "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
+
+  "player.setting.direct.messages": "Direct Messages",
+  "player.setting.direct.messages.description": "Toggle direct messages on/off",
+
+  "command.message.reply.nobody": "You don't have anyone to reply to",
+  "command.message.reply.usage": "Usage: /reply <message>",
+
+  "command.message.usage": "Usage: /message <player> <message>",
+  "command.message.finderror": "Could not find the player",
+  "command.message.message.self": "You cannot message yourself.",
+  "command.message.disabled": "You have direct messaged toggled off, enable them using /settings to use this command.",
+
+  "command.message.tell.replaced": "/tell has been replaced with /message or /msg",
+
+  "player.setting.hide.players": "Hide All Online Players",
+  "player.setting.hide.players.description": "Toggle the player hider on/off",
+
+  "hidden.action.message.1": "All players are currently hidden",
+  "hidden.action.message.2": "(use /settings to change this)",
+
+  "discord.notlinked.message.cooldown": "You are on a message cool-down, to remove this cool-down you must link your discord account by using \"/discord connect\", (%ss remaining)",
+
+  "scoreboard.pps.pps": "PPS",
+  "scoreboard.pps.in": "in",
+  "scoreboard.pps.out": "out",
+
+  "explosion.place.area": "This area is not safe, try in another area.",
+
+  "scoreboard.gcd.correct": "GCDが正しいです。",
+  "scoreboard.gcd.incorrect": "GCDが間違っています。",
+  "hotbar.hitmiss": "Hit/Miss Ratio",
+
+  "detections.post": "Looks like you are currently attacking/placing on POST, this is a very common check on most anti-cheats you may want to change this if you are unaware.",
+  "player.setting.background.detections": "Background Detections",
+  "player.setting.background.detections.description": "Warns you of any basic stuff that most anti-cheats flag for",
+
+  "packetSelection.gui.title": "パケットセレクター",
+  "packetSelection.part.1": "Click to",
+  "packetSelection.part.2": "this packet",
+  "packetDebugger.disabled": "The debugger cannot be used on the client you are using.",
+
+  "bot.test.start": "The antibot test will now start",
+  "bot.test.already_running": "Test is already running.",
+  "bot.test.finished": "Bot test has finished",
+  "bot.test.stage": "Testing the bot",
+  "bot.test.stage.1": "basic-fake",
+  "bot.test.stage.2": "basic-spoof",
+  "bot.test.stage.3": "basic-spoof with damage, aggressive movement",
+  "bot.test.stage.4": "basic-spoof with swing, aggressive movement",
+  "bot.test.stage.5": "basic-spoof with damage, swing, aggressive movement",
+  "bot.test.stage.6": "basic-spoof with damage, swing, aggressive movement x2",
+  "bot.test.stage.7": "basic-spoof with damage, swing, aggressive movement, armor, items",
+  "bot.test.stage.8": "basic-spoof with damage, swing, aggressive movement, armor, items x2",
+  "bot.test.higher.versions.warning": "This test works better on 1.8.x based clients, newer minecraft versions changed how spawning is handled so all the bots will have a fake username",
+
+  "anticheat.ban.warning.message": "You would of been banned for",
+  "anticheat.ban.title.message": "You would of been banned",
+
+  "setting.vip.only": "You can access this setting by donating!",
+
+  "gui.theme.selector.title": "テーマを選択する",
+  "gui.theme.selector.enabled": "You currently have this theme enabled",
+  "gui.theme.selector.enable": "Click to enable this theme",
+  "gui.theme.selector.vip.only": "Only users who have donated can access this feature.",
+  "gui.theme.builder.title": "Custom Theme Builder",
+
+  "gui.theme.builder.blocks.base": "ベースブロック",
+  "gui.theme.builder.blocks.area": "アリーナブロック",
+  "gui.theme.builder.blocks.layer": "Layer Blocks",
+  "gui.theme.builder.blocks.pvp": "PvPアリーナのブロック",
+  "gui.theme.builder.blocks.outer": "Outer Layer Blocks",
+
+  "gui.theme.builder.anvil.title": "Custom Block Builder",
+  "gui.theme.builder.anvil.invalid.1": "Invalid Material",
+  "gui.theme.builder.anvil.invalid.2": "Invalid Input",
+
+  "gui.theme.builder.modify": "Click to modify this block",
+  "gui.theme.builder.complete": "Complete",
+  "gui.theme.builder.complete.footer.1": "Click to apply changes",
+  "gui.theme.builder.complete.footer.2": "Left/Right-Shift & Click to reset changes",
+  "theme.applied": "has been applied",
+  "command.help.description.theme": "Change the map theme",
+
+  "rotate.random": "Set yaw to %s and pitch to %s",
+  "rotate.yaw": "Added %s° to current yaw",
+  "rotate.pitch": "Added %s to current pitch",
+  "rotate.expect.invalid.pitch": "Pitch did not follow server expected pitch (packet: %s, expected: %s)",
+  "rotate.expect.invalid.yaw": "Yaw did not follow server expected yaw (packet: %s, expected: %s)",
+
+  "matrix.bot.summon": "ボットが召喚されました。",
+  "matrix.bot.hint": "To summon the Matrix anticheat bot, run: /summonMatrixBot",
+
+  "server.remote.startup_1": "You will be connected to",
+  "server.remote.startup_2": "soon, its starting up...",
+
+  "textureID": "c439d7f9c67f32dcbb86b7010b1e14b60de96776a35f61cee982660aacf5264b",
+
+  "credits": [
+    "zakocord"
+  ]
+}
