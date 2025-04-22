@@ -38,9 +38,9 @@
   "tab.tps": "TPS",
 
   "gui.tagcolor": "タグカラー",
-  "gui.items": "Items",
+  "gui.items": "アイテム",
   "gui.playerSettings": "プレイヤーの設定",
-  "gui.warps": "Warps",
+  "gui.warps": "ワープ",
 
   "gui.warps.click": "クリックでテレポート",
 
@@ -68,11 +68,11 @@
   "player.setting.flying_kick": "飛行kick",
   "player.setting.flying_kick_description": "flyを利用していて、kickを無効にするか、有効にするか",
 
-  "player.settings.notify_flying": "Notify on flying kick",
-  "player.settings.notify_flying_description": "Enable / Disable the notification for when you get kicked for flying kick",
+  "player.settings.notify_flying": "フライングキックに関する注意事項",
+  "player.settings.notify_flying_description": "フライングキックを蹴られたときの通知を有効／無効にする",
 
-  "player.settings.hunger": "Hunger",
-  "player.settings.hunger_description": "Enable / Disable hunger",
+  "player.settings.hunger": "ハンガー",
+  "player.settings.hunger_description": "ハンガーの有効化／無効化",
 
   "player.setting.external_damage": "External Damage",
   "player.setting.external_damage_description": "Enable / Disable external damage",
@@ -148,7 +148,7 @@
   "anticheat.kick.vulcan.keepalive": "KeepAlive Timeout",
   "anticheat.kick.vulcan.keepalive_2": "Vulcan would of kicked you for keepalive timeout",
 
-  "anticheat.kick.vulcan.ping": "Max Ping",
+  "anticheat.kick.vulcan.ping": "マックスピング",
   "anticheat.kick.vulcan.ping_2": "Vulcan would of kicked you for max ping",
 
   "anticheat.kick.vulcan.desync": "Desync",
@@ -159,7 +159,7 @@
   "chest.test.message_3": "out of",
   "chest.test.message_4": "items have been taken",
 
-  "speed.test.start.title.1": "GO!",
+  "speed.test.start.title.1": "行け!",
   "speed.test.start.title.2": "Run to the end of the speed test to get a result",
   "speed.test.starting": "Starting in",
   "speed.test.results": "Speed Test Results",
@@ -194,7 +194,7 @@
   "command.help.description.bottest": "Trigger a killaura bot test",
 
   "gui.select": "Click to select",
-  "anticheat.message.failed": "failed",
+  "anticheat.message.failed": "失敗",
 
   "scoreboard.queued": "Queued for",
   "gui.anticheat.item.external_server": "This anticheat is running on another server",
