@@ -74,8 +74,8 @@
   "player.settings.hunger": "ハンガー",
   "player.settings.hunger_description": "ハンガーを無効にするか、有効にするか",
 
-  "player.setting.external_damage": "External Damage",
-  "player.setting.external_damage_description": "Enable / Disable external damage",
+  "player.setting.external_damage": "外部ダメージ",
+  "player.setting.external_damage_description": "外部からのダメージを無効にするか、有効にするか",
 
   "player.settings.potions": "ポーション",
   "player.settings.potions_description": "ポーションを有効にするか、無効にするか",
@@ -103,7 +103,7 @@
   "anticheat.kick.requires_reconnect_warning_1": "switching from",
   "anticheat.kick.requires_reconnect_warning_2": "requires you to reconnect.",
 
-  "action.title.server.position": "Server Position (S08)",
+  "action.title.server.position": "サーバーポジション (S08)",
   "action.title.server.seconds": "seconds",
   "action.title.server.tick": "tick",
   "action.title.server.ticks": "ticks",
@@ -115,8 +115,8 @@
   "pvp.toggled_enable": "PvPが有効になりました。",
   "pvp.wait": "お待ち下さい。",
   "pvp.countdown": "PvP will be enabled in",
-  "pvp.countdown.second": "second",
-  "pvp.countdown.seconds": "seconds",
+  "pvp.countdown.second": "秒",
+  "pvp.countdown.seconds": "秒",
   "pvp.reset.items": "All enchanted items inside your inventory will be reset when pvp is enabled (leave if you don't want them to be reset)",
   "pvp.death.message": " に殺された ",
 
@@ -128,16 +128,16 @@
   "damage.action": "You dealt the damage",
   "damage.action.critical.hit": "[Critical Hit]",
 
-  "civ.break.test": "You broke the block",
+  "civ.break.test": "ブロックの破壊に成功しました",
   "civ.break.test_2": "in the tick",
 
   "flying.kick.title": "You would of been kicked",
   "tag.color.change": "Your tag color is now",
 
-  "anticheat.vote.voted": "You voted for",
+  "anticheat.vote.voted": "に投票しました！",
   "anticheat.vote.voted_other_player": "voted for",
 
-  "chat.disabled": "Chat is disabled",
+  "chat.disabled": "チャット欄は無効化されました。",
   "chat.throttle": "Please wait before sending another message.",
   "chat.chain": "Do not chain messages in chat.",
 
@@ -168,7 +168,7 @@
   "speed.test.lowest.bps": "Lowest BPS",
   "speed.test.totalseconds": "Total Seconds",
 
-  "scaffold.test.enter": "You can now place blocks",
+  "scaffold.test.enter": "ブロックを設置できるようになりました",
   "scaffold.test.enter_2": "Use /items to get items",
   "scaffold.test.exit": "You can no-longer place blocks",
 
@@ -193,7 +193,7 @@
   "command.help.description.discord_unlink": "Unlink your Discord account",
   "command.help.description.bottest": "Trigger a killaura bot test",
 
-  "gui.select": "Click to select",
+  "gui.select": "クリックしたら",
   "anticheat.message.failed": "失敗",
 
   "scoreboard.queued": "Queued for",
@@ -233,15 +233,15 @@
 
   "explosion.place.area": "This area is not safe, try in another area.",
 
-  "scoreboard.gcd.correct": "GCD is correct",
-  "scoreboard.gcd.incorrect": "GCD is incorrect",
+  "scoreboard.gcd.correct": "GCDが正しいです。",
+  "scoreboard.gcd.incorrect": "GCDが間違っています。",
   "hotbar.hitmiss": "Hit/Miss Ratio",
 
   "detections.post": "Looks like you are currently attacking/placing on POST, this is a very common check on most anti-cheats you may want to change this if you are unaware.",
   "player.setting.background.detections": "Background Detections",
   "player.setting.background.detections.description": "Warns you of any basic stuff that most anti-cheats flag for",
 
-  "packetSelection.gui.title": "Packet Selector",
+  "packetSelection.gui.title": "パケットセレクター",
   "packetSelection.part.1": "Click to",
   "packetSelection.part.2": "this packet",
   "packetDebugger.disabled": "The debugger cannot be used on the client you are using.",
@@ -271,10 +271,10 @@
   "gui.theme.selector.vip.only": "Only users who have donated can access this feature.",
   "gui.theme.builder.title": "Custom Theme Builder",
 
-  "gui.theme.builder.blocks.base": "Base Blocks",
-  "gui.theme.builder.blocks.area": "Area Blocks",
+  "gui.theme.builder.blocks.base": "ベースブロック",
+  "gui.theme.builder.blocks.area": "アリーナブロック",
   "gui.theme.builder.blocks.layer": "Layer Blocks",
-  "gui.theme.builder.blocks.pvp": "PvP Area Blocks",
+  "gui.theme.builder.blocks.pvp": "PvPアリーナのブロック",
   "gui.theme.builder.blocks.outer": "Outer Layer Blocks",
 
   "gui.theme.builder.anvil.title": "Custom Block Builder",
