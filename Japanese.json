@@ -68,17 +68,17 @@
   "player.setting.flying_kick": "飛行kick",
   "player.setting.flying_kick_description": "flyを利用していて、kickを無効にするか、有効にするか",
 
-  "player.settings.notify_flying": "フライングキックに関する注意事項",
-  "player.settings.notify_flying_description": "フライングキックを蹴られたときの通知を有効／無効にする",
+  "player.settings.notify_flying": "Fly Kickに関する注意事項",
+  "player.settings.notify_flying_description": "Fly kickに関する警告を有効にするか、無効にするか",
 
   "player.settings.hunger": "ハンガー",
-  "player.settings.hunger_description": "ハンガーの有効化／無効化",
+  "player.settings.hunger_description": "ハンガーを無効にするか、有効にするか",
 
   "player.setting.external_damage": "External Damage",
   "player.setting.external_damage_description": "Enable / Disable external damage",
 
-  "player.settings.potions": "Potions",
-  "player.settings.potions_description": "Enable / Disable potion effects",
+  "player.settings.potions": "ポーション",
+  "player.settings.potions_description": "ポーションを有効にするか、無効にするか",
 
   "player.settings.hitbox": "Visual Hitbox Debugger",
   "player.settings.hitbox_description": "Enable / Disable visual hit-boxes",
@@ -89,14 +89,14 @@
   "player.settings.critical_debugger": "Visual Critical Hits Debugger",
   "player.settings.critical_debugger_description": "Enable / Disable visual criticals hit debugger",
 
-  "player.settings.anticheat.bans": "Ban Warnings",
+  "player.settings.anticheat.bans": "Ban警告",
   "player.settings.anticheat.bans.description": "Warns you when you reach the anticheat max ban vl",
 
   "player.settings.proximity.hider": "Proximity Player Hider",
   "player.settings.proximity.hider.description": "Hides players when they get too close",
 
-  "player.setting.snow": "Snow",
-  "player.setting.snow.description": "Show snow (using particles)",
+  "player.setting.snow": "雪",
+  "player.setting.snow.description": "雪を表示する (using particles)",
 
   "anticheat.selected": "You have switched to",
   "anticheat.kick.requires_reconnect": "requires you to reconnect for it to fully work.",
@@ -265,7 +265,7 @@
 
   "setting.vip.only": "You can access this setting by donating!",
 
-  "gui.theme.selector.title": "Theme Selector",
+  "gui.theme.selector.title": "テーマを選択する",
   "gui.theme.selector.enabled": "You currently have this theme enabled",
   "gui.theme.selector.enable": "Click to enable this theme",
   "gui.theme.selector.vip.only": "Only users who have donated can access this feature.",
