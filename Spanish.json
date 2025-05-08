@@ -192,6 +192,7 @@
   "command.help.description.discord_connect": "Te invita y empieza el proceso de vinculacion para unirse a nuestro discord",
   "command.help.description.discord_unlink": "Desvincula tu cuenta de discord",
   "command.help.description.bottest": "Activa un bot para testear el killaura",
+  "command.help.description.ip": "Shows what IP address you are connected with",
 
   "gui.select": "Click para seleccionar",
   "anticheat.message.failed": "fallido",
@@ -298,6 +299,8 @@
 
   "server.remote.startup_1": "You will be connected to",
   "server.remote.startup_2": "soon, its starting up...",
+
+  "command.ip": "You are connected with the IP:",
 
   "textureID": "c2d730b6dda16b584783b63d082a80049b5fa70228aba4ae884c2c1fc0c3a8bc",
 

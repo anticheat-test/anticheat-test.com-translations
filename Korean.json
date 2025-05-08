@@ -192,6 +192,7 @@
   "command.help.description.discord_connect": "Invites and starts the link process to join our discord",
   "command.help.description.discord_unlink": "Unlink your Discord account",
   "command.help.description.bottest": "Trigger a killaura bot test",
+  "command.help.description.ip": "Shows what IP address you are connected with",
 
   "gui.select": "선택하려면 클릭하세요",
   "anticheat.message.failed": "실패하였습니다",
@@ -298,6 +299,8 @@
 
   "server.remote.startup_1": "You will be connected to",
   "server.remote.startup_2": "soon, its starting up...",
+
+  "command.ip": "You are connected with the IP:",
 
   "textureID": "ca12913d7df640d18bcc7a45a8172c68ffa04756e84c6f0a2eda3da45e00dadd",
 

@@ -192,6 +192,8 @@
   "command.help.description.discord_connect": "Discord hesabı bağlama işlemini başlatır.",
   "command.help.description.discord_unlink": "Discord hesabının bağını koparır.",
   "command.help.description.bottest": "Killaura bot testini tetikler.",
+  "command.help.description.ip": "Shows what IP address you are connected with",
+
 
   "gui.select": "Seçmek için tıkla",
   "anticheat.message.failed": "yakalandı",
@@ -298,6 +300,8 @@
 
   "server.remote.startup_1": "You will be connected to",
   "server.remote.startup_2": "soon, its starting up...",
+
+  "command.ip": "You are connected with the IP:",
 
   "textureID": "9852b9aba3482348514c1034d0affe73545c9de679ae4647f99562b5e5f47d09",
 

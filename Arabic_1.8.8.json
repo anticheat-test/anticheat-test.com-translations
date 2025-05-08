@@ -147,6 +147,7 @@
   "command.help.description.discord_connect": "ﺩﺭﻮﻜﺴﻳﺪﻟﺎﺑ ﻚﺑﺎﺴﺣ ﻂﺑﺮﻳ",
   "command.help.description.discord_unlink": "ﺩﺭﻮﻜﺴﻳﺪﻟﺍ ﺏﺎﺴﺣ ﻞﺼﻔﻳ",
   "command.help.description.bottest": "ﺕﺎﺗﻮﺒﻟﺍ ﺭﺎﺒﺘﺧﺍ ﻞﻴﻐﺸﺗ",
+  "command.help.description.ip": "Shows what IP address you are connected with",
   "gui.select": "ﺭﺎﻴﺘﺧﻼﻟ ﺮﻘﻧﺍ",
   "anticheat.message.failed": "ﻞﺸﻓ",
   "scoreboard.queued": "ـﻟ ﺭﺎﻈﺘﻧﻻﺍ ﺔﻤﺋﺎﻗ ﻲﻓ",
@@ -229,6 +230,7 @@
   "matrix.bot.hint": "summonMatrixBot/ :ﻡﺪﺨﺘﺳﺍ ،Matrix ﺕﻮﺑ ﺀﺎﻋﺪﺘﺳﻻ",
   "server.remote.startup_1": "ـﺑ ﻚﻠﻴﺻﻮﺗ ﻢﺘﻴﺳ",
   "server.remote.startup_2": "...ﻞﻴﻐﺸﺘﻟﺍ ﻱﺭﺎﺟ ،ﺎﺒﻳﺮﻗ",
+  "command.ip": "You are connected with the IP:",
   "textureID": "4bd403b953ba6e6c8e538d8d68c34ed5e329c6f9eed4a6bc3434b66d3198d044",
   "credits": [
     "Webmasters"

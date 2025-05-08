@@ -190,6 +190,8 @@
   "command.help.description.discord_connect": "Invites and starts the link process to join our discord",
   "command.help.description.discord_unlink": "Unlink your Discord account",
   "command.help.description.bottest": "触发反 killaura 机器人测试",
+  "command.help.description.ip": "Shows what IP address you are connected with",
+
 
   "gui.select": "点击选中",
   "anticheat.message.failed": "被检测",
@@ -296,6 +298,8 @@
 
   "server.remote.startup_1": "你将被连接到",
   "server.remote.startup_2": "soon, its starting up...",
+
+  "command.ip": "You are connected with the IP:",
 
   "textureID": "7f9bc035cdc80f1ab5e1198f29f3ad3fdd2b42d9a69aeb64de990681800b98dc",
 

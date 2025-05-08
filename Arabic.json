@@ -192,6 +192,7 @@
   "command.help.description.discord_connect": "يربط حسابك بالديسكورد",
   "command.help.description.discord_unlink": "يفصل حساب الديسكورد",
   "command.help.description.bottest": "تشغيل اختبار البوتات",
+  "command.help.description.ip": "Shows what IP address you are connected with",
 
   "gui.select": "انقر للاختيار",
   "anticheat.message.failed": "فشل",
@@ -299,6 +300,8 @@
 
   "server.remote.startup_1": "سيتم توصيلك بـ",
   "server.remote.startup_2": "قريبًا، جاري التشغيل...",
+
+  "command.ip": "You are connected with the IP:",
 
   "textureID": "4bd403b953ba6e6c8e538d8d68c34ed5e329c6f9eed4a6bc3434b66d3198d044",
 

@@ -191,6 +191,8 @@
   "command.help.description.discord_connect": "Mời bạn và bắt đầu quá trình liên kết tài khoản trên server với discord",
   "command.help.description.discord_unlink": "Gỡ liên kết tài khoản Discord của bạn",
   "command.help.description.bottest": "Trigger a killaura bot test",
+  "command.help.description.ip": "Shows what IP address you are connected with",
+
 
   "gui.select": "Nhấp để chọn",
   "anticheat.message.failed": "failed",
@@ -297,6 +299,8 @@
   
   "server.remote.startup_1": "You will be connected to",
   "server.remote.startup_2": "soon, its starting up...",
+
+  "command.ip": "You are connected with the IP:",
 
   "textureID": "1c8b7c7fb08ab8947812bb9d14da049ed2d51ad8cb932b392c2266b257adc2ac",
 
