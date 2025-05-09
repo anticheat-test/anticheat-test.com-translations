@@ -193,6 +193,7 @@
   "command.help.description.discord_unlink": "يفصل حساب الديسكورد",
   "command.help.description.bottest": "تشغيل اختبار البوتات",
   "command.help.description.ip": "Shows what IP address you are connected with",
+  "command.help.description.trash": "Item trash GUI",
 
   "gui.select": "انقر للاختيار",
   "anticheat.message.failed": "فشل",

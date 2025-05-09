@@ -192,6 +192,7 @@
   "command.help.description.discord_unlink": "Gỡ liên kết tài khoản Discord của bạn",
   "command.help.description.bottest": "Trigger a killaura bot test",
   "command.help.description.ip": "Shows what IP address you are connected with",
+  "command.help.description.trash": "Item trash GUI",
 
 
   "gui.select": "Nhấp để chọn",

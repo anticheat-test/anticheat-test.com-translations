@@ -193,6 +193,7 @@
   "command.help.description.discord_unlink": "Desvincula tu cuenta de discord",
   "command.help.description.bottest": "Activa un bot para testear el killaura",
   "command.help.description.ip": "Shows what IP address you are connected with",
+  "command.help.description.trash": "Item trash GUI",
 
   "gui.select": "Click para seleccionar",
   "anticheat.message.failed": "fallido",

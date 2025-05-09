@@ -193,6 +193,7 @@
   "command.help.description.discord_unlink": "Discord hesabının bağını koparır.",
   "command.help.description.bottest": "Killaura bot testini tetikler.",
   "command.help.description.ip": "Shows what IP address you are connected with",
+  "command.help.description.trash": "Item trash GUI",
 
 
   "gui.select": "Seçmek için tıkla",
