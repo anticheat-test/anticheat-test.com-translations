@@ -52,12 +52,12 @@
 
   "gui.chest.test.item": "Item de prueba del Chest Stealer",
 
-  "gui.anticheat.title": "Seleccion del AntiCheat",
-  "gui.anticheat.vote": "Votacion del AntiCheat",
+  "gui.anticheat.title": "Selección del Anticheat",
+  "gui.anticheat.vote": "Votación del Anticheat",
   "gui.anticheat.item.author": "Autor(es)",
-  "gui.anticheat.item.description": "Descripcion",
-  "gui.anticheat.item.version": "Version",
-  "gui.anticheat.item.reconnect_required": "Necesitaras reconectarte si seleccionas este Anticheat",
+  "gui.anticheat.item.description": "Descripción",
+  "gui.anticheat.item.version": "Versión",
+  "gui.anticheat.item.reconnect_required": "Necesitarás reconectarte si seleccionas este Anticheat",
   "gui.anticheat.item.sandbox": "Este Anticheat esta sandboxed",
   "gui.anticheat.item.sandbox.line2": "Reiniciar puede ser necesario para el funcionamiento correcto",
   "gui.anticheat.item.voting": "Votos",
@@ -122,7 +122,7 @@
 
   "alerts.filter": "Estas viendo las alertas de todo el mundo por defecto",
 
-  "join.message": "To view all commands use /help",
+  "join.message": "Para mirar todos los comandos, usa /help",
   "discord.message": "Invitacion a discord",
 
   "damage.action": "Has hecho daño",
@@ -141,18 +141,18 @@
   "chat.throttle": "Por favor espera antes de enviar otro mensaje.",
   "chat.chain": "No envies mensajes duplicados en el chat.",
 
-  "anticheat.kick.title": "Habrias sido kickeado",
-  "anticheat.kick.vulcan.transaction": "Transaction Timeout",
-  "anticheat.kick.vulcan.transaction_2": "Vulcan te habria kickeado por transaction timeout",
+  "anticheat.kick.title": "Habrías sido kickeado",
+  "anticheat.kick.vulcan.transaction": "Timeout de transacciones",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan te habría kickeado por timeout de transacciones",
 
   "anticheat.kick.vulcan.keepalive": "KeepAlive Timeout",
-  "anticheat.kick.vulcan.keepalive_2": "Vulcan te habria kickeado por keepalive timeout",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan te habría kickeado por keepalive timeout",
 
-  "anticheat.kick.vulcan.ping": "Max Ping",
-  "anticheat.kick.vulcan.ping_2": "Vulcan te habria kickeado por max ping",
+  "anticheat.kick.vulcan.ping": "Ping Máximo",
+  "anticheat.kick.vulcan.ping_2": "Vulcan te habría kickeado por el ping máximo",
 
   "anticheat.kick.vulcan.desync": "Desync",
-  "anticheat.kick.vulcan.desync_2": "Vulcan te habria kickeado por desync",
+  "anticheat.kick.vulcan.desync_2": "Vulcan te habría kickeado por haberte desynceado",
 
   "chest.test.message_1": "Tomó",
   "chest.test.message_2": "para lootear el cofre",
@@ -176,10 +176,10 @@
 
   "command.help.description.help": "Este comando...",
   "command.help.description.spawn": "Te teletransporta al spawn",
-  "command.help.description.warp": "Se abrira una GUI sin argumentos, o puedes teletransportarte con algun argumento",
+  "command.help.description.warp": "Se abrirá una GUI sin argumentos, o puedes teletransportarte con algun argumento",
   "command.help.description.items": "Lista de items que puedes usar",
   "command.help.description.enchant": "Te permite encantar cualquier item",
-  "command.help.description.anticheat": "Seleccion de AntiCheat",
+  "command.help.description.anticheat": "Seleccion de Anticheat",
   "command.help.description.ac": "Igual que /anticheat",
   "command.help.description.heal": "Reinicia tu nivel de comida y vida",
   "command.help.description.settings": "Lista de ajustes que puedes activar / desactivar",
@@ -192,8 +192,8 @@
   "command.help.description.discord_connect": "Te invita y empieza el proceso de vinculacion para unirse a nuestro discord",
   "command.help.description.discord_unlink": "Desvincula tu cuenta de discord",
   "command.help.description.bottest": "Activa un bot para testear el killaura",
-  "command.help.description.ip": "Shows what IP address you are connected with",
-  "command.help.description.trash": "Item trash GUI",
+  "command.help.description.ip": "Muestra con que dirección IP te conectaste",
+  "command.help.description.trash": "Basurero GUI",
 
   "gui.select": "Click para seleccionar",
   "anticheat.message.failed": "fallido",
@@ -232,10 +232,10 @@
   "scoreboard.pps.in": "in",
   "scoreboard.pps.out": "out",
 
-  "explosion.place.area": "Este area no es seguro, intenta en otro area.",
+  "explosion.place.area": "Esta area no es segura, intenta en otro area.",
 
   "scoreboard.gcd.correct": "El GCD es correcto",
-  "scoreboard.gcd.incorrect": "El GCD es correcto",
+  "scoreboard.gcd.incorrect": "El GCD es incorrecto",
   "hotbar.hitmiss": "Ratio de Golpes/fallidos",
 
   "detections.post": "Looks like you are currently attacking/placing on POST, this is a very common check on most anti-cheats you may want to change this if you are unaware.",
@@ -298,11 +298,11 @@
   "matrix.bot.summon": "El bot ha spawneado",
   "matrix.bot.hint": "Para invocar al bot de Matrix, usa: /summonMatrixBot",
 
-  "server.remote.startup_1": "You will be connected to",
-  "server.remote.startup_2": "soon, its starting up...",
+  "server.remote.startup_1": "Serás conectado a",
+  "server.remote.startup_2": "pronto, se esta iniciando...",
 
-  "command.ip": "You are connected with the IP:",
-  "gui.trash.title": "Trash (place items you dont want here)",
+  "command.ip": "Estás conectado con la siguiente IP:",
+  "gui.trash.title": "Basura (pon items que no quieras acá)",
 
   "textureID": "c2d730b6dda16b584783b63d082a80049b5fa70228aba4ae884c2c1fc0c3a8bc",
 
