@@ -313,6 +313,7 @@
     "donate.min_price": "Please enter a price above €5",
     "donate.entered_amount": "You have entered the amount",
     "donate.invalid_input": "Invalid input (Please use a valid number...)",
+    "donate.payment_complete": "Your payment has been processed, please reconnect to get the donator perks!",
     
     "textureID": "4a9c3c4b6c5031332dd2bfece5e31e999f8deff55474065cc86993d7bdcdbd0",
 
