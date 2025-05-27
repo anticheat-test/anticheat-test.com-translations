@@ -302,6 +302,16 @@
   "command.ip": "You are connected with the IP:",
   "gui.trash.title": "Trash (place items you dont want here)",
 
+  "donate.button_1": "Click here to donate",
+  "donate.meta_1": "Price: €5 or more (shift click to enter custom amount)",
+  "donate.meta_2": "Supported Coins",
+  "donate.meta_3": "Want to donate using another payment method?",
+  "donate.meta_4": "Join the discord using /discord",
+  "donate.try_again": "Unable to generate invoice, try again later.",
+  "donate.min_price": "Please enter a price above €5",
+  "donate.entered_amount": "You have entered the amount",
+  "donate.invalid_input": "Invalid input (Please use a valid number...)",
+
   "textureID": "7f9bc035cdc80f1ab5e1198f29f3ad3fdd2b42d9a69aeb64de990681800b98dc",
 
   "credits": [
