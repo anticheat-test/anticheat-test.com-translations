@@ -50,7 +50,7 @@
 
   "gui.items.click": "Klicke um dieses Item zu erhalten",
 
-  "gui.chest.test.item": "Test Item für Chest Stealer",
+  "gui.chest.test.item": "Ein Test-item um den Cheststealer zu testen",
 
   "gui.anticheat.title": "Anticheat-Auswahl",
   "gui.anticheat.vote": "Anticheat-Abstimmung",
@@ -92,7 +92,7 @@
   "player.settings.anticheat.bans": "Ban Warnungen",
   "player.settings.anticheat.bans.description": "Warnt dich, wenn du vom Anticheat die maximale Ban-VL erreicht hast",
 
-  "player.settings.proximity.hider": "Proximity Player Hider",
+  "player.settings.proximity.hider": "Proximity Player Verstecker",
   "player.settings.proximity.hider.description": "Versteckt Spieler, wenn sie sich in der Nähe befinden",
   
   "player.setting.snow": "Schnee",
@@ -129,9 +129,9 @@
   "damage.action.critical.hit": "[Kritischer Treffer]",
 
   "civ.break.test": "Du hast den Block kaputt gemacht",
-  "civ.break.test_2": "in dem Tick",
+  "civ.break.test_2": "im Tick: ",
 
-  "flying.kick.title": "Du hättest einen Fly-kick bekommen",
+  "flying.kick.title": "Du hättest wärst für Flying gekickt worden sein",
   "tag.color.change": "Deine Tag-Farbe ist jetzt",
 
   "anticheat.vote.voted": "Du hast gewählt für",
@@ -148,8 +148,8 @@
   "anticheat.kick.vulcan.keepalive": "KeepAlive-Zeitüberschreitung",
   "anticheat.kick.vulcan.keepalive_2": "Vulcan hätte dich wegen einer KeepAlive-Zeitüberschreitung gekickt",
 
-  "anticheat.kick.vulcan.ping": "Maximalping",
-  "anticheat.kick.vulcan.ping_2": "Vulcan hätte dich wegen deines Pings gekickt",
+  "anticheat.kick.vulcan.ping": "Maximaler ping",
+  "anticheat.kick.vulcan.ping_2": "Vulcan hätte dich gekickt, daher du das Ping Limit überschritten hast",
 
   "anticheat.kick.vulcan.desync": "Desynchronisation",
   "anticheat.kick.vulcan.desync_2": "Vulcan hätte dich wegen einer Desynchronisation gekickt",
@@ -172,7 +172,7 @@
   "scaffold.test.enter_2": "Verwende /items, um Gegenstände zu erhalten",
   "scaffold.test.exit": "Blöcke können nicht mehr platziert werden",
 
-  "velocity.test.apply": "Angewandte Velocity",
+  "velocity.test.apply": "Angewandter rückstoß",
 
   "command.help.description.help": "Dieser Befehl...",
   "command.help.description.spawn": "Teleportiert dich zum Startpunkt",
@@ -186,14 +186,14 @@
   "command.help.description.clear": "Leert dein Inventar",
   "command.help.description.tagcolor": "Ändert deine Namenfarbe im Tab",
   "command.help.description.tc": "Gleich wie /tagcolor",
-  "command.help.description.language": "Ändert die Serversprache",
+  "command.help.description.language": "Ändert deine Persönliche Serversprache",
   "command.help.description.packetdebugger": "Aktiviert/Deaktiviert den packet-debugger",
   "command.help.description.packetdebugger_config": "Konfiguration vom packet-debugger",
   "command.help.description.discord_connect": "Lädt dich ein und startet die Verknüpfung mit deinem Account um den Discord Server beizutreten",
-  "command.help.description.discord_unlink": "Discord account Verknüpfung entfernen",
-  "command.help.description.bottest": "Trigger a killaura bot test",
+  "command.help.description.discord_unlink": "Discord Account Verknüpfung entfernen",
+  "command.help.description.bottest": "Löst einen Killaura bot-test aus",
   "command.help.description.ip": "Zeigt an mit welcher IP du verbunden bist",
-  "command.help.description.trash": "Item trash GUI",
+  "command.help.description.trash": "Um Items wegzuwerden",
 
   "gui.select": "Klicken, um auszuwählen",
   "anticheat.message.failed": "fehlgeschlagen",
@@ -226,7 +226,7 @@
 
   "hidden.action.message.1": "Alle spieler sind zurzeit versteckt",
   "hidden.action.message.2": "(nutze /settings um sie wieder anzuzeigen)",
-  "discord.notlinked.message.cooldown": "You are on a message cool-down, to remove this cool-down you must link your discord account by using \"/discord connect\", (%ss remaining)",
+  "discord.notlinked.message.cooldown": "Du hast zurzeit einen Nachrichten cooldown, um diesen cooldown zu entfernen musst du deinen Discord Account Verknüpfen (benutze dafür: \"/discord connect\", (%ss verbleibend)",
 
   "scoreboard.pps.pps": "PPS",
   "scoreboard.pps.in": "rein",
@@ -242,7 +242,7 @@
   "player.setting.background.detections": "Background Detections",
   "player.setting.background.detections.description": "Warns you of any basic stuff that most anti-cheats flag for",
 
-  "packetSelection.gui.title": "Packet Selector",
+  "packetSelection.gui.title": "Pakete auswählen",
   "packetSelection.part.1": "Klicke um",
   "packetSelection.part.2": "das packet",
   "packetDebugger.disabled": "Der Debugger kann nicht auf dem Client verwendet werden, den du benutzt.",
@@ -259,18 +259,18 @@
   "bot.test.stage.6": "basic-spoof mit damage, swing, aggressive movement x2",
   "bot.test.stage.7": "basic-spoof mit damage, swing, aggressive movement, armor, items",
   "bot.test.stage.8": "basic-spoof mit damage, swing, aggressive movement, armor, items x2",
-  "bot.test.higher.versions.warning": "This test works better on 1.8.x based clients, newer minecraft versions changed how spawning is handled so all the bots will have a fake username",
+  "bot.test.higher.versions.warning": "Dieser Test funktioniert besser auf 1.8.x basierten Clients, da neuere Minecraft-Versionen die Art und Weise, wie das Spawnen gehandelt wird, geändert haben, so dass alle Bots einen falschen Benutzernamen haben werden",
 
   "anticheat.ban.warning.message": "Du wärst gebannt worden für",
   "anticheat.ban.title.message": "Du wärst gebannt worden",
 
   "setting.vip.only": "Du kannst die Einstellung durch eine Spende freischalten!",
 
-  "gui.theme.selector.title": "Theme Selector",
-  "gui.theme.selector.enabled": "Du hast zurzeit dieses Thema aktiviert",
+  "gui.theme.selector.title": "Theme auswählen",
+  "gui.theme.selector.enabled": "Du hast zurzeit dieses Theme aktiviert",
   "gui.theme.selector.enable": "Klicke um das Theme zu aktivieren",
   "gui.theme.selector.vip.only": "Nur Spieler die gespendet haben können dieses Feature nutzen",
-  "gui.theme.builder.title": "Custom Theme Builder",
+  "gui.theme.builder.title": "Eigenes Theme erstellen",
 
   "gui.theme.builder.blocks.base": "Base Blocks",
   "gui.theme.builder.blocks.area": "Area Blocks",
@@ -289,14 +289,14 @@
   "theme.applied": "wurde angewendet",
   "command.help.description.theme": "Ändere das Map-Theme",
 
-  "rotate.random": "Setze yaw auf %s und pitch auf %s",
+  "rotate.random": "Setze yaw auf %s° und pitch auf %s°",
   "rotate.yaw": "%s° wurde zur aktuellen yaw hinzugefügt",
   "rotate.pitch": "%s° wurde zum aktuellen pitch hinzugefügt",
-  "rotate.expect.invalid.pitch": "Pitch entspricht nicht der vom erwarteten Server pitch (packet: %s, erwartet: %s)",
-  "rotate.expect.invalid.yaw": "Yaw entspricht nicht der vom erwarteten Server yaw (packet: %s, erwartet: %s)",
+  "rotate.expect.invalid.pitch": "Pitch entspricht nicht der vom erwarteten Server pitch (packet: %s°, erwartet: %s°)",
+  "rotate.expect.invalid.yaw": "Yaw entspricht nicht der vom erwarteten Server yaw (packet: %s°, erwartet: %s°)",
 
   "matrix.bot.summon": "Bot wurde gespawnt",
-  "matrix.bot.hint": "Um einen Matrix anticheat bot zu spawnen, nutze: /summonMatrixBot",
+  "matrix.bot.hint": "Um einen Matrix anticheat bot zu spawnen, verwende: /summonMatrixBot",
 
   "server.remote.startup_1": "Du wirst verbunden mit",
   "server.remote.startup_2": "bald, es ist am starten...",
@@ -305,7 +305,7 @@
   "gui.trash.title": "Papierkorb (lege hier Dinge ab, die du nicht brauchst)",
 
   "donate.button_1": "Klicke hier um zu spenden",
-  "donate.meta_1": "Preis: 5€ oder mehr (shift klick um einen individuellen Betrag anzugeben)",
+  "donate.meta_1": "Preis: 5€ oder mehr (Shift-klick um einen individuellen Betrag anzugeben)",
   "donate.meta_2": "Unterstützte Währungen",
   "donate.meta_3": "Möchtest du mit einer anderen Zahlungsmethode spenden?",
   "donate.meta_4": "Treten dem Discord Server über /discord bei",
