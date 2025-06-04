@@ -9,3 +9,7 @@ avoid using Google Translate and if you are unsure about translating something d
 you also may see messages like "%s message" do not modify the "%s" this is used for formatting changing this will break the language
 
 for texture ids I use https://minecraft-heads.com if you find a head matching the language you can also use that
+
+Please ensure new languages are also setup in "loader_mappings.json" otherwise it wont be deployed to any servers
+
+Also make sure your JSON file is correct by running it through a parser [using a tool like this](https://jsonformatter.org/json-parser)
