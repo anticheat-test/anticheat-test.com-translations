@@ -1,0 +1,129 @@
+{
+  "scoreboard.ping": "Ping",
+  "scoreboard.anticheat": "Anti-juks",
+  "scoreboard.version": "Versjon",
+  "scoreboard.cps": "KPS",
+  "scoreboard.bps": "BPS",
+  "scoreboard.vbs": "VBS",
+  "scoreboard.balance": "Balanse",
+
+  "scoreboard.engine": "Spill",
+  "scoreboard.engine.correct": "Strafe er riktig",
+  "scoreboard.engine.incorrect": "Strafe er feil",
+
+  "scoreboard.sprinting": "Sprinter",
+  "scoreboard.sneaking": "Sniker",
+  "scoreboard.attacking": "Angriper",
+  "scoreboard.blocking": "Blokkerer",
+  "scoreboard.ground": "Bakke",
+
+  "scoreboard.fight": "Kamp",
+  "scoreboard.arena": "Arena",
+  "scoreboard.duration": "Varighet",
+
+  "scoreboard.restart": "Omstart",
+
+  "yes": "Ja",
+  "no": "Nei",
+
+  "true": "sann",
+  "false": "usann",
+
+  "tab.rank": "Rang",
+  "tab.online": "Pålogget",
+  "tab.players": "Spillere",
+  "tab.player": "Spiller",
+  "tab.cpu": "CPU",
+  "tab.memory": "Minne",
+  "tab.tps": "TPS",
+
+  "gui.tagcolor": "Navnefarge",
+  "gui.items": "Gjenstander",
+  "gui.playerSettings": "Spillerinnstillinger",
+  "gui.warps": "Teleporter",
+
+  "gui.warps.click": "Klikk for å teleportere til",
+
+  "gui.playerSettings.modify": "Klikk for å %s denne innstillingen",
+  "gui.playerSettings.disabled": "deaktivere",
+  "gui.playerSettings.enabled": "aktivere",
+
+  "gui.items.click": "Klikk for å få denne gjenstanden",
+
+  "gui.chest.test.item": "Testgjenstand for Chest Stealer",
+
+  "gui.anticheat.title": "Anti-juks Valg",
+  "gui.anticheat.vote": "Anti-juks Avstemning",
+  "gui.anticheat.item.author": "Forfatter(e)",
+  "gui.anticheat.item.description": "Beskrivelse",
+  "gui.anticheat.item.version": "Versjon",
+  "gui.anticheat.item.reconnect_required": "Valg av denne anti-juksen krever at du kobler til på nytt",
+  "gui.anticheat.item.sandbox": "Denne anti-juksen er sandboxed",
+  "gui.anticheat.item.sandbox.line2": "en relogg kan være nødvendig for at den skal fungere riktig.",
+  "gui.anticheat.item.voting": "Stemmer",
+
+  "player.setting.fall_damage": "Fallskade",
+  "player.setting.fall_damage_description": "Aktiver / Deaktiver fallskade",
+
+  "player.setting.flying_kick": "Sparking ved flyging",
+  "player.setting.flying_kick_description": "Aktiver / Deaktiver serverens sparking ved flyging",
+
+  "player.settings.notify_flying": "Varsling ved flygespark",
+  "player.settings.notify_flying_description": "Aktiver / Deaktiver varsling når du sparkes for flyging",
+
+  "player.settings.hunger": "Sult",
+  "player.settings.hunger_description": "Aktiver / Deaktiver sult",
+
+  "player.setting.external_damage": "Ekstern skade",
+  "player.setting.external_damage_description": "Aktiver / Deaktiver ekstern skade",
+
+  "player.settings.potions": "Trylledrikker",
+  "player.settings.potions_description": "Aktiver / Deaktiver effekter fra trylledrikker",
+
+  "player.settings.hitbox": "Visuell Treffboks-feilsøker",
+  "player.settings.hitbox_description": "Aktiver / Deaktiver visuelle treffbokser",
+
+  "player.settings.raytrace": "Visuell RayTrace-feilsøker",
+  "player.settings.raytrace.description": "Aktiver / Deaktiver visuell raytrace-feilsøker",
+
+  "player.settings.critical_debugger": "Visuell Kritisk Treff-feilsøker",
+  "player.settings.critical_debugger_description": "Aktiver / Deaktiver visuell feilsøker for kritiske treff",
+
+  "player.settings.anticheat.bans": "Advarsler om utestengelse",
+  "player.settings.anticheat.bans.description": "Advarer deg når du nærmer deg maksgrensen for utestengelse fra anti-juks",
+
+  "player.settings.proximity.hider": "Nærhetsbasert spiller-skjuler",
+  "player.settings.proximity.hider.description": "Skjuler spillere når de kommer for nært",
+
+  "player.setting.snow": "Snø",
+  "player.setting.snow.description": "Vis snø (bruker partikler)",
+
+  "anticheat.selected": "Du har byttet til",
+  "anticheat.kick.requires_reconnect": "krever at du kobler til på nytt for å fungere fullt ut.",
+  "anticheat.kick.requires_reconnect_warning_1": "bytte fra",
+  "anticheat.kick.requires_reconnect_warning_2": "krever at du kobler til på nytt.",
+
+  "action.title.server.position": "Serverposisjon (S08)",
+  "action.title.server.seconds": "sekunder",
+  "action.title.server.tick": "tick",
+  "action.title.server.ticks": "ticks",
+
+  "disguised.join.message": "Du er fortsatt forkledd som",
+
+  "pvp.enabled": "PvP er nå aktivert",
+  "pvp.disabled": "PvP er nå deaktivert",
+  "pvp.toggled_enable": "PvP er nå aktivert",
+  "pvp.wait": "Vennligst vent...",
+  "pvp.countdown": "PvP aktiveres om",
+  "pvp.countdown.second": "sekund",
+  "pvp.countdown.seconds": "sekunder",
+  "pvp.reset.items": "Alle fortryllede gjenstander i inventaret ditt vil bli tilbakestilt når PvP aktiveres (forlat om du ikke vil dette)",
+  "pvp.death.message": "ble drept av",
+
+  "textureID": "fda048bc153b38467e76a3347f38396860a8bc68603931e91f7af58bec57383d"
+
+  "credits": [
+    "nikonoko",
+    "cattyyq"
+  ]
+}
