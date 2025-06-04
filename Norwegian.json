@@ -120,7 +120,7 @@
   "pvp.reset.items": "Alle fortryllede gjenstander i inventaret ditt vil bli tilbakestilt når PvP aktiveres (forlat om du ikke vil dette)",
   "pvp.death.message": "ble drept av",
 
-  "textureID": "fda048bc153b38467e76a3347f38396860a8bc68603931e91f7af58bec57383d"
+  "textureID": "fda048bc153b38467e76a3347f38396860a8bc68603931e91f7af58bec57383d",
 
   "credits": [
     "nikonoko",
