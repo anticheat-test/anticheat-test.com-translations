@@ -10,6 +10,8 @@ you also may see messages like "%s message" do not modify the "%s" this is used 
 
 for texture ids I use https://minecraft-heads.com if you find a head matching the language you can also use that
 
+
+# Important - read before making a pull request/committing
 Please ensure new languages are also setup in "loader_mappings.json" otherwise it wont be deployed to any servers
 
 Also make sure your JSON file is correct by running it through a parser [using a tool like this](https://jsonformatter.org/json-parser)
