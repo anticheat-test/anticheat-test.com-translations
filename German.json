@@ -189,7 +189,7 @@
   "command.help.description.language": "Ändert die Serversprache",
   "command.help.description.packetdebugger": "Aktiviert/Deaktiviert den packet-debugger",
   "command.help.description.packetdebugger_config": "Konfiguration vom packet-debugger",
-  "command.help.description.discord_connect": "Lädt dich ein und starten den Linkprozess um den Discord Server beizutreten",
+  "command.help.description.discord_connect": "Lädt dich ein und startet die Verknüpfung mit deinem Account um den Discord Server beizutreten",
   "command.help.description.discord_unlink": "Discord account Verknüpfung entfernen",
   "command.help.description.bottest": "Trigger a killaura bot test",
   "command.help.description.ip": "Zeigt an mit welcher IP du verbunden bist",
