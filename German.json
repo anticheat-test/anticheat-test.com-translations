@@ -50,7 +50,7 @@
 
   "gui.items.click": "Klicke um dieses Item zu erhalten",
 
-  "gui.chest.test.item": "Ein Test-item um den Cheststealer zu testen",
+  "gui.chest.test.item": "Ein Test-Item um den Cheststealer zu testen",
 
   "gui.anticheat.title": "Anticheat-Auswahl",
   "gui.anticheat.vote": "Anticheat-Abstimmung",
@@ -131,7 +131,7 @@
   "civ.break.test": "Du hast den Block kaputt gemacht",
   "civ.break.test_2": "im Tick: ",
 
-  "flying.kick.title": "Du hättest wärst für Flying gekickt worden sein",
+  "flying.kick.title": "Du hättest wärst für Flying gekickt worden",
   "tag.color.change": "Deine Tag-Farbe ist jetzt",
 
   "anticheat.vote.voted": "Du hast gewählt für",
@@ -160,24 +160,25 @@
   "chest.test.message_4": "Gegenständen wurden genommen",
 
   "speed.test.start.title.1": "LOS!",
-  "speed.test.start.title.2": "Laufe zum Ende des Geschwindigkeitstests, um ein Ergebnis zu erhalten",
-  "speed.test.starting": "Beginnt in",
+  "speed.test.start.title.2": "Laufe bis zum Ende des Geschwindigkeitstests, um dein Ergebnis zu erhalten",
+  "speed.test.starting": "Startet in",
   "speed.test.results": "Ergebnisse des Geschwindigkeitstests",
   "speed.test.average.bps": "Durchschnittliche Blöcke pro Sekunde",
-  "speed.test.highest.bps": "Höchste Blöcke pro Sekunde",
-  "speed.test.lowest.bps": "Niedrigste Blöcke pro Sekunde",
-  "speed.test.totalseconds": "Gesamte Sekunden",
+  "speed.test.highest.bps": "Höchste Anzahl an Blöcken pro Sekunde",
+  "speed.test.lowest.bps": "Niedrigste Anzahl an Blöcken pro Sekunde",
+  "speed.test.totalseconds": "Gesamtdauer (Sekunden)",
 
-  "scaffold.test.enter": "Blöcke können jetzt platziert werden",
-  "scaffold.test.enter_2": "Verwende /items, um Gegenstände zu erhalten",
-  "scaffold.test.exit": "Blöcke können nicht mehr platziert werden",
 
-  "velocity.test.apply": "Angewandter rückstoß",
+  "scaffold.test.enter": "Blöcke können jetzt platziert werden.",
+  "scaffold.test.enter_2": "Verwende /items, um Gegenstände zu erhalten.",
+  "scaffold.test.exit": "Das Platzieren von Blöcken ist jetzt nicht mehr möglich.",
 
-  "command.help.description.help": "Dieser Befehl...",
+  "velocity.test.apply": "Angewandter Rückstoß",
+
+  "command.help.description.help": "Zeigt eine Übersicht aller Befehle an.",
   "command.help.description.spawn": "Teleportiert dich zum Startpunkt",
-  "command.help.description.warp": "Ohne Argumente öffnet ein GUI, oder du kannst ein Argument hinzufügen, um dich zu teleportieren",
-  "command.help.description.items": "Liste der verwendbaren Gegenstände",
+  "command.help.description.warp": "Öffnet ohne Argumente ein GUI, oder teleportiert dich mit einem Argument",
+  "command.help.description.items": "Zeigt eine Liste verfügbarer Gegenstände an.",
   "command.help.description.enchant": "Erlaubt dir, jeden Gegenstand zu verzaubern",
   "command.help.description.anticheat": "Anticheat-Auswahl",
   "command.help.description.ac": "Gleich wie /anticheat",
@@ -188,10 +189,10 @@
   "command.help.description.tc": "Gleich wie /tagcolor",
   "command.help.description.language": "Ändert deine Persönliche Serversprache",
   "command.help.description.packetdebugger": "Aktiviert/Deaktiviert den packet-debugger",
-  "command.help.description.packetdebugger_config": "Konfiguration vom packet-debugger",
+  "command.help.description.packetdebugger_config": "Konfiguration des packet-debuggers",
   "command.help.description.discord_connect": "Lädt dich ein und startet die Verknüpfung mit deinem Account um den Discord Server beizutreten",
   "command.help.description.discord_unlink": "Discord Account Verknüpfung entfernen",
-  "command.help.description.bottest": "Löst einen Killaura bot-test aus",
+  "command.help.description.bottest": "Löst einen Killaura Bot-Test aus",
   "command.help.description.ip": "Zeigt an mit welcher IP du verbunden bist",
   "command.help.description.trash": "Um Items wegzuwerden",
 
@@ -212,19 +213,19 @@
   "player.setting.direct.messages.description": "Direktnachrichten ein-/ausschalten",
 
   "command.message.reply.nobody": "Du hast keinen, dem du antworten kannst",
-  "command.message.reply.usage": "Verwendung: /reply <nachricht>",
+  "command.message.reply.usage": "Verwendung: /reply <Nachricht>",
 
-  "command.message.usage": "Verwendung: /message <spieler> <nachricht>",
+  "command.message.usage": "Verwendung: /message <Spieler> <Nachricht>",
   "command.message.finderror": "Der Spieler konnte nicht gefunden werden",
   "command.message.message.self": "Du kannst dir selbst keine Nachricht schicken.",
   "command.message.disabled": "Du hast die Direktnachrichten dekaktiviert, aktiviere sie mit /settings, um sie wieder zuverwenden können.",
 
   "command.message.tell.replaced": "/tell wurde ersetzt mit /message oder /msg",
 
-  "player.setting.hide.players": "Verstecke alle online spieler",
-  "player.setting.hide.players.description": "Aktivieret/deaktiviert das verstecken aller online spieler",
+  "player.setting.hide.players": "Verstecke alle online Spieler",
+  "player.setting.hide.players.description": "Aktivieret / Deaktiviert das verstecken aller online Spieler",
 
-  "hidden.action.message.1": "Alle spieler sind zurzeit versteckt",
+  "hidden.action.message.1": "Alle Spieler sind zurzeit versteckt",
   "hidden.action.message.2": "(nutze /settings um sie wieder anzuzeigen)",
   "discord.notlinked.message.cooldown": "Du hast zurzeit einen Nachrichten cooldown, um diesen cooldown zu entfernen musst du deinen Discord Account Verknüpfen (benutze dafür: \"/discord connect\", (%ss verbleibend)",
 
@@ -236,20 +237,20 @@
 
   "scoreboard.gcd.correct": "GCD ist korrekt",
   "scoreboard.gcd.incorrect": "GCD ist inkorrekt",
-  "hotbar.hitmiss": "Treffer/Nicht-treffer verhältnis",
+  "hotbar.hitmiss": "Treffer/Nicht-Treffer verhältnis",
 
   "detections.post": "Es sieht so aus als würdest du gerade auf POST angreifen/platzieren, das ist ein sehr häufiger Check bei den meisten Anticheats, du solltest das vielleicht ändern, wenn du dir dessen nicht bewusst bist.",
   "player.setting.background.detections": "Background Detections",
-  "player.setting.background.detections.description": "Warns you of any basic stuff that most anti-cheats flag for",
+  "player.setting.background.detections.description": "Warnt dich vor grundlegenden Dingen, die von den meisten Anti-Cheat-Systemen erkannt werden",
 
   "packetSelection.gui.title": "Pakete auswählen",
   "packetSelection.part.1": "Klicke um",
-  "packetSelection.part.2": "das packet",
-  "packetDebugger.disabled": "Der Debugger kann nicht auf dem Client verwendet werden, den du benutzt.",
+  "packetSelection.part.2": "das Paket",
+"packetDebugger.disabled": "Die Verwendung des Debuggers ist auf diesem Client nicht möglich.",
 
   "bot.test.start": "Der Antibot-Test wird gestartet",
   "bot.test.already_running": "Test läuft bereits",
-  "bot.test.finished": "Bot test ist fertig",
+  "bot.test.finished": "Antibot-Test ist fertig",
   "bot.test.stage": "Testet den Bot",
   "bot.test.stage.1": "basic-fake",
   "bot.test.stage.2": "basic-spoof",
@@ -259,7 +260,7 @@
   "bot.test.stage.6": "basic-spoof mit damage, swing, aggressive movement x2",
   "bot.test.stage.7": "basic-spoof mit damage, swing, aggressive movement, armor, items",
   "bot.test.stage.8": "basic-spoof mit damage, swing, aggressive movement, armor, items x2",
-  "bot.test.higher.versions.warning": "Dieser Test funktioniert besser auf 1.8.x basierten Clients, da neuere Minecraft-Versionen die Art und Weise, wie das Spawnen gehandelt wird, geändert haben, so dass alle Bots einen falschen Benutzernamen haben werden",
+  "bot.test.higher.versions.warning": "Dieser Test funktioniert besser auf 1.8.x basierten Clients, da neuere Minecraft-Versionen die Art und Weise, wie das Spawnen verarbeitet wird, geändert haben, so dass alle Bots einen falschen Benutzernamen haben werden",
 
   "anticheat.ban.warning.message": "Du wärst gebannt worden für",
   "anticheat.ban.title.message": "Du wärst gebannt worden",
@@ -279,8 +280,8 @@
   "gui.theme.builder.blocks.outer": "Outer Layer Blocks",
 
   "gui.theme.builder.anvil.title": "Custom Block Builder",
-  "gui.theme.builder.anvil.invalid.1": "Invalid Material",
-  "gui.theme.builder.anvil.invalid.2": "Invalid Input",
+  "gui.theme.builder.anvil.invalid.1": "Invalides Material",
+  "gui.theme.builder.anvil.invalid.2": "Invalider Input",
 
   "gui.theme.builder.modify": "Klicke um den Block zu ändern",
   "gui.theme.builder.complete": "Fertig",
@@ -292,23 +293,23 @@
   "rotate.random": "Setze yaw auf %s° und pitch auf %s°",
   "rotate.yaw": "%s° wurde zur aktuellen yaw hinzugefügt",
   "rotate.pitch": "%s° wurde zum aktuellen pitch hinzugefügt",
-  "rotate.expect.invalid.pitch": "Pitch entspricht nicht der vom erwarteten Server pitch (packet: %s°, erwartet: %s°)",
-  "rotate.expect.invalid.yaw": "Yaw entspricht nicht der vom erwarteten Server yaw (packet: %s°, erwartet: %s°)",
+  "rotate.expect.invalid.pitch": "Pitch stimmt nicht mit dem vom Server erwarteten Wert überein (Paket: %s°, erwartet: %s°)",
+  "rotate.expect.invalid.yaw": "Yaw stimmt nicht mit dem vom Server erwarteten Wert überein (Paket: %s°, erwartet: %s°)",
 
   "matrix.bot.summon": "Bot wurde gespawnt",
-  "matrix.bot.hint": "Um einen Matrix anticheat bot zu spawnen, verwende: /summonMatrixBot",
+  "matrix.bot.hint": "Um einen Matrix-Anticheat-Bot zu spawnen, verwende: /summonMatrixBot",
 
   "server.remote.startup_1": "Du wirst verbunden mit",
   "server.remote.startup_2": "bald, es ist am starten...",
 
   "command.ip": "Du bist mit dieser IP verbunden:",
-  "gui.trash.title": "Papierkorb (lege hier Dinge ab, die du nicht brauchst)",
+  "gui.trash.title": "Papierkorb (lege hier Dinge ab, die du nicht mehr brauchst)",
 
   "donate.button_1": "Klicke hier um zu spenden",
-  "donate.meta_1": "Preis: 5€ oder mehr (Shift-klick um einen individuellen Betrag anzugeben)",
+  "donate.meta_1": "Preis: 5€ oder mehr (Shift-Klick um einen individuellen Betrag anzugeben)",
   "donate.meta_2": "Unterstützte Währungen",
   "donate.meta_3": "Möchtest du mit einer anderen Zahlungsmethode spenden?",
-  "donate.meta_4": "Treten dem Discord Server über /discord bei",
+  "donate.meta_4": "Trete dem Discord Server über /discord bei",
   "donate.try_again": "Rechnung konnte nicht erstellt werden, bitte versuche es später erneut.",
   "donate.min_price": "Bitte gebe einen Preis über 5€ ein",
   "donate.entered_amount": "Du hast diesen Betrag eingegeben:",
@@ -320,6 +321,7 @@
   "credits": [
     "Viremox",
     "brownie",
-    "linuxdistribution"
+    "linuxdistribution",
+    "Kolotheegg"
   ]
 }
