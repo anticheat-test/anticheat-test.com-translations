@@ -229,8 +229,8 @@
   "discord.notlinked.message.cooldown": "Estas en cool-down para mandar un mensaje, para remover este cool-down deberas de vincular tu cuenta de discord usando \"/discord connect\", (%ss remaining)",
 
   "scoreboard.pps.pps": "PPS",
-  "scoreboard.pps.in": "in",
-  "scoreboard.pps.out": "out",
+  "scoreboard.pps.in": "entrantes",
+  "scoreboard.pps.out": "salientes",
 
   "explosion.place.area": "Esta area no es segura, intenta en otro area.",
 
@@ -289,9 +289,9 @@
   "theme.applied": "ha sido aplicado",
   "command.help.description.theme": "Cambia el tema del mapa",
 
-  "rotate.random": "Set yaw to %s and pitch to %s",
-  "rotate.yaw": "Added %s° to current yaw",
-  "rotate.pitch": "Added %s to current pitch",
+  "rotate.random": "Seteado el yaw a %s y el pitch a %s",
+  "rotate.yaw": "Se añadio %s° a tu yaw actual",
+  "rotate.pitch": "Se añadio %s a tu pitch actual",
   "rotate.expect.invalid.pitch": "Pitch did not follow server expected pitch (packet: %s, expected: %s)",
   "rotate.expect.invalid.yaw": "Yaw did not follow server expected yaw (packet: %s, expected: %s)",
 
@@ -304,16 +304,16 @@
   "command.ip": "Estás conectado con la siguiente IP:",
   "gui.trash.title": "Basura (pon items que no quieras acá)",
 
-  "donate.button_1": "Click here to donate",
-  "donate.meta_1": "Price: €5 or more (shift click to enter custom amount)",
-  "donate.meta_2": "Supported Coins",
-  "donate.meta_3": "Want to donate using another payment method?",
-  "donate.meta_4": "Join the discord using /discord",
-  "donate.try_again": "Unable to generate invoice, try again later.",
-  "donate.min_price": "Please enter a price above €5",
-  "donate.entered_amount": "You have entered the amount",
-  "donate.invalid_input": "Invalid input (Please use a valid number...)",
-  "donate.payment_complete": "Your payment has been processed, please reconnect to get the donator perks!",
+  "donate.button_1": "Click aquí para donar",
+  "donate.meta_1": "Precio: €5 o más (shift click para poner un valor a gusto)",
+  "donate.meta_2": "Monedas soportadas",
+  "donate.meta_3": "Quieres donar usando otro metodo de pago?",
+  "donate.meta_4": "Entra al discord usando /discord",
+  "donate.try_again": "No pudimos generar una factura, por favor intentalo despues",
+  "donate.min_price": "Por favor introduce un valor mayor a €5",
+  "donate.entered_amount": "Introduciste el valor",
+  "donate.invalid_input": "Entrada invalida (Por favor usa un numero valido...)",
+  "donate.payment_complete": "Tu pago ha sido procesado, por favor reconectate para recibir las recompensas!",
 
   "textureID": "c2d730b6dda16b584783b63d082a80049b5fa70228aba4ae884c2c1fc0c3a8bc",
 
