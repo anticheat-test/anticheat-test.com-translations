@@ -191,6 +191,9 @@
   "command.help.description.bottest": "Inicia um teste de bot killaura",
   "command.help.description.ip": "Shows what IP address you are connected with",
   "command.help.description.trash": "Item trash GUI",
+  "command.help.description.changelog": "View latest server changes",
+  "command.help.description.duel": "1v1 another player",
+  "command.help.description.botduel": "1v1 a bot player",
 
   "gui.select": "Clique para selecionar",
   "anticheat.message.failed": "falhou",
