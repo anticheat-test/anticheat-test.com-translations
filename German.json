@@ -98,6 +98,9 @@
   "player.setting.snow": "Schnee",
   "player.setting.snow.description": "Schnee anzeigen (mit Partikeln)",
 
+  "player.settings.announcements": "Announcements",
+  "player.settings.announcements.description": "Shows auto server announcements",
+
   "anticheat.selected": "Du hast zu",
   "anticheat.kick.requires_reconnect": "gewechselt. Es ist erforderlich, dich neu zu verbinden, damit es vollständig funktioniert.",
   "anticheat.kick.requires_reconnect_warning_1": "wechsele von ",
@@ -319,6 +322,8 @@
   "donate.invalid_input": "Ungültige Eingabe (Bitte verwende eine gültige Zahl...)",
   "donate.payment_complete": "Deine Zahlung wurde verarbeitet, bitte verbinde dich erneut, um die Spendervorteile zu erhalten!",
   
+  "join.anticheat.selection.hint": "Use /anticheat to change anticheats", 
+
   "textureID": "5e7899b4806858697e283f084d9173fe487886453774626b24bd8cfecc77b3f",
 
   "credits": [

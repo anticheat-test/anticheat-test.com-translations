@@ -98,6 +98,9 @@
   "player.setting.snow": "雪",
   "player.setting.snow.description": "雪を表示する (using particles)",
 
+  "player.settings.announcements": "Announcements",
+  "player.settings.announcements.description": "Shows auto server announcements",
+
   "anticheat.selected": "You have switched to",
   "anticheat.kick.requires_reconnect": "requires you to reconnect for it to fully work.",
   "anticheat.kick.requires_reconnect_warning_1": "switching from",
@@ -318,6 +321,8 @@
   "donate.entered_amount": "金額を入力しました",
   "donate.invalid_input": "無効な入力です (有効な番号を使用してください...)",
   "donate.payment_complete": "お支払いが処理されました! 寄付者特典を受け取るには再度このサーバーに接続してください!",
+
+  "join.anticheat.selection.hint": "Use /anticheat to change anticheats",
 
   "textureID": "c439d7f9c67f32dcbb86b7010b1e14b60de96776a35f61cee982660aacf5264b",
 

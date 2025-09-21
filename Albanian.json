@@ -97,6 +97,9 @@
   
     "player.setting.snow": "Snow",
     "player.setting.snow.description": "Show snow (using particles)",  
+
+    "player.settings.announcements": "Announcements",
+    "player.settings.announcements.description": "Shows auto server announcements",
     
     "anticheat.selected": "Keni kaluar te",
     "anticheat.kick.requires_reconnect": "nevojitë që ju rilidheni për të punuar plotësisht.",
@@ -318,6 +321,8 @@
     "donate.invalid_input": "Invalid input (Please use a valid number...)",
     "donate.payment_complete": "Your payment has been processed, please reconnect to get the donator perks!",
    
+    "join.anticheat.selection.hint": "Use /anticheat to change anticheats",
+
     "textureID": "c3b83a89d89e53aeddfbf6850fab3a3b52021fa41d734810d19bb925f4bc881b",
 
     "credits": [

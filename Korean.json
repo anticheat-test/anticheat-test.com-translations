@@ -98,6 +98,9 @@
   "player.setting.snow": "Snow",
   "player.setting.snow.description": "Show snow (using particles)",  
   
+  "player.settings.announcements": "Announcements",
+  "player.settings.announcements.description": "Shows auto server announcements",
+
   "anticheat.selected": "안티치트들 다음과 같이 변경하였습니다",
   "anticheat.kick.requires_reconnect": "완전히 작동하려면 다시 연결해야 합니다.",
   "anticheat.kick.requires_reconnect_warning_1": "에서 전환",
@@ -317,6 +320,8 @@
   "donate.entered_amount": "You have entered the amount",
   "donate.invalid_input": "Invalid input (Please use a valid number...)",
   "donate.payment_complete": "Your payment has been processed, please reconnect to get the donator perks!",
+
+  "join.anticheat.selection.hint": "Use /anticheat to change anticheats",
 
   "textureID": "ca12913d7df640d18bcc7a45a8172c68ffa04756e84c6f0a2eda3da45e00dadd",
 

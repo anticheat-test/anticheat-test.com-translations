@@ -98,6 +98,9 @@
   "player.setting.snow": "الثلج",
   "player.setting.snow.description": "عرض الثلج (باستخدام الجسيمات)",
 
+  "player.settings.announcements": "Announcements",
+  "player.settings.announcements.description": "Shows auto server announcements",
+
   "anticheat.selected": "لقد قمت بالتبديل إلى",
   "anticheat.kick.requires_reconnect": "يتطلب إعادة الاتصال ليعمل بشكل كامل.",
   "anticheat.kick.requires_reconnect_warning_1": "التبديل من",
@@ -318,6 +321,8 @@
   "donate.entered_amount": "You have entered the amount",
   "donate.invalid_input": "Invalid input (Please use a valid number...)",
   "donate.payment_complete": "Your payment has been processed, please reconnect to get the donator perks!",
+  
+  "join.anticheat.selection.hint": "Use /anticheat to change anticheats",
 
   "textureID": "4bd403b953ba6e6c8e538d8d68c34ed5e329c6f9eed4a6bc3434b66d3198d044",
 

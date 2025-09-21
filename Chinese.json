@@ -98,6 +98,9 @@
   "player.setting.snow": "雪",
   "player.setting.snow.description": "显示雪 (使用粒子效果)",
 
+  "player.settings.announcements": "Announcements",
+  "player.settings.announcements.description": "Shows auto server announcements",
+
   "anticheat.selected": "你已经切换到",
   "anticheat.kick.requires_reconnect": "需要重新连接才能完全工作",
   "anticheat.kick.requires_reconnect_warning_1": "从",
@@ -315,6 +318,8 @@
   "donate.entered_amount": "You have entered the amount",
   "donate.invalid_input": "Invalid input (Please use a valid number...)",
   "donate.payment_complete": "Your payment has been processed, please reconnect to get the donator perks!",
+  
+  "join.anticheat.selection.hint": "Use /anticheat to change anticheats",
 
   "textureID": "7f9bc035cdc80f1ab5e1198f29f3ad3fdd2b42d9a69aeb64de990681800b98dc",
 

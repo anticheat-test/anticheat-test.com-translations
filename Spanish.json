@@ -95,6 +95,9 @@
   "player.settings.proximity.hider": "Proximity Player Hider",
   "player.settings.proximity.hider.description": "Oculta a los jugadores cuando se acercan mucho",
 
+  "player.settings.announcements": "Announcements",
+  "player.settings.announcements.description": "Shows auto server announcements",
+
   "player.setting.snow": "Nieve",
   "player.setting.snow.description": "Mostrar nieve (usando particulas)",  
 
@@ -317,6 +320,8 @@
   "donate.entered_amount": "Introduciste el valor",
   "donate.invalid_input": "Entrada invalida (Por favor usa un numero valido...)",
   "donate.payment_complete": "Tu pago ha sido procesado, por favor reconectate para recibir las recompensas!",
+
+  "join.anticheat.selection.hint": "Use /anticheat to change anticheats",
 
   "textureID": "c2d730b6dda16b584783b63d082a80049b5fa70228aba4ae884c2c1fc0c3a8bc",
 

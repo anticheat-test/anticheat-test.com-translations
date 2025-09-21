@@ -98,6 +98,9 @@
     "player.setting.snow": "Snow",
     "player.setting.snow.description": "Show snow (using particles)",  
 
+    "player.settings.announcements": "Announcements",
+    "player.settings.announcements.description": "Shows auto server announcements",
+
     "anticheat.selected": "Váltottál:",
     "anticheat.kick.requires_reconnect": "újra kell csatlakoznod.",
     "anticheat.kick.requires_reconnect_warning_1": "váltás erről",
@@ -318,6 +321,8 @@
     "donate.invalid_input": "Invalid input (Please use a valid number...)",
     "donate.payment_complete": "Your payment has been processed, please reconnect to get the donator perks!",
     
+    "join.anticheat.selection.hint": "Use /anticheat to change anticheats",
+
     "textureID": "4a9c3c4b6c5031332dd2bfece5e31e999f8deff55474065cc86993d7bdcdbd0",
 
     "credits": [
