@@ -144,7 +144,7 @@
   "chat.throttle": "Please wait before sending another message.",
   "chat.chain": "Do not chain messages in chat.",
 
-  "anticheat.kick.title": "YYou would have been kicked from the server",
+  "anticheat.kick.title": "You would have been kicked from the server",
   "anticheat.kick.vulcan.transaction": "Transaction Timeout",
   "anticheat.kick.vulcan.transaction_2": "Vulcan would've kicked you for a transaction timeout",
 
