@@ -134,7 +134,7 @@
   "civ.break.test": "You broke the block",
   "civ.break.test_2": "in the tick",
 
-  "flying.kick.title": "You would of been kicked",
+  "flying.kick.title": "You would have been kicked from the server",
   "tag.color.change": "Your tag color is now",
 
   "anticheat.vote.voted": "You voted for",
@@ -144,18 +144,18 @@
   "chat.throttle": "Please wait before sending another message.",
   "chat.chain": "Do not chain messages in chat.",
 
-  "anticheat.kick.title": "You would of been kicked",
+  "anticheat.kick.title": "YYou would have been kicked from the server",
   "anticheat.kick.vulcan.transaction": "Transaction Timeout",
-  "anticheat.kick.vulcan.transaction_2": "Vulcan would of kicked you for transaction timeout",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan would've kicked you for a transaction timeout",
 
   "anticheat.kick.vulcan.keepalive": "KeepAlive Timeout",
-  "anticheat.kick.vulcan.keepalive_2": "Vulcan would of kicked you for keepalive timeout",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan would've kicked you for a keepalive timeout",
 
   "anticheat.kick.vulcan.ping": "Max Ping",
-  "anticheat.kick.vulcan.ping_2": "Vulcan would of kicked you for max ping",
+  "anticheat.kick.vulcan.ping_2": "Vulcan would've kicked you for high ping",
 
   "anticheat.kick.vulcan.desync": "Desync",
-  "anticheat.kick.vulcan.desync_2": "Vulcan would of kicked you for desync",
+  "anticheat.kick.vulcan.desync_2": "Vulcan would've kicked you for a desync",
 
   "chest.test.message_1": "It took",
   "chest.test.message_2": "to steal the chest",
