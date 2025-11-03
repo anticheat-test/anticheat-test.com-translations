@@ -321,6 +321,28 @@
   
   "join.anticheat.selection.hint": "Use /anticheat to change anticheats",
 
+  "command.enchant.invalid.number": "Invalid number.",
+  "command.enchant.already.enchanted": "This item already has this enchantment...",
+  "command.enchant.enchanted": "Enchanted",
+  "command.enchant.with": "with",
+  "command.enchant.not_found": "Could not find the enchantment",
+  "command.enchant.available": "Available enchants",
+  "command.enchant.hold_item": "Please hold an item.",
+
+  "command.effect.clear": "Removed all active effects!",
+  "command.effect.effect_disallowed": "This effect is not allowed",
+  "command.effect.applied.1": "Applied",
+  "command.effect.applied.2": "for",
+  "command.effect.applied.3": "with an amplifier of",
+
+  "projectile.test.hit": "Projectile hit target!",
+  "projectile.test.blocks_away": "blocks away",
+  "projectile.test.results_title": "Projectile hit accuracy results",
+  "projectile.test.results_missed": "Missed",
+  "projectile.test.results_landed": "Landed",
+
+  "generic.cannot_execute_command": "You cannot do this command here",
+
   "textureID": "7f9bc035cdc80f1ab5e1198f29f3ad3fdd2b42d9a69aeb64de990681800b98dc",
 
   "credits": [
