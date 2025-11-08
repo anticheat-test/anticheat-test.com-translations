@@ -324,27 +324,27 @@
     
     "join.anticheat.selection.hint": "Bruk /anticheat for å bytte anticheat",
   
-    "command.enchant.invalid.number": "Invalid number.",
-    "command.enchant.already.enchanted": "This item already has this enchantment...",
-    "command.enchant.enchanted": "Enchanted",
-    "command.enchant.with": "with",
-    "command.enchant.not_found": "Could not find the enchantment",
-    "command.enchant.available": "Available enchants",
-    "command.enchant.hold_item": "Please hold an item.",
+    "command.enchant.invalid.number": "Ugyldig tall.",
+    "command.enchant.already.enchanted": "Dette objektet har allerede denne fortryllelsen...",
+    "command.enchant.enchanted": "Fortryllet",
+    "command.enchant.with": "med",
+    "command.enchant.not_found": "Kunne ikke finne fortryllelsen",
+    "command.enchant.available": "Tilgjengelige fortryllelser",
+    "command.enchant.hold_item": "Vennligst hold et objekt.",
+    
+    "command.effect.clear": "Fjernet alle aktive effekter!",
+    "command.effect.effect_disallowed": "Denne effekten er ikke tillatt",
+    "command.effect.applied.1": "Brukt",
+    "command.effect.applied.2": "i",
+    "command.effect.applied.3": "med en forsterkning på",
+    
+    "projectile.test.hit": "Prosjektil traff målet!",
+    "projectile.test.blocks_away": "blokker unna",
+    "projectile.test.results_title": "Treffsikkerhetsresultater for prosjektil",
+    "projectile.test.results_missed": "Bommet",
+    "projectile.test.results_landed": "Traf",
 
-    "command.effect.clear": "Removed all active effects!",
-    "command.effect.effect_disallowed": "This effect is not allowed",
-    "command.effect.applied.1": "Applied",
-    "command.effect.applied.2": "for",
-    "command.effect.applied.3": "with an amplifier of",
-
-    "projectile.test.hit": "Projectile hit target!",
-    "projectile.test.blocks_away": "blocks away",
-    "projectile.test.results_title": "Projectile hit accuracy results",
-    "projectile.test.results_missed": "Missed",
-    "projectile.test.results_landed": "Landed",
-
-    "generic.cannot_execute_command": "You cannot do this command here",
+    "generic.cannot_execute_command": "Du kan ikke gjøre dette kommandoen her",
 
     "textureID": "fda048bc153b38467e76a3347f38396860a8bc68603931e91f7af58bec57383d",
 
