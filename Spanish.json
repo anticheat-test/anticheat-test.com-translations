@@ -58,8 +58,8 @@
   "gui.anticheat.item.description": "Descripción",
   "gui.anticheat.item.version": "Versión",
   "gui.anticheat.item.reconnect_required": "Necesitarás reconectarte si seleccionas este Anticheat",
-  "gui.anticheat.item.sandbox": "Este Anticheat esta sandboxed",
-  "gui.anticheat.item.sandbox.line2": "Reiniciar puede ser necesario para el funcionamiento correcto",
+  "gui.anticheat.item.sandbox": "Este anticheat esta sandboxed",
+  "gui.anticheat.item.sandbox.line2": "Reiniciar puede ser necesario para el correcto funcionamiento",
   "gui.anticheat.item.voting": "Votos",
 
   "player.setting.fall_damage": "Daño de caida",
@@ -68,7 +68,7 @@
   "player.setting.flying_kick": "Kick por fly",
   "player.setting.flying_kick_description": "Activar / Desactivar el kick de fly por el servidor",
 
-  "player.settings.notify_flying": "Notificar el kick de fly",
+  "player.settings.notify_flying": "Notificar el kick por fly",
   "player.settings.notify_flying_description": "Activar / Desactivar la notificacion del kick por fly",
 
   "player.settings.hunger": "Hambre",
@@ -217,7 +217,7 @@
   "player.setting.direct.messages": "Mensajes directos",
   "player.setting.direct.messages.description": "Alterna los mensajes directos on/off",
 
-  "command.message.reply.nobody": "No tienes a nadie para responderle",
+  "command.message.reply.nobody": "No tienes a nadie a quien responderle",
   "command.message.reply.usage": "Uso: /reply <mensaje>",
 
   "command.message.usage": "Uso: /message <jugador> <mensaje>",
@@ -251,7 +251,7 @@
   "packetSelection.gui.title": "Selector de packets",
   "packetSelection.part.1": "Click para",
   "packetSelection.part.2": "este packet",
-  "packetDebugger.disabled": "El debugger no se puede usar en el client que estas usando.",
+  "packetDebugger.disabled": "El debugger no se puede usar en el cliente que estas usando.",
 
   "bot.test.start": "La prueba de antibot iniciará ahora",
   "bot.test.already_running": "La prueba ya está en curso.",
@@ -321,9 +321,9 @@
   "donate.invalid_input": "Entrada invalida (Por favor usa un numero valido...)",
   "donate.payment_complete": "Tu pago ha sido procesado, por favor reconectate para recibir las recompensas!",
 
-  "join.anticheat.selection.hint": "Usa /anticheat para cambiar entre anticheats.",
+  "join.anticheat.selection.hint": "Usa /anticheat para cambiar entre anticheats",
 
-  "command.enchant.invalid.number": "Invalid number.",
+  "command.enchant.invalid.number": "Numero invalido.",
   "command.enchant.already.enchanted": "Este item ya tiene ese encantamiento...",
   "command.enchant.enchanted": "Encantado",
   "command.enchant.with": "con",
