@@ -197,9 +197,9 @@
   "command.help.description.bottest": "Activa un bot para testear el killaura",
   "command.help.description.ip": "Muestra con que dirección IP te conectaste",
   "command.help.description.trash": "Basurero GUI",
-  "command.help.description.changelog": "View latest server changes",
-  "command.help.description.duel": "1v1 another player",
-  "command.help.description.botduel": "1v1 a bot player",
+  "command.help.description.changelog": "Mirar los ultimos cambios del server",
+  "command.help.description.duel": "1v1 con otro jugador",
+  "command.help.description.botduel": "1v1 con un bot",
 
   "gui.select": "Click para seleccionar",
   "anticheat.message.failed": "fallido",
@@ -321,21 +321,21 @@
   "donate.invalid_input": "Entrada invalida (Por favor usa un numero valido...)",
   "donate.payment_complete": "Tu pago ha sido procesado, por favor reconectate para recibir las recompensas!",
 
-  "join.anticheat.selection.hint": "Use /anticheat to change anticheats",
+  "join.anticheat.selection.hint": "Usa /anticheat para cambiar entre anticheats.",
 
   "command.enchant.invalid.number": "Invalid number.",
-  "command.enchant.already.enchanted": "This item already has this enchantment...",
-  "command.enchant.enchanted": "Enchanted",
-  "command.enchant.with": "with",
-  "command.enchant.not_found": "Could not find the enchantment",
-  "command.enchant.available": "Available enchants",
-  "command.enchant.hold_item": "Please hold an item.",
+  "command.enchant.already.enchanted": "Este item ya tiene ese encantamiento...",
+  "command.enchant.enchanted": "Encantado",
+  "command.enchant.with": "con",
+  "command.enchant.not_found": "No se pudo encontrar el encantamiento",
+  "command.enchant.available": "Encantamientos disponibles",
+  "command.enchant.hold_item": "Porfavor sosten un item.",
 
-  "command.effect.clear": "Removed all active effects!",
-  "command.effect.effect_disallowed": "This effect is not allowed",
-  "command.effect.applied.1": "Applied",
-  "command.effect.applied.2": "for",
-  "command.effect.applied.3": "with an amplifier of",
+  "command.effect.clear": "Removidos todos los efectos activos!",
+  "command.effect.effect_disallowed": "Este efecto no esta permitido",
+  "command.effect.applied.1": "Aplicado",
+  "command.effect.applied.2": "por",
+  "command.effect.applied.3": "con un amplificador de",
 
   "projectile.test.hit": "Projectile hit target!",
   "projectile.test.blocks_away": "blocks away",
@@ -343,7 +343,7 @@
   "projectile.test.results_missed": "Missed",
   "projectile.test.results_landed": "Landed",
 
-  "generic.cannot_execute_command": "You cannot do this command here",
+  "generic.cannot_execute_command": "No puedes ejecutar este comando aqui",
 
   "textureID": "c2d730b6dda16b584783b63d082a80049b5fa70228aba4ae884c2c1fc0c3a8bc",
 
