@@ -343,8 +343,10 @@
   "projectile.test.results_title": "Projectile hit accuracy results",
   "projectile.test.results_missed": "Missed",
   "projectile.test.results_landed": "Landed",
-
+  
   "generic.cannot_execute_command": "You cannot do this command here",
+
+  "player.setting.christmas.music.description": "Enable / Disable christmas music",
 
   "textureID": "c439d7f9c67f32dcbb86b7010b1e14b60de96776a35f61cee982660aacf5264b",
 
