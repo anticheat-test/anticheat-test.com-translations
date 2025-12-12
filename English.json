@@ -349,9 +349,13 @@
   "player.setting.christmas.music": "Christmas Music",
   "player.setting.christmas.music.description": "Enable / Disable christmas music",
 
+  "player.setting.always.show.emulator": "Always show emulator",
+  "player.setting.always.show.emulator.description": "Enable / Disable always show emulator action bar",
+
   "textureID": "c439d7f9c67f32dcbb86b7010b1e14b60de96776a35f61cee982660aacf5264b",
 
   "credits": [
-    "Axis"
+    "Axis",
+    "demonpvp"
   ]
 }
