@@ -200,6 +200,7 @@
   "command.help.description.changelog": "View latest server changes",
   "command.help.description.duel": "1v1 another player",
   "command.help.description.botduel": "1v1 a bot player",
+  "command.help.description.clickdebugger": "Shows basic click statistics",
 
   "gui.select": "Click to select",
   "anticheat.message.failed": "failed",
