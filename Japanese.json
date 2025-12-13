@@ -152,10 +152,10 @@
   "anticheat.kick.vulcan.keepalive_2": "KeepAliveタイムアウトのためにVulcanがあなたをキックした可能性があります",
 
   "anticheat.kick.vulcan.ping": "マックスピング",
-  "anticheat.kick.vulcan.ping_2": "最大ピングのためにVulcanがあなたをキックした可能性があります",
+  "anticheat.kick.vulcan.ping_2": "高ピングのため、Vulcanがあなたをキックした可能性があります。",
 
   "anticheat.kick.vulcan.desync": "同期ズレ",
-  "anticheat.kick.vulcan.desync_2": "同期ズレのためにVulcanがあなたをキックした可能性があります",
+  "anticheat.kick.vulcan.desync_2": "同期ズレのため、Vulcanがあなたをキックした可能性があります",
 
   "chest.test.message_1": "",
   "chest.test.message_2": "チェストからアイテムを取るのにかかりました",
@@ -201,7 +201,7 @@
   "command.help.description.duel": "他のプレイヤーと1対1",
   "command.help.description.botduel": "ボットと1対1",
 
-  "gui.select": "クリックしたら",
+  "gui.select": "選択",
   "anticheat.message.failed": "失敗",
 
   "scoreboard.queued": "Queued for",
@@ -230,7 +230,7 @@
   "player.setting.hide.players": "すべてのオンラインのプレイヤーを非表示にする",
   "player.setting.hide.players.description": "プレイヤーハイダーを有効 / 無効にする",
 
-  "hidden.action.message.1": "すべてのプレイヤーは現在非表示です",
+  "hidden.action.message.1": "サーバーにいるプレイヤーは現在非表示になっています。",
   "hidden.action.message.2": "（/settings で変更できます）",
 
   "discord.notlinked.message.cooldown": "メッセージクールダウン中です。解除するには「/discord connect」でDiscordアカウントをリンクしてください（残り %s 秒）",
@@ -239,7 +239,7 @@
   "scoreboard.pps.in": "in",
   "scoreboard.pps.out": "out",
 
-  "explosion.place.area": "このエリアは安全ではありません。別の場所を試してください。",
+  "explosion.place.area": "このエリアは安全ではありません。別の場所で再度お試しください。",
 
   "scoreboard.gcd.correct": "GCDが正しいです。",
   "scoreboard.gcd.incorrect": "GCDが間違っています。",
@@ -250,7 +250,7 @@
   "player.setting.background.detections.description": "ほとんどのアンチチートがフラグを立てる基本的なものについて警告します",
 
   "packetSelection.gui.title": "パケットセレクター",
-  "packetSelection.part.1": "クリックして",
+  "packetSelection.part.1": "クリック",
   "packetSelection.part.2": "このパケット",
   "packetDebugger.disabled": "使用中のクライアントではデバッガーは使用できません。",
 
@@ -276,7 +276,7 @@
   "gui.theme.selector.title": "テーマを選択する",
   "gui.theme.selector.enabled": "現在のテーマ",
   "gui.theme.selector.enable": "クリックしてこのテーマに変更",
-  "gui.theme.selector.vip.only": "このサーバーにお金を寄付した人にのみこの機能を設定できます。",
+  "gui.theme.selector.vip.only": "このサーバーに寄付した人にのみこの機能を設定できます。",
   "gui.theme.builder.title": "カスタムテーマ",
 
   "gui.theme.builder.blocks.base": "ベースブロック",
@@ -319,7 +319,7 @@
   "donate.try_again": "請求書を生成することができませんでした。 後でやり直してください。",
   "donate.min_price": "5ユーロ以上を入力してください。",
   "donate.entered_amount": "金額を入力しました",
-  "donate.invalid_input": "無効な入力です (有効な番号を使用してください...)",
+  "donate.invalid_input": "無効な入力です (有効な金額を入力してください...)",
   "donate.payment_complete": "お支払いが処理されました! 寄付者特典を受け取るには再度このサーバーに接続してください!",
 
   "join.anticheat.selection.hint": "/anticheatを使用してアンチチートを変更できます。",
@@ -344,12 +344,13 @@
   "projectile.test.results_missed": "Missed",
   "projectile.test.results_landed": "Landed",
 
-  "generic.cannot_execute_command": "You cannot do this command here",
+  "generic.cannot_execute_command": "ここではこのコマンドを実行できません！",
 
   "textureID": "8043ae9bbfa8b8bbb5c964bbce45fbe79a3ad742be07b56607c68c8e11164",
 
   "credits": [
     "zakocord",
+    "ambrosial",
     "matanku"
   ]
 }
