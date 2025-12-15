@@ -353,6 +353,9 @@
   "player.setting.always.show.emulator": "Always show emulator",
   "player.setting.always.show.emulator.description": "Enable / Disable always show emulator action bar",
 
+  "command.clickdebugger.toggle.on": "Click Debugger is now on",
+  "command.clickdebugger.toggle.off": "Click Debugger is now off",
+
   "textureID": "c439d7f9c67f32dcbb86b7010b1e14b60de96776a35f61cee982660aacf5264b",
 
   "credits": [
