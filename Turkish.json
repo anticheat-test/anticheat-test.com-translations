@@ -1,8 +1,8 @@
 {
-  "scoreboard.ping": "Gecikme",
-  "scoreboard.anticheat": "Anti-Hile",
+  "scoreboard.ping": "Ping",
+  "scoreboard.anticheat": "Anti-hile",
   "scoreboard.version": "Sürüm",
-  "scoreboard.cps": "Atak/sn",
+  "scoreboard.cps": "Tık/sn",
   "scoreboard.bps": "Hız/sn",
   "scoreboard.vbs": "VBS",
   "scoreboard.balance": "Denge",
@@ -15,7 +15,7 @@
   "scoreboard.sneaking": "Çömelme",
   "scoreboard.attacking": "Saldırı",
   "scoreboard.blocking": "Bloklama",
-  "scoreboard.ground": "Ground",
+  "scoreboard.ground": "Yerde",
 
   "scoreboard.fight": "Dövüş",
   "scoreboard.arena": "Arena",
@@ -26,15 +26,15 @@
   "yes": "Evet",
   "no": "Hayır",
 
-  "true": "Doğru",
-  "false": "Yanlış",
+  "true": "Evet",
+  "false": "Hayır",
 
   "tab.rank": "Rütbe",
   "tab.online": "Çevrimiçi",
   "tab.players": "Oyuncu",
   "tab.player": "Oyuncu",
   "tab.cpu": "İşlemci",
-  "tab.memory": "Hafıza",
+  "tab.memory": "Bellek",
   "tab.tps": "TPS",
 
   "gui.tagcolor": "Etkiket Rengi",
@@ -101,7 +101,7 @@
   "player.settings.announcements": "Announcements",
   "player.settings.announcements.description": "Shows auto server announcements",
 
-  "anticheat.selected": "Anti-Hilen değişti",
+  "anticheat.selected": "Anti-hilen değiştirildi: ",
   "anticheat.kick.requires_reconnect": "bu anti-hilenin çalışması için yeniden bağlanmalısın.",
   "anticheat.kick.requires_reconnect_warning_1": "bir önceki anti-hilen",
   "anticheat.kick.requires_reconnect_warning_2": "yeniden bağlanmanı gerektiriyor.",
@@ -254,7 +254,7 @@
   "packetSelection.part.2": "",
   "packetDebugger.disabled": "Debugger bu client ile kullanılamaz.",
 
-  "bot.test.start": "Anti-Bot testi başlıyor.",
+  "bot.test.start": "Anti-bot testi başlıyor.",
   "bot.test.already_running": "Bot testi çoktan çalışıyor.",
   "bot.test.finished": "Bot testi bitti.",
   "bot.test.stage": "Bot deneniyor",
@@ -269,7 +269,7 @@
   "bot.test.higher.versions.warning": "Bu test 1.8.x sürümlerinde daha iyi çalışır. Yeni Minecraft sürümleri entity spawn mekanizmasını değiştirdiğinden dolayı sahte bir isime sahip oluyorlar.",
 
   "anticheat.ban.warning.message": "Banlanma nedeniniz: ",
-  "anticheat.ban.title.message": "Şu An Banlamış Olurdunuz",
+  "anticheat.ban.title.message": "Banlandınız",
 
   "setting.vip.only": "Bu seçeneğe bağış yaparak erişebilirsiniz.",
 
@@ -302,54 +302,54 @@
   "rotate.expect.invalid.pitch": "Pitch did not follow server expected pitch (packet: %s, expected: %s)",
   "rotate.expect.invalid.yaw": "Yaw did not follow server expected yaw (packet: %s, expected: %s)",
 
-  "matrix.bot.summon": "Bot has been spawned",
-  "matrix.bot.hint": "To summon the Matrix anticheat bot, run: /summonMatrixBot",
+  "matrix.bot.summon": "Bot çağrıldı",
+  "matrix.bot.hint": "Matrix anti-hilesinin botunu çağırmak için /summonMatrixBot komutunu çalıştır",
 
   "server.remote.startup_1": "You will be connected to",
   "server.remote.startup_2": "soon, its starting up...",
 
-  "command.ip": "You are connected with the IP:",
-  "gui.trash.title": "Trash (place items you dont want here)",
+  "command.ip": "Bu IP ile bağlandınız:",
+  "gui.trash.title": "Çöp (yok etmek istediğiniz itemleri buraya koyun)",
 
-  "donate.button_1": "Click here to donate",
-  "donate.meta_1": "Price: €5 or more (shift click to enter custom amount)",
-  "donate.meta_2": "Supported Coins",
-  "donate.meta_3": "Want to donate using another payment method?",
-  "donate.meta_4": "Join the discord using /discord",
-  "donate.try_again": "Unable to generate invoice, try again later.",
-  "donate.min_price": "Please enter a price above €5",
-  "donate.entered_amount": "You have entered the amount",
-  "donate.invalid_input": "Invalid input (Please use a valid number...)",
-  "donate.payment_complete": "Your payment has been processed, please reconnect to get the donator perks!",
+  "donate.button_1": "Bağış yapmak için buraya tıklayın",
+  "donate.meta_1": "Ücret: 5€ veya üstü (özel miktar girmel için shifte basarken sol tıklayın)",
+  "donate.meta_2": "Desteklenen kripto paralar",
+  "donate.meta_3": "Başka bir ödeme yöntemi ile mi bağış yapmak istiyorsunuz?",
+  "donate.meta_4": "Discord sunucumuza /discord komutunu kullanarak girebilirsiniz",
+  "donate.try_again": "Bir hata oluştu, lütfen daha sonra tekrar deneyiniz.",
+  "donate.min_price": "Lütfen 5€ veya üstünde bir miktar giriniz",
+  "donate.entered_amount": "Miktarı başarıyla girdiniz",
+  "donate.invalid_input": "Yanlış girdi (Lütfen geçerli bir sayı giriniz...)",
+  "donate.payment_complete": "Ödeme başarılı, bağışçı ödüllerini almak için sunucuya yeniden bağlanınız!",
 
-  "join.anticheat.selection.hint": "Use /anticheat to change anticheats",
+  "join.anticheat.selection.hint": "Anti-hileyi değiştirmek için /ac komutunu girebilirsiniz",
 
-  "command.enchant.invalid.number": "Invalid number.",
-  "command.enchant.already.enchanted": "This item already has this enchantment...",
-  "command.enchant.enchanted": "Enchanted",
-  "command.enchant.with": "with",
-  "command.enchant.not_found": "Could not find the enchantment",
-  "command.enchant.available": "Available enchants",
-  "command.enchant.hold_item": "Please hold an item.",
+  "command.enchant.invalid.number": "Hatalı sayı.",
+  "command.enchant.already.enchanted": "Elinizdeki itemde bu büyü hali hazırda var...",
+  "command.enchant.enchanted": "Büyülendi",
+  "command.enchant.with": "ve",
+  "command.enchant.not_found": "Büyü bulunamadı",
+  "command.enchant.available": "Basılabilecek büyüler",
+  "command.enchant.hold_item": "Lütfen elinizde bir item tutunuz.",
 
-  "command.effect.clear": "Removed all active effects!",
-  "command.effect.effect_disallowed": "This effect is not allowed",
-  "command.effect.applied.1": "Applied",
-  "command.effect.applied.2": "for",
-  "command.effect.applied.3": "with an amplifier of",
+  "command.effect.clear": "Tüm büyüler kaldırıldı!",
+  "command.effect.effect_disallowed": "Bu büyü yasak",
+  "command.effect.applied.1": "Uygulandı",
+  "command.effect.applied.2": "için",
+  "command.effect.applied.3": "seviye",
 
-  "projectile.test.hit": "Projectile hit target!",
-  "projectile.test.blocks_away": "blocks away",
-  "projectile.test.results_title": "Projectile hit accuracy results",
-  "projectile.test.results_missed": "Missed",
-  "projectile.test.results_landed": "Landed",
+  "projectile.test.hit": "Fırlatılen nesne hedefe geldi!",
+  "projectile.test.blocks_away": "blok uzakta",
+  "projectile.test.results_title": "Fırlatılabilir nesne doğruluk sonuçları",
+  "projectile.test.results_missed": "Kaçırdın",
+  "projectile.test.results_landed": "İsabet etti",
 
-  "generic.cannot_execute_command": "You cannot do this command here",
+  "generic.cannot_execute_command": "O komutu burada çalıştıramazsın",
 
   "textureID": "9852b9aba3482348514c1034d0affe73545c9de679ae4647f99562b5e5f47d09",
 
   "credits": [
-    "GameVPR",
+    "sudokaan",
     "Tecnio"
   ]
 }
