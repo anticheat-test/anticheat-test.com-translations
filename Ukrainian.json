@@ -1,0 +1,378 @@
+{
+  "scoreboard.ping": "Пінг",
+  "scoreboard.anticheat": "Античіт",
+  "scoreboard.version": "Версія",
+  "scoreboard.cps": "CPS",
+  "scoreboard.bps": "BPS",
+  "scoreboard.vbs": "VBS",
+  "scoreboard.balance": "Баланс",
+
+  "scoreboard.engine": "Гра",
+  "scoreboard.engine.correct": "Стрейф правильний",
+  "scoreboard.engine.incorrect": "Стрейф неправильний",
+
+  "scoreboard.sprinting": "Біжите?",
+  "scoreboard.sneaking": "Присідаєте?",
+  "scoreboard.attacking": "Атакуєте?",
+  "scoreboard.blocking": "Блокуєте?",
+  "scoreboard.ground": "На землі?",
+
+  "scoreboard.fight": "Бій",
+  "scoreboard.arena": "Арена",
+  "scoreboard.duration": "Тривалість",
+
+  "scoreboard.restart": "Перезапуск",
+
+  "yes": "Так",
+  "no": "Ні",
+
+  "true": "так",
+  "false": "ні",
+
+  "tab.rank": "Ранг",
+  "tab.online": "Онлайн",
+  "tab.players": "Гравці",
+  "tab.player": "Гравець",
+  "tab.cpu": "Процесор",
+  "tab.memory": "Оперативна Пам’ять",
+  "tab.tps": "TPS",
+
+  "gui.tagcolor": "Колір тегу",
+  "gui.items": "Предмети",
+  "gui.playerSettings": "Налаштування гравця",
+  "gui.warps": "Варпи",
+
+  "gui.warps.click": "Натисніть, щоб телепортуватися на",
+
+  "gui.playerSettings.modify": "Натисніть, щоб %s це налаштування",
+  "gui.playerSettings.disabled": "вимкнути",
+  "gui.playerSettings.enabled": "увімкнути",
+
+  "gui.items.click": "Натисніть, щоб отримати цей предмет",
+
+  "gui.chest.test.item": "Тестовий предмет Chest Stealer",
+
+  "gui.anticheat.title": "Вибір античіту",
+  "gui.anticheat.vote": "Голосування за античіт",
+  "gui.anticheat.item.author": "Автор(и)",
+  "gui.anticheat.item.description": "Опис",
+  "gui.anticheat.item.version": "Версія",
+  "gui.anticheat.item.reconnect_required": "Вибір цього античіту вимагатиме перепідключення",
+  "gui.anticheat.item.sandbox": "Цей античіт працює в пісочниці",
+  "gui.anticheat.item.sandbox.line2": "для його коректної роботи може знадобитися перезахід.",
+  "gui.anticheat.item.voting": "Голоси",
+
+  "player.setting.fall_damage": "Шкода від падіння",
+  "player.setting.fall_damage_description": "Увімкнути / вимкнути шкоду від падіння",
+
+  "player.setting.flying_kick": "Кік за політ",
+  "player.setting.flying_kick_description": "Увімкнути / вимкнути серверний кік за політ",
+
+  "player.settings.notify_flying": "Сповіщення про кік за політ",
+  "player.settings.notify_flying_description": "Увімкнути / вимкнути сповіщення, коли вас кікає за політ",
+
+  "player.settings.hunger": "Голод",
+  "player.settings.hunger_description": "Увімкнути / вимкнути голод",
+
+  "player.setting.external_damage": "Зовнішня шкода",
+  "player.setting.external_damage_description": "Увімкнути / вимкнути зовнішню шкоду",
+
+  "player.settings.potions": "Зілля",
+  "player.settings.potions_description": "Увімкнути / вимкнути ефекти зілля",
+
+  "player.settings.hitbox": "Візуальний налагоджувач хітбоксів",
+  "player.settings.hitbox_description": "Увімкнути / вимкнути візуальні хітбокси",
+
+  "player.settings.raytrace": "Візуальний налагоджувач RayTrace",
+  "player.settings.raytrace.description": "Увімкнути / вимкнути візуальний налагоджувач RayTrace",
+
+  "player.settings.critical_debugger": "Візуальний налагоджувач критичних ударів",
+  "player.settings.critical_debugger_description": "Увімкнути / вимкнути візуальний налагоджувач критичних ударів",
+
+  "player.settings.anticheat.bans": "Попередження про бан",
+  "player.settings.anticheat.bans.description": "Попереджає, коли ви досягаєте максимального VL бану античіту",
+
+  "player.settings.proximity.hider": "Приховування гравців поблизу",
+  "player.settings.proximity.hider.description": "Приховує гравців, коли вони підходять надто близько",
+
+  "player.settings.announcements": "Оголошення",
+  "player.settings.announcements.description": "Показує автоматичні оголошення сервера",
+
+  "player.setting.snow": "Сніг",
+  "player.setting.snow.description": "Показувати сніг (за допомогою частинок)",
+
+  "anticheat.selected": "Ви перемкнулися на",
+  "anticheat.kick.requires_reconnect": "потребує перепідключення, щоб працювати повністю.",
+  "anticheat.kick.requires_reconnect_warning_1": "перемикання з",
+  "anticheat.kick.requires_reconnect_warning_2": "потребує перепідключення.",
+
+  "action.title.server.position": "Позиція сервера (S08)",
+  "action.title.server.seconds": "секунд",
+  "action.title.server.tick": "тік",
+  "action.title.server.ticks": "тіків",
+
+  "disguised.join.message": "Ви все ще замасковані як",
+
+  "pvp.enabled": "PvP тепер увімкнено",
+  "pvp.disabled": "PvP тепер вимкнено",
+  "pvp.toggled_enable": "PvP тепер увімкнено",
+  "pvp.wait": "Зачекайте, будь ласка...",
+  "pvp.countdown": "PvP буде увімкнено через",
+  "pvp.countdown.second": "секунду",
+  "pvp.countdown.seconds": "секунд",
+  "pvp.reset.items": "Усі зачаровані предмети у вашому інвентарі буде скинуто, коли PvP буде увімкнено (вийдіть, якщо не хочете, щоб їх було скинуто)",
+  "pvp.death.message": "був убитий гравцем",
+
+  "alerts.filter": "За замовчуванням сповіщення відфільтровані так, щоб можна було бачити типи сповіщень усіх користувачів.",
+
+  "join.message": "Щоб переглянути всі команди, використовуйте /help",
+  "discord.message": "Запрошення в Discord",
+
+  "damage.action": "Ви завдали шкоди",
+  "damage.action.critical.hit": "[Критичний удар]",
+
+  "civ.break.test": "Ви зламали блок",
+  "civ.break.test_2": "на тіку",
+
+  "flying.kick.title": "Вас би кікнуло із сервера",
+  "tag.color.change": "Колір вашого тегу тепер",
+
+  "anticheat.vote.voted": "Ви проголосували за",
+  "anticheat.vote.voted_other_player": "проголосував(-ла) за",
+
+  "chat.disabled": "Чат вимкнено",
+  "chat.throttle": "Зачекайте перед надсиланням іншого повідомлення.",
+  "chat.chain": "Не пишіть повідомлення одне за одним у чаті.",
+
+  "anticheat.kick.title": "Вас би кікнуло із сервера",
+  "anticheat.kick.vulcan.transaction": "Тайм-аут транзакції",
+  "anticheat.kick.vulcan.transaction_2": "Vulcan кікнув би вас за тайм-аут транзакції",
+
+  "anticheat.kick.vulcan.keepalive": "Тайм-аут KeepAlive",
+  "anticheat.kick.vulcan.keepalive_2": "Vulcan кікнув би вас за тайм-аут keepalive",
+
+  "anticheat.kick.vulcan.ping": "Максимальний пінг",
+  "anticheat.kick.vulcan.ping_2": "Vulcan кікнув би вас за високий пінг",
+
+  "anticheat.kick.vulcan.desync": "Десинхронізація",
+  "anticheat.kick.vulcan.desync_2": "Vulcan кікнув би вас за десинхронізацію",
+
+  "chest.test.message_1": "Знадобилося",
+  "chest.test.message_2": "щоб обікрасти скриню",
+  "chest.test.message_3": "з",
+  "chest.test.message_4": "предметів було взято",
+
+  "speed.test.start.title.1": "ВПЕРЕД!",
+  "speed.test.start.title.2": "Пробіжіть до кінця тесту швидкості, щоб отримати результат",
+  "speed.test.starting": "Початок через",
+  "speed.test.results": "Результати тесту швидкості",
+  "speed.test.average.bps": "Середній BPS",
+  "speed.test.highest.bps": "Найвищий BPS",
+  "speed.test.lowest.bps": "Найнижчий BPS",
+  "speed.test.totalseconds": "Усього секунд",
+
+  "scaffold.test.enter": "Тепер ви можете ставити блоки",
+  "scaffold.test.enter_2": "Використовуйте /items, щоб отримати предмети",
+  "scaffold.test.exit": "Ви більше не можете ставити блоки",
+
+  "velocity.test.apply": "Застосовано швидкість",
+
+  "command.help.description.help": "Ця команда...",
+  "command.help.description.spawn": "Телепортує вас на спавн",
+  "command.help.description.warp": "Без аргументів відкриється графічний інтерфейс, або ви можете додати аргумент, щоб переміститися до",
+  "command.help.description.items": "Список предметів, які можна використовувати",
+  "command.help.description.enchant": "Дозволяє зачарувати будь-який предмет",
+  "command.help.description.anticheat": "GUI вибору античіту",
+  "command.help.description.ac": "Те саме, що /anticheat",
+  "command.help.description.heal": "Відновлює рівень їжі та здоров’я",
+  "command.help.description.settings": "Список налаштувань, які можна вмикати й вимикати",
+  "command.help.description.clear": "Очищає ваш інвентар",
+  "command.help.description.tagcolor": "Змінює колір вашого імені в табі",
+  "command.help.description.tc": "Те саме, що /tagcolor",
+  "command.help.description.language": "Змінює мову сервера",
+  "command.help.description.packetdebugger": "Увімкнути/вимкнути пакетний налагоджувач",
+  "command.help.description.packetdebugger_config": "Налаштувати пакетний налагоджувач",
+  "command.help.description.discord_connect": "Надсилає запрошення та запускає процес прив’язки для приєднання до нашого Discord",
+  "command.help.description.discord_unlink": "Відв’язати ваш обліковий запис Discord",
+  "command.help.description.bottest": "Запустити тест бота для killaura",
+  "command.help.description.ip": "Показує IP-адресу, з якою ви підключені",
+  "command.help.description.trash": "GUI смітника предметів",
+  "command.help.description.changelog": "Переглянути останні зміни сервера",
+  "command.help.description.duel": "1v1 з іншим гравцем",
+  "command.help.description.botduel": "1v1 з ботом-гравцем",
+  "command.help.description.clickdebugger": "Показує базову статистику кліків",
+  "command.help.description.damage": "Завдає вам шкоди",
+  "command.help.description.fly": "Перемикає режим польоту",
+
+  "gui.select": "Натисніть, щоб вибрати",
+  "anticheat.message.failed": "невдало",
+
+  "scoreboard.queued": "У черзі на",
+  "gui.anticheat.item.external_server": "Цей античіт працює на іншому сервері",
+  "gui.anticheat.item.server_online": "Цей сервер онлайн, натисніть, щоб підключитися",
+  "gui.anticheat.item.server_offline": "Цей сервер офлайн, натисніть, щоб запустити його",
+  "gui.anticheat.item.server_starting": "Цей сервер зараз запускається...",
+  "external.server.start.command.sent": "Цей сервер зараз запускається, вас буде перекинуто на нього, щойно він стане онлайн.",
+
+  "player.setting.scaffold.refill.blocks": "Автопоповнення блоків",
+  "player.setting.scaffold.refill.blocks.description": "Автоматично поповнює ваші блоки в зоні scaffold",
+
+  "player.setting.direct.messages": "Приватні повідомлення",
+  "player.setting.direct.messages.description": "Увімкнути/вимкнути приватні повідомлення",
+
+  "command.message.reply.nobody": "У вас немає нікого, кому можна відповісти",
+  "command.message.reply.usage": "Використання: /reply <message>",
+
+  "command.message.usage": "Використання: /message <player> <message>",
+  "command.message.finderror": "Не вдалося знайти гравця",
+  "command.message.message.self": "Ви не можете написати повідомлення самому собі.",
+  "command.message.disabled": "У вас вимкнені приватні повідомлення, увімкніть їх через /settings, щоб використовувати цю команду.",
+
+  "command.message.tell.replaced": "/tell було замінено на /message або /msg",
+
+  "player.setting.hide.players": "Приховати всіх онлайн-гравців",
+  "player.setting.hide.players.description": "Увімкнути/вимкнути приховування гравців",
+
+  "hidden.action.message.1": "Наразі всі гравці приховані",
+  "hidden.action.message.2": "(використовуйте /settings, щоб змінити це)",
+
+  "discord.notlinked.message.cooldown": "У вас кулдаун повідомлень; щоб прибрати його, потрібно прив’язати обліковий запис Discord за допомогою \"/discord connect\", (залишилось %ss)",
+
+  "scoreboard.pps.pps": "PPS",
+  "scoreboard.pps.in": "вхід",
+  "scoreboard.pps.out": "вихід",
+
+  "explosion.place.area": "Ця зона небезпечна, спробуйте в іншому місці.",
+
+  "scoreboard.gcd.correct": "GCD правильний",
+  "scoreboard.gcd.incorrect": "GCD неправильний",
+  "hotbar.hitmiss": "Співвідношення влучань/промахів",
+
+  "detections.post": "Схоже, ви зараз атакуєте/ставите блоки на POST. Це дуже поширена перевірка в більшості античитів; можливо, варто змінити це, якщо ви не знали.",
+  "player.setting.background.detections": "Фонові виявлення",
+  "player.setting.background.detections.description": "Попереджає про базові речі, на які реагує більшість античитів",
+
+  "packetSelection.gui.title": "Вибір пакетів",
+  "packetSelection.part.1": "Натисніть, щоб",
+  "packetSelection.part.2": "цей пакет",
+  "packetDebugger.disabled": "Налагоджувач не можна використовувати на клієнті, який ви використовуєте.",
+
+  "bot.test.start": "Антибот-тест зараз почнеться",
+  "bot.test.already_running": "Тест уже запущено.",
+  "bot.test.finished": "Тест бота завершено",
+  "bot.test.stage": "Тестування бота",
+  "bot.test.stage.1": "базовий-фейк",
+  "bot.test.stage.2": "базовий-спуф",
+  "bot.test.stage.3": "базовий-спуф зі шкодою, агресивний рух",
+  "bot.test.stage.4": "базовий-спуф із замахом, агресивний рух",
+  "bot.test.stage.5": "базовий-спуф зі шкодою, замахом, агресивний рух",
+  "bot.test.stage.6": "базовий-спуф зі шкодою, замахом, агресивний рух x2",
+  "bot.test.stage.7": "базовий-спуф зі шкодою, замахом, агресивний рух, броня, предмети",
+  "bot.test.stage.8": "базовий-спуф зі шкодою, замахом, агресивний рух, броня, предмети x2",
+  "bot.test.higher.versions.warning": "Цей тест працює краще на клієнтах на базі 1.8.x; у новіших версіях Minecraft змінено обробку появи, тому всі боти матимуть фейкове ім’я користувача",
+
+  "anticheat.ban.warning.message": "Вас би забанили за",
+  "anticheat.ban.title.message": "Вас би забанили",
+
+  "setting.vip.only": "Ви можете отримати доступ до цього налаштування, зробивши донат!",
+
+  "gui.theme.selector.title": "Вибір теми",
+  "gui.theme.selector.enabled": "Зараз у вас увімкнена ця тема",
+  "gui.theme.selector.enable": "Натисніть, щоб увімкнути цю тему",
+  "gui.theme.selector.vip.only": "Тільки користувачі, які зробили донат, можуть користуватися цією функцією.",
+  "gui.theme.builder.title": "Конструктор власної теми",
+
+  "gui.theme.builder.blocks.base": "Базові блоки",
+  "gui.theme.builder.blocks.area": "Блоки зони",
+  "gui.theme.builder.blocks.layer": "Блоки шару",
+  "gui.theme.builder.blocks.pvp": "Блоки PvP-зони",
+  "gui.theme.builder.blocks.outer": "Блоки зовнішнього шару",
+
+  "gui.theme.builder.anvil.title": "Конструктор власного блоку",
+  "gui.theme.builder.anvil.invalid.1": "Неправильний матеріал",
+  "gui.theme.builder.anvil.invalid.2": "Неправильне введення",
+
+  "gui.theme.builder.modify": "Натисніть, щоб змінити цей блок",
+  "gui.theme.builder.complete": "Готово",
+  "gui.theme.builder.complete.footer.1": "Натисніть, щоб застосувати зміни",
+  "gui.theme.builder.complete.footer.2": "Left/Right-Shift і клік, щоб скинути зміни",
+  "theme.applied": "було застосовано",
+  "command.help.description.theme": "Змінити тему мапи",
+
+  "rotate.random": "Встановлено yaw на %s і pitch на %s",
+  "rotate.yaw": "Додано %s° до поточного yaw",
+  "rotate.pitch": "Додано %s до поточного pitch",
+  "rotate.expect.invalid.pitch": "Pitch не відповідав очікуваному сервером pitch (пакет: %s, очікувано: %s)",
+  "rotate.expect.invalid.yaw": "Yaw не відповідав очікуваному сервером yaw (пакет: %s, очікувано: %s)",
+
+  "matrix.bot.summon": "Бота було заспавнено",
+  "matrix.bot.hint": "Щоб викликати бота античіту Matrix, виконайте: /summonMatrixBot",
+
+  "server.remote.startup_1": "Вас буде підключено до",
+  "server.remote.startup_2": "незабаром, він запускається...",
+
+  "command.ip": "Ви підключені з IP:",
+  "gui.trash.title": "Смітник (кладіть сюди предмети, які вам не потрібні)",
+
+  "donate.button_1": "Натисніть тут, щоб задонатити",
+  "donate.meta_1": "Ціна: €5 або більше (Shift-клік, щоб ввести власну суму)",
+  "donate.meta_2": "Підтримувані монети",
+  "donate.meta_3": "Хочете задонатити іншим способом оплати?",
+  "donate.meta_4": "Приєднайтеся до Discord за допомогою /discord",
+  "donate.try_again": "Не вдалося створити інвойс, спробуйте пізніше.",
+  "donate.min_price": "Введіть суму понад €5",
+  "donate.entered_amount": "Ви ввели суму",
+  "donate.invalid_input": "Неправильне введення (використовуйте коректне число...)",
+  "donate.payment_complete": "Ваш платіж оброблено, перепідключіться, щоб отримати донатерські переваги!",
+  
+  "join.anticheat.selection.hint": "Використовуйте /anticheat, щоб змінити античіт",
+
+  "command.enchant.invalid.number": "Неправильне число.",
+  "command.enchant.already.enchanted": "Цей предмет уже має це зачарування...",
+  "command.enchant.enchanted": "Зачаровано",
+  "command.enchant.with": "на",
+  "command.enchant.not_found": "Не вдалося знайти зачарування",
+  "command.enchant.available": "Доступні зачарування",
+  "command.enchant.hold_item": "Будь ласка, тримайте предмет у руці.",
+
+  "command.effect.clear": "Усі активні ефекти видалено!",
+  "command.effect.effect_disallowed": "Цей ефект не дозволено",
+  "command.effect.applied.1": "Застосовано",
+  "command.effect.applied.2": "на",
+  "command.effect.applied.3": "з підсиленням",
+
+  "projectile.test.hit": "Снаряд влучив у ціль!",
+  "projectile.test.blocks_away": "блоків відстані",
+  "projectile.test.results_title": "Результати точності влучання снарядів",
+  "projectile.test.results_missed": "Промахів",
+  "projectile.test.results_landed": "Влучань",
+  
+  "generic.cannot_execute_command": "Ви не можете виконати цю команду тут",
+
+  "player.setting.christmas.music": "Різдвяна музика",
+  "player.setting.christmas.music.description": "Увімкнути / вимкнути різдвяну музику",
+
+  "player.setting.always.show.emulator": "Завжди показувати емулятор",
+  "player.setting.always.show.emulator.description": "Увімкнути / вимкнути постійне відображення емулятора в action bar",
+
+  "command.clickdebugger.toggle.on": "Click Debugger тепер увімкнено",
+  "command.clickdebugger.toggle.off": "Click Debugger тепер вимкнено",
+
+  "command.damage.invalid": "Використання: /damage <amount>",
+  "command.damage.invalid_amount_less_than_0": "Шкода має бути більшою за 0",
+  "command.damage.invalid_amount_more_than_20": "Шкода не може бути більшою за 20",
+  "command.damage.applied": "Застосовано",
+
+  "command.fly.enabled": "Політ тепер увімкнено",
+  "command.fly.disabled": "Політ тепер вимкнено",
+
+  "anticheat.kick.intave-kick": "Intave кікнув би вас",
+  "anticheat.kick.intave-ban": "Intave кікнув би вас",
+
+
+  "textureID": "28b9f52e36aa5c7caaa1e7f26ea97e28f635e8eac9aef74cec97f465f5a6b51",
+
+  "credits": [
+    "HeOneZen"
+  ]
+}
