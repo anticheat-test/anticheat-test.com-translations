@@ -11,11 +11,11 @@
   "scoreboard.engine.correct": "Стрейф правильний",
   "scoreboard.engine.incorrect": "Стрейф неправильний",
 
-  "scoreboard.sprinting": "Біжите?",
-  "scoreboard.sneaking": "Присідаєте?",
-  "scoreboard.attacking": "Атакуєте?",
-  "scoreboard.blocking": "Блокуєте?",
-  "scoreboard.ground": "На землі?",
+  "scoreboard.sprinting": "Біжите",
+  "scoreboard.sneaking": "Присідаєте",
+  "scoreboard.attacking": "Атакуєте",
+  "scoreboard.blocking": "Блокуєте",
+  "scoreboard.ground": "На землі",
 
   "scoreboard.fight": "Бій",
   "scoreboard.arena": "Арена",
@@ -221,9 +221,9 @@
   "player.setting.direct.messages.description": "Увімкнути/вимкнути приватні повідомлення",
 
   "command.message.reply.nobody": "У вас немає нікого, кому можна відповісти",
-  "command.message.reply.usage": "Використання: /reply <message>",
+  "command.message.reply.usage": "Використання: /reply <повідомлення>",
 
-  "command.message.usage": "Використання: /message <player> <message>",
+  "command.message.usage": "Використання: /message <гравець> <повідомлення>",
   "command.message.finderror": "Не вдалося знайти гравця",
   "command.message.message.self": "Ви не можете написати повідомлення самому собі.",
   "command.message.disabled": "У вас вимкнені приватні повідомлення, увімкніть їх через /settings, щоб використовувати цю команду.",
@@ -295,7 +295,7 @@
   "gui.theme.builder.modify": "Натисніть, щоб змінити цей блок",
   "gui.theme.builder.complete": "Готово",
   "gui.theme.builder.complete.footer.1": "Натисніть, щоб застосувати зміни",
-  "gui.theme.builder.complete.footer.2": "Left/Right-Shift і клік, щоб скинути зміни",
+  "gui.theme.builder.complete.footer.2": "Лівий/Правий-Шифт і клік, щоб скинути зміни",
   "theme.applied": "було застосовано",
   "command.help.description.theme": "Змінити тему мапи",
 
@@ -315,7 +315,7 @@
   "gui.trash.title": "Смітник (кладіть сюди предмети, які вам не потрібні)",
 
   "donate.button_1": "Натисніть тут, щоб задонатити",
-  "donate.meta_1": "Ціна: €5 або більше (Shift-клік, щоб ввести власну суму)",
+  "donate.meta_1": "Ціна: €5 або більше (Шифт-клік, щоб ввести власну суму)",
   "donate.meta_2": "Підтримувані монети",
   "donate.meta_3": "Хочете задонатити іншим способом оплати?",
   "donate.meta_4": "Приєднайтеся до Discord за допомогою /discord",
@@ -358,7 +358,7 @@
   "command.clickdebugger.toggle.on": "Click Debugger тепер увімкнено",
   "command.clickdebugger.toggle.off": "Click Debugger тепер вимкнено",
 
-  "command.damage.invalid": "Використання: /damage <amount>",
+  "command.damage.invalid": "Використання: /damage <кількість>",
   "command.damage.invalid_amount_less_than_0": "Шкода має бути більшою за 0",
   "command.damage.invalid_amount_more_than_20": "Шкода не може бути більшою за 20",
   "command.damage.applied": "Застосовано",
@@ -367,7 +367,7 @@
   "command.fly.disabled": "Політ тепер вимкнено",
 
   "anticheat.kick.intave-kick": "Intave кікнув би вас",
-  "anticheat.kick.intave-ban": "Intave кікнув би вас",
+  "anticheat.kick.intave-ban": "Intave забанив би вас",
 
 
   "textureID": "28b9f52e36aa5c7caaa1e7f26ea97e28f635e8eac9aef74cec97f465f5a6b51",
