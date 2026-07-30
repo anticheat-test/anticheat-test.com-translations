@@ -134,7 +134,7 @@
   "civ.break.test": "블록을 부쉈습니다",
   "civ.break.test_2": "해당 틱에서: ",
 
-  "flying.kick.title": "서버에서 추방되었을 수 있습니다",
+  "flying.kick.title": "서버에서 추방되었을 것입니다",
   "tag.color.change": "태그 색상이 변경되었습니다:",
 
   "anticheat.vote.voted": "다음 항목에 투표했습니다: ",
@@ -142,20 +142,20 @@
 
   "chat.disabled": "채팅이 비활성화되어 있습니다",
   "chat.throttle": "잠시 기다린 뒤에 메시지를 보내주세요",
-  "chat.chain": "메시지를 연쇄적으로 보내지 마세요.",
+  "chat.chain": "메시지를 연쇄적으로 보내지 마세요",
 
-  "anticheat.kick.title": "서버에서 추방되었을 수 있습니다",
+  "anticheat.kick.title": "서버에서 추방되었을 것입니다",
   "anticheat.kick.vulcan.transaction": "트랜잭션 시간 초과",
-  "anticheat.kick.vulcan.transaction_2": "트랜잭션 시간 초과로 인해 Vulcan에 의해 추방되었을 수 있습니다",
+  "anticheat.kick.vulcan.transaction_2": "트랜잭션 시간 초과로 인해 Vulcan에 의해 추방되었을 것입니다",
 
   "anticheat.kick.vulcan.keepalive": "KeepAlive 시간 초과",
-  "anticheat.kick.vulcan.keepalive_2": "KeepAlive 시간 초과로 인해 Vulcan에 의해 추방되었을 수 있습니다",
+  "anticheat.kick.vulcan.keepalive_2": "KeepAlive 시간 초과로 인해 Vulcan에 의해 추방되었을 것입니다",
 
   "anticheat.kick.vulcan.ping": "최대 지연시간",
-  "anticheat.kick.vulcan.ping_2": "높은 지연시간으로 인해 Vulcan에 의해 추방되었을 수 있습니다",
+  "anticheat.kick.vulcan.ping_2": "높은 지연시간으로 인해 Vulcan에 의해 추방되었을 것입니다",
 
   "anticheat.kick.vulcan.desync": "비동기화",
-  "anticheat.kick.vulcan.desync_2": "비동기화로 인해 Vulcan에 의해 추방되었을 수 있습니다",
+  "anticheat.kick.vulcan.desync_2": "비동기화로 인해 Vulcan에 의해 추방되었을 것입니다",
 
   "chest.test.message_1": "상자를 터는데",
   "chest.test.message_2": "결렀습니다",
@@ -271,8 +271,8 @@
   "bot.test.stage.8": "피해 적용, 스윙, 공격적 이동, 방어구, 아이템을 포함한 기본-스푸핑 (봇 2개)",
   "bot.test.higher.versions.warning": "이 테스트는 1.8.x 기반 클라이언트에서 더 잘 작동합니다. 최신 마인크래프트 버전에서는 봇 생성 방식이 변경되어 모든 봇이 가짜 사용자 이름을 사용합니다",
 
-  "anticheat.ban.warning.message": "안티치트에 의해 다음 사유로 밴될 예정이었습니다: ",
-  "anticheat.ban.title.message": "안티치트에 의해 밴될 예정이었습니다",
+  "anticheat.ban.warning.message": "안티치트에 의해 다음 사유로 밴되었을 것입니다: ",
+  "anticheat.ban.title.message": "안티치트에 의해 밴되었을 것입니다",
 
   "setting.vip.only": "이 설정은 후원으로 이용할 수 있습니다!",
 
@@ -366,8 +366,8 @@
   "command.fly.enabled": "비행 모드가 활성화되었습니다",
   "command.fly.disabled": "비행 모드가 비활성화되었습니다",
 
-  "anticheat.kick.intave-kick": "Intave에 의해 추방되었을 수 있습니다",
-  "anticheat.kick.intave-ban": "Intave에 의해 밴되었을 수 있습니다",
+  "anticheat.kick.intave-kick": "Intave에 의해 추방되었을 것입니다",
+  "anticheat.kick.intave-ban": "Intave에 의해 밴되었을 것입니다",
   
   
   "textureID": "fc1be5f12f45e413eda56f3de94e08d90ede8e339c7b1e8f32797390e9a5f",
