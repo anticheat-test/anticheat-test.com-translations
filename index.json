@@ -109,6 +109,10 @@
     "Czech": {
       "textureID": "c439d7f9c67f32dcbb86b7010b1e14b60de96776a35f61cee982660aacf5264b",
       "credits": ["pipe_sfx"]
+    },
+    "Welsh": {
+      "textureID": "140ad08f7ee1c73bf75660614595c7392caba5529211a9adbe3b5639cb6ad41",
+      "credits": ["anticheat-test"]
     }
   }
 }
