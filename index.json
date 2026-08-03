@@ -1,0 +1,114 @@
+{
+  "languages": [
+    "English",
+    "German",
+    "Turkish",
+    "Italian",
+    "Polish",
+    "Spanish",
+    "Vietnamese",
+    "Hungarian",
+    "Portuguese",
+    "Albanian",
+    "Korean",
+    "Russian",
+    "Catalan",
+    "Indonesian",
+    "Chinese",
+    "French",
+    "Norwegian",
+    "Japanese",
+    "Ukrainian",
+    "Arabic",
+    "Czech"
+  ],
+  "legacy": {
+    "Arabic": "Arabic_1.8.8"
+  },
+  "metadata": {
+    "English": {
+      "textureID": "c439d7f9c67f32dcbb86b7010b1e14b60de96776a35f61cee982660aacf5264b",
+      "credits": ["anticheat-test.com", "demonpvp"]
+    },
+    "German": {
+      "textureID": "5e7899b4806858697e283f084d9173fe487886453774626b24bd8cfecc77b3f",
+      "credits": ["Viremox", "brownie", "linuxdistribution", "Kolotheegg"]
+    },
+    "Turkish": {
+      "textureID": "9852b9aba3482348514c1034d0affe73545c9de679ae4647f99562b5e5f47d09",
+      "credits": ["sudokaan", "Tecnio"]
+    },
+    "Italian": {
+      "textureID": "85ce89223fa42fe06ad65d8d44ca412ae899c831309d68924dfe0d142fdbeea4",
+      "credits": ["Orialeng"]
+    },
+    "Polish": {
+      "textureID": "322d60d5d919792019cf99e4e565034bae02e5484c7171b1c6cb794cfbc870d1",
+      "credits": ["izimen"]
+    },
+    "Spanish": {
+      "textureID": "c2d730b6dda16b584783b63d082a80049b5fa70228aba4ae884c2c1fc0c3a8bc",
+      "credits": ["FuXiiOn", "Upioti", "ImLegiitXD"]
+    },
+    "Vietnamese": {
+      "textureID": "1c8b7c7fb08ab8947812bb9d14da049ed2d51ad8cb932b392c2266b257adc2ac",
+      "credits": ["thuy"]
+    },
+    "Hungarian": {
+      "textureID": "4a9c3c4b6c5031332dd2bfece5e31e999f8deff55474065cc86993d7bdcdbd0",
+      "credits": ["Blitoka33", "jkacsa01"]
+    },
+    "Portuguese": {
+      "textureID": "7a101cc663bbc04304edece68c68d3635bafee846df8e3d327f55f6b64f8fd35",
+      "credits": ["EnhacedMob"]
+    },
+    "Albanian": {
+      "textureID": "c3b83a89d89e53aeddfbf6850fab3a3b52021fa41d734810d19bb925f4bc881b",
+      "credits": ["Hydrogen"]
+    },
+    "Korean": {
+      "textureID": "fc1be5f12f45e413eda56f3de94e08d90ede8e339c7b1e8f32797390e9a5f",
+      "credits": ["chs12345"]
+    },
+    "Russian": {
+      "textureID": "16eafef980d6117dabe8982ac4b4509887e2c4621f6a8fe5c9b735a83d775ad",
+      "credits": ["paradigma1337"]
+    },
+    "Catalan": {
+      "textureID": "629ff19f8e74d4e052982dafe1a916812f6878c3862e995f891e4322e37f93f1",
+      "credits": ["halflin"]
+    },
+    "Indonesian": {
+      "textureID": "cbe63fcaa0203f8046fb96375d079a5c09b4161d0119d7194566e689cab18f68",
+      "credits": ["Jiternos"]
+    },
+    "Chinese": {
+      "textureID": "7f9bc035cdc80f1ab5e1198f29f3ad3fdd2b42d9a69aeb64de990681800b98dc",
+      "credits": ["Loyisa", "xiaohanbao233", "a114mc"]
+    },
+    "French": {
+      "textureID": "6903349fa45bdd87126d9cd3c6c0abba7dbd6f56fb8d78701873a1e7c8ee33cf",
+      "credits": ["ri1_"]
+    },
+    "Norwegian": {
+      "textureID": "fda048bc153b38467e76a3347f38396860a8bc68603931e91f7af58bec57383d",
+      "credits": ["reallysillynikonoko", "lunozol"]
+    },
+    "Japanese": {
+      "textureID": "8043ae9bbfa8b8bbb5c964bbce45fbe79a3ad742be07b56607c68c8e11164",
+      "credits": ["zakocord", "Ambrosial", "matanku"]
+    },
+    "Ukrainian": {
+      "textureID": "28b9f52e36aa5c7caaa1e7f26ea97e28f635e8ac9aef74cec97f465f5a6b51",
+      "credits": ["HeOneZen"]
+    },
+    "Arabic": {
+      "textureID": "4bd403b953ba6e6c8e538d8d68c34ed5e329c6f9eed4a6bc3434b66d3198d044",
+      "credits": ["Webmasters"]
+    },
+    "Czech": {
+      "textureID": "c439d7f9c67f32dcbb86b7010b1e14b60de96776a35f61cee982660aacf5264b",
+      "credits": ["pipe_sfx"]
+    }
+  }
+}
