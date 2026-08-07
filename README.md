@@ -7,6 +7,8 @@
 
 This repository contains language mappings for the [anticheat-test.com](https://anticheat-test.com) server. Contributors can add or update translations by making a pull request.
 
+Translation files use UTF-8 `.properties` files. `English.properties` is the source for the available keys.
+
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
@@ -23,30 +25,41 @@ This repository contains language mappings for the [anticheat-test.com](https://
 
 3. **Choose the base file:**
 
-   Use `English.json` as the template for new translations.
+   Use `English.properties` as the template for new translations.
 
-4. **Create your translation file:**
+4. **Create or update your translation file:**
 
-   Copy `English.json` and rename it to your target language name, e.g., `German.json` for German.
+   Copy `English.properties` and rename it to your target language, for example `German.properties`.
+
+Properties use the following format:
+
+```properties
+scoreboard.ping=Ping
+scoreboard.anticheat=Anticheat
+```
+
+Keep the key on the left unchanged and translate the value on the right.
 
 ## 🛠️ Contributing
 
 We welcome contributions! Please adhere to the following guidelines:
 
-- **Use `English.json` as your base.** To have the all the language keys.
-- **Avoid using translators.** Refrain from using tools like Google Translate. If uncertain about a translation, it's better to leave it unchanged.
-- **Preserve placeholders.** Do not modify placeholders like `%s`; they are essential for string formatting.
-- **Validate your JSON.** Use a [JSON parser](https://jsonformatter.org/json-parser) to ensure your file is correctly formatted.
-- **Update `loader_mappings.json`.** Add your new language to this file to ensure it's deployed to servers.
+- **Use `English.properties` as your base** so the translation contains all current keys.
+- **Keep keys synchronized** with `English.properties`; do not remove or rename keys from the English file.
+- **Preserve placeholders** such as `%s`; they are essential for formatting.
+- **Preserve comments** beginning with `#` or `!`.
+- **Avoid using translators.** If uncertain about a translation, it is better to leave it unchanged.
+- **Update `index.json`** when adding a language or changing its metadata.
 
 ## 🎨 Texture IDs
 
-For texture IDs, we utilize assets from [minecraft-heads.com](https://minecraft-heads.com). If you find a head that represents your language, feel free to include it.
+Texture IDs and translation credits are stored in `index.json`. For texture IDs, we use assets from [minecraft-heads.com](https://minecraft-heads.com).
 
 ## ✅ Checklist before making a pull request
 
-- JSON file is valid and properly formatted.
-- Placeholders like `%s` are intact.
-- `loader_mappings.json` is updated with the new language.
-- No translators are used.
-- The translation file is named correctly (e.g., `French.json` for French).
+- The translation file is valid `.properties` syntax.
+- Keys match `English.properties`.
+- Placeholders such as `%s` are intact.
+- Comments and intended whitespace are preserved.
+- `index.json` is updated when needed.
+- The translation file is named correctly, for example `French.properties`.
