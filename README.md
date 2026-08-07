@@ -47,7 +47,7 @@ We welcome contributions! Please adhere to the following guidelines:
 - **Use `English.properties` as your base** so the translation contains all current keys.
 - **Keep keys synchronized** with `English.properties`; do not remove or rename keys from the English file.
 - **Preserve placeholders** such as `%s`; they are essential for formatting.
-- **Preserve comments** beginning with `#` or `!`.
+- **Preserve comments** beginning with `#`
 - **Avoid using translators.** If uncertain about a translation, it is better to leave it unchanged.
 - **Update `index.json`** when adding a language or changing its metadata.
 
